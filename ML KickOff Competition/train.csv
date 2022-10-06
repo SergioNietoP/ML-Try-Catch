@@ -42,7 +42,6 @@ total_bill,tip,sex,smoker,day,time,size
 15.36,1.64,Male,Yes,Sat,Dinner,2
 14.31,4.0,Female,Yes,Sat,Dinner,2
 23.17,6.5,Male,Yes,Sun,Dinner,4
-7.74,1.44,Male,Yes,Sat,Dinner,2
 3.07,1.0,Female,Yes,Sat,Dinner,1
 18.24,3.76,Male,No,Sat,Dinner,2
 31.71,4.5,Male,No,Sun,Dinner,4
@@ -52,7 +51,6 @@ total_bill,tip,sex,smoker,day,time,size
 19.49,3.51,Male,No,Sun,Dinner,2
 30.14,3.09,Female,Yes,Sat,Dinner,4
 14.78,3.23,Male,No,Sun,Dinner,2
-32.83,1.17,Male,Yes,Sat,Dinner,2
 34.81,5.2,Female,No,Sun,Dinner,4
 12.02,1.97,Male,No,Sat,Dinner,2
 30.06,2.0,Male,Yes,Sat,Dinner,3
@@ -89,7 +87,6 @@ total_bill,tip,sex,smoker,day,time,size
 10.29,2.6,Female,No,Sun,Dinner,2
 28.15,3.0,Male,Yes,Sat,Dinner,5
 24.08,2.92,Female,No,Thur,Lunch,4
-45.35,3.5,Male,Yes,Sun,Dinner,3
 17.31,3.5,Female,No,Sun,Dinner,2
 13.03,2.0,Male,No,Thur,Lunch,2
 40.55,3.0,Male,Yes,Sun,Dinner,2
