@@ -1,0 +1,65 @@
+NombreCaballo,Peso,Edad,Mantilla,Propietario,Preparador,Jinete,Problemas,UltimasActuaciones,Fecha,Hora,Terreno,Distancia,Tipo,Categoría,SentidoHipodromo,Meteorología,LLuvia,Viento,TemperaturaMax,TemperaturaMin,Hipodromo
+PHILIPPO,57,2,4,MALLORCA,T.MARTINS,B. FAYOS,-8,[ Debutante ],20 de noviembre de 2022,11:45,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+PONCE DE LEON (FR),57,2,5,SALVADOR MARQUEZ,B.VALENTI,V. JANACEK,-8,[ Debutante ],20 de noviembre de 2022,11:45,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+EL PATER (IRE),57,2,3,GISPERT,P.OLAVE,J.L. BORREGO,-4,[ Debutante ],20 de noviembre de 2022,11:45,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+BRAGNOSERA (FR),"57,00-56,00",2,2,ZURRAQUIN,B.RAMA,L.FONSECA,,[ Debutante ],20 de noviembre de 2022,11:45,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+BERTIZ (FR),57,2,1,QUINTO REAL,P.OLAVE,C. CADEL,,[ Debutante ],20 de noviembre de 2022,11:45,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SANDRO (IRE),57,2,6,DELMAR,A.SOTO,J.L. MARTINEZ,,[ Debutante ],20 de noviembre de 2022,11:45,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+GRAZALEMA (GB),56,2,2,MEDITERRANEO,G.ARIZKORRETA,J.L. MARTINEZ,,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+NICOLASA (GB),56,2,6,VIGURIA,J.M.OSORIO,B. FAYOS,-4,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+LA PERLA NEGRA (FR),"56,00-55,00",2,4,EDIF,B.RAMA,L.FONSECA,,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+WHITY (IRE),56,2,9,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+AFRODITA,56,2,1,CARAL,J.L.MAROTO,N. DE JULIAN,,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+VADALEW (IRE),56,2,7,ELEVAGE LA REVER...,T.MARTINS,C. CADEL,,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+HEBE,"56,00-55,00",2,3,DUQUE DE ALBURQU...,J.M.OSORIO,V.ALONSO V.,,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+WENDY (FR),56,2,8,YEGUADA AGF,G.ARIZKORRETA,D. FERREIRA,,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+MADRE MIA (IRE),56,2,5,MEDITERRANEO,A.SOTO,V. JANACEK,-4,[ Debutante ],20 de noviembre de 2022,12:20,H - Blando,1600,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+LADY RAZALMA (GB),"54,5",2,12,CENTURION,M&M RACING,J.L. MARTINEZ,,"[01,08,05,05]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+FAITH ROSE,56,2,2,TEN FE,P.OLAVE,B. FAYOS,-3,"[02,07]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+WARRIOR'S REVENGE (GB),56,2,8,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,"[10,03,05,03,03]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SHELBY (FR),56,2,7,MARTUL,J.A.RODRIGUEZ,N. DE JULIAN,,"[06,05,05,06]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+WHITE WINE (IRE),56,2,9,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,"[05,10]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+VITA BARELIERE (FR),"54,5",2,15,JACAL,A.TSERETELI,N.SACCU,-4,[11],20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+XILADO (GB),56,2,11,PAOLO NERI,M&M RACING,B.ESTUPIÑAN,-3,"[08,06]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+WINTON (FR),56,2,10,TIGRES,A.NUÑEZ,D. FERREIRA,(4)(8),"[07,12]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+AMERICANO (FR),56,2,1,ECURIE DES MOUET...,"A.IMAZ,B.",C. CADEL,(4)(5)(8),"[05,04,07,02,04]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SUPERIOR BEAUTY (IRE),"54,5",2,14,JAVIER MALDONADO...,M.ALONSO R.,G.TROLLEY DE PRE...,-8,"[ 01,03 ]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+STARSHADOW (GB),"54,5",2,13,CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,"[05,07,07,05]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+FUOCO GRECO,56,2,4,AHLEM,M&M RACING,Y.RODRIGUEZ,,[11],20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SANCTI PETRI (GB),56,2,6,BERNIE,J.C.CERQUEIRA,V.ALONSO V.,,[03],20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+ROBLON (GB),56,2,5,MARTUL,R.MARTIN V.,J.L. BORREGO,-8,"[03,09,02,NP]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+WALKING TO GLORY (FR),"54,5",2,16,AMAZING TURF,J.A.RODRIGUEZ,C.PEREZ,,"[13,07,05,05,04]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+FORTUNATO (FR),56,2,3,4 C,J.A.RODRIGUEZ,N. GARCIA,(3)(8),"[14,03,08,01,03]",20 de noviembre de 2022,12:55,H - Blando,2000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+AUSTRALIA CAPE (IRE),"63,00-59,00",3,2,MEDITERRANEO,G.ARIZKORRETA,D.SIKOROVÁ,,"[03,01,04,01,02]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+MAITRE YODA (FR),61,4,3,CUADRA A.F.F S.L,F.RODRIGUEZ,B. FAYOS,-8,"[06,01,03,03,03]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+ASTURIAS,"56,00-53,50",4,9,ZUL,C.FERNANDEZ,"STA. BUESA,C.",-3,"[03,02,02,04,03]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SEVERUS (FR),59,3,6,CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,"[04,06,03,05,02]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+ROBAYERA (IRE),"54,5",3,10,EL GENTIO,A.SOTO,J.GELABERT,-8,"[02,04,02,03,11]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+VIKING CITY (FR),"54,00-51,00",3,11,CUADRA A.F.F S.L,F.RODRIGUEZ,C.PEREZ,(3)(8),"[01,03,02,05,04]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+KANE ORE (FR),"59,5",3,5,"ANNUA RACING, S....",J.C.ROSELL,J.L. BORREGO,,"[02,08,07,05,05]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+EMBAT (IRE),"57,5",9,7,LA TOLEDANA,J.L.MAROTO,J.L. MARTINEZ,,"[07,02,04,10,03]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+MONTERREDONDO (GB),"57,00-54,00",4,8,CANARIAS,E.ARGUINZONES,C.HAZEN,-8,"[09,07,04,05,06]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+HADES (IRE),"64,50-61,00",4,1,CARTAGO,A.NUÑEZ,"SRTA. TENA, C.",-8,"[06,01,06,01,01]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+USI DE U,"54,00-53,00",3,12,VALLADOLID,M.J.PEREZ,V.ALONSO V.,,"[09,04,01,05,07]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+MEDICEAN BLUE (GB),60,7,4,TIZIANO,J.L.MAROTO,V. JANACEK,,"[06,02,02,04,02]",20 de noviembre de 2022,13:30,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+EL CANEY (GB),"58,5",4,2,SANTA BARBARA,J.M.OSORIO,B. FAYOS,-8,"[16,04,02,01,05]",20 de noviembre de 2022,14:05,H - Blando,4000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+FINELY TUNED (IRE),"58,5",5,3,ENRIQUE FERNANDE...,J.LOPEZ,G.TROLLEY DE PRE...,(3)(8),"[07,10,04,04,12]",20 de noviembre de 2022,14:05,H - Blando,4000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+THE GAME (FR),"58,5",4,5,CIELO DE MADRID,P.OLAVE,J.L. BORREGO,-5,"[01,03,09,01,05]",20 de noviembre de 2022,14:05,H - Blando,4000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+ORBAYO (IRE),"58,5",6,4,LAS AGUILAS,A.CARRASCO,J.GELABERT,-8,"[02,01,03,07,02]",20 de noviembre de 2022,14:05,H - Blando,4000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+ASTRAL,"58,5",4,1,ATERPE,G.ARIZKORRETA,V. JANACEK,,"[01,06,07,05,03]",20 de noviembre de 2022,14:05,H - Blando,4000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+TRES DE TREBOL (FR),57,4,6,FORRAJES Y CEREA...,D.DIEZ,J.L. MARTINEZ,-8,"[03,01,06,03,04]",20 de noviembre de 2022,14:05,H - Blando,4000,Liso,B,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SOGALINDA,"60,50-59,50",4,5,ZEZINHO,J.C.CERQUEIRA,V.ALONSO V.,-3,"[01,03,01,05,02]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+CHUSQUEZ (GB),56,3,13,TARAMUNDI,E.ARGUINZONES,J.GELABERT,(4)(8),"[09,06,09,16,06]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SOFUNNY (IRE),"59,5",3,9,TRILOGIA,P.OLAVE,B. FAYOS,,"[02,02,03,02,05]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+LA MAL AMADA,"60,50-58,00",5,7,EUROPA,J.C.CERQUEIRA,B.ESTUPIÑAN,(3)(8),"[08,10,03,09,05]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+ATLANTICO (GER),"59,00-55,50",7,10,REAPERTURA,A.TSERETELI,C.HAZEN,,"[05,03,08,07,05]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+CAROLINA WEST,"59,5",4,8,TIZIANO,J.L.MAROTO,V. JANACEK,,"[10,01,02,02,11]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+JERY SMAIH (FR),"58,5",4,11,QUE TENDERETE,E.ARGUINZONES,F.MARTINEZ,(3)(8),"[02,04,04,04,06]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+RUMBERA (FR),"58,5",5,12,COCHETEUX,M.ALVAREZ,N. DE JULIAN,,"[07,05,06,08,03]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+SANS ATTENDRE (FR),"61,5",3,2,IGUELDO,B.MORENO,R.N.VALLE,-3,"[04,07,09,05,06]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+HIGHLAND MARKET (IRE),"63,00-61,50",3,1,ENRIQUE FERNANDE...,J.LOPEZ,L.FONSECA,-5,"[05,07,07,03,03]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+PIU BIRCH (FR),"54,50-51,50",3,15,DELTA,M.A.MARIN,A.MARTINEZ,-8,"[15,09,11,10,04]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+ARETHA,"61,00-58,00",5,3,ARTEMIS,J.LOPEZ,C.PEREZ,,"[NP,04,08,04,01]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+IZAMAL,"56,00-54,50",3,14,YEGUADA ARANJUEZ,J.LOPEZ,N.SACCU,-4,"[09,07,06,09]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+UPSDAWN (GB),"60,5",4,6,DONALFA,M.J.PEREZ,D. FERREIRA,-8,"[14,06,16,03,01]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
+UPSILON (GB),61,4,4,"ANNUA RACING, S....",J.C.ROSELL,J.L. BORREGO,-5,"[04,17,05,03,08]",20 de noviembre de 2022,14:40,H - Blando,2100,Liso,D,0,Parcialmente nublado,0,15,14,7,La Zarzuela
