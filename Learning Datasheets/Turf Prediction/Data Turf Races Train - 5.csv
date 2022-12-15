@@ -554,7 +554,7 @@ Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Prep
 4,FINELY TUNED (IRE),59,5,1 3/4 C,4,"29,7",ENRIQUE FERNANDE...,J.LOPEZ,I.MELGAREJO,(3)(8),"[04,12,06,06,06]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
 5,GO WITH THE WIND (FR),62,5,CABEZA,1,"6,1",NIJINSKY,G.ARIZKORRETA,V. JANACEK,,"[02,01,08,05,01]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
 6,LORDOFTHEHORIZON (FR),59,5,3/4 C,6,"22,5",SANTIAGO,P.OLAVE,C. CADEL,-3,"[09,04,03,04,10]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
-7,CHEVALIER CATHARE (FR),59,6,3/4 C,2,"13,6",RIO CUBAS,D.SARABIA,"SR.SARABIA,D.A.",-8,"[06,05,08,Dclo,01]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
+7,CHEVALIER CATHARE (FR),59,6,3/4 C,2,"13,6",RIO CUBAS,D.SARABIA,"SR.SARABIA,D.A.",-8,"[06,05,08,01]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
 8,GAHERIS (GER),59,4,1 1/2 C,5,"13,1",BERNARDO,R.AVIAL,N. DE JULIAN,-8,"[02,03,03,03,02]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
 9,PHILAU (FR),59,4,CUELLO,7,"2,7",ASOC.SANTIAGO - ...,P.OLAVE,B. FAYOS,-4,"[02,01,01,02,03]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
 10,GLORYTOF (FR),56,3,2 1/4 C,11,"17,1",MEDITERRANEO,A.SOTO,V.SEGUY,-2,"[02,02,97,02,C]",25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,D,0,Parcialmente nublado,0,15,17,La Zarzuela
@@ -652,7 +652,7 @@ Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Prep
 15,LADY CLUNIA,"55,5",2,7 3/4 C,14,"13,4",BRAZACORTA,B.RAMA,F.MARTINEZ,,[ Debutante ],11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,D,0,Soleado,0,7,29,La Zarzuela
 16,SIDNEY,"57,00-56,00",2,4 C,9,"50,8",DELTA,M.A.MARIN,N. GARCIA,,[ Debutante ],11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,D,0,Soleado,0,7,29,La Zarzuela
 1,MAGIC WARRIOR (IRE),57,3,,5,"6,2",SCUDERIA DREAMS ...,M&M RACING,J.GELABERT,,"[04,04,02,02,02]",11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,C,0,Soleado,0,8,33,La Zarzuela
-2,MAAMUR (IRE),58,3,CABEZA,2,"2,7",EL BILLETERO,O.ANAYA,R. RAMOS,-8,"[01,04,01,03,Dclo]",11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,C,0,Soleado,0,8,33,La Zarzuela
+2,MAAMUR (IRE),58,3,CABEZA,2,"2,7",EL BILLETERO,O.ANAYA,R. RAMOS,-8,"[01,04,01,03]",11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,C,0,Soleado,0,8,33,La Zarzuela
 3,SOMETHING,57,3,3/4 C,6,"3,6",MEDITERRANEO,G.ARIZKORRETA,J.L. MARTINEZ,-3,"[02,01,01,02,08]",11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,C,0,Soleado,0,8,33,La Zarzuela
 4,BRAVO,57,3,1 C,3,"6,3",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,"[03,04,01,01,02]",11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,C,0,Soleado,0,8,33,La Zarzuela
 5,COLOSAL (IRE),57,3,1 1/2 C,4,"23,1",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,,"[05,02,05,06,01]",11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,C,0,Soleado,0,8,33,La Zarzuela
