@@ -1,0 +1,33 @@
+NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+TELEMACHUS (GB)(10.000),58,3,0,1,0,ZACARIAS SARMIENTO LOVELL,O. ANAYA,R.N. VALLE,,22 de diciembre de 2022,16:00,H - Bueno,1300,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+INCREDIT (GB)(10.000),"57,5",3,0,3,0,MARQUES DE MIRAFLORES,CH. DELCHER,"J. ZAMBUDIO (56,5)",,22 de diciembre de 2022,16:00,H - Bueno,1300,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+AIFOS (6.000),56,3,0,5,0,NEO,A.SOTO,B. FAYOS,(2)(4),22 de diciembre de 2022,16:00,H - Bueno,1300,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+VINCERO (GB)(6.000),56,3,0,6,0,YEGUADA AGF,G. ARIZKORRETA,"A. MARTINEZ (52,5)",-8,22 de diciembre de 2022,16:00,H - Bueno,1300,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+KRYPTON (10.000),"56,5",3,0,4,0,NOSSA SENHORA DO VALE,H. PEREIRA,J. GELABERT,-3,22 de diciembre de 2022,16:00,H - Bueno,1300,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+HALAGADA (10.000),"57,5",3,0,2,0,TIFLISI,A. TSERETELI,C. HAZEN (54),(5)(8),22 de diciembre de 2022,16:00,H - Bueno,1300,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+SOPHIE'S WATCH (GB),"54,5",2,0,6,0,MEDINA DIAZ,O. ANAYA,R.N. VALLE,-8,22 de diciembre de 2022,16:30,H - Bueno,1500,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+MORE LATE,"54,5",2,0,4,0,BUENA ELQUI,P. ITURREGUI,M.E. FERNANDEZ,-8,22 de diciembre de 2022,16:30,H - Bueno,1500,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+NOOZHAH SUREÑA,"54,5",2,0,5,0,SUREÑA,J.A. RODRIGUEZ,"J. ZAMBUDIO (53,5)",,22 de diciembre de 2022,16:30,H - Bueno,1500,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+LOVE FIFTEEN (GB),"56,5",2,0,1,0,SARMIENTO Y DAVID,O. ANAYA,C. HAZEN (54),-8,22 de diciembre de 2022,16:30,H - Bueno,1500,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+REBELLIOUS SPIRIT (IRE),56,2,0,3,0,DIAZ RAMOS,O. ANAYA,J. GELABERT,,22 de diciembre de 2022,16:30,H - Bueno,1500,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+MAX MAGICAL (IRE),56,2,0,2,0,NEW BEGINNINGS,F. JIMENEZ,B. FAYOS,-8,22 de diciembre de 2022,16:30,H - Bueno,1500,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+NEW JACK SWING (IRE),58,5,0,4,0,REZA PAZOOKI,O. ANAYA,R.N. VALLE,,22 de diciembre de 2022,17:00,H - Bueno,1400,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+WHAT'S UP (FR),62,4,0,2,0,MARQUES DE MIRAFLORES,CH. DELCHER,J. ZAMBUDIO (61),-3,22 de diciembre de 2022,17:00,H - Bueno,1400,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+FAR AWAY THOUGHTS (GB),54,3,0,5,0,SARMIENTO Y DAVID,O. ANAYA,C. PEREZ (51),,22 de diciembre de 2022,17:00,H - Bueno,1400,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+GIRON (IRE),54,5,0,6,0,JOLAM,M.J. GOMEZ,V. ALONSO V.(53),(3)(8),22 de diciembre de 2022,17:00,H - Bueno,1400,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+CONSPIRACY (GB),60,4,0,3,0,PATRIZIA ROSSANA TESTA,M & M RACING,B. ESTUPIÑAN (57),-8,22 de diciembre de 2022,17:00,H - Bueno,1400,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+ASTIMEGOESBY (IRE),64,4,0,1,0,ISLA DE FUERTEVENTURA,O. ANAYA,C. HAZEN (60),(2)(8),22 de diciembre de 2022,17:00,H - Bueno,1400,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+DROVER (GB),62,7,0,4,0,PATRIZIA ROSSANA TESTA,M & M RACING,"B. ESTUPIÑAN (59,5)",(2)(3)(8),22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+BALLET STAR,63,4,0,1,0,HEREDADE GOMES,O. ANAYA,R. RAMOS,,22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+DIMANCHE DE MAI (FR),52,7,0,9,0,DA INVICTA,M. SANTOS,J. ZAMBUDIO (51)(G.ROJA),(5)(8),22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+GOLD BEACH (GB),63,3,0,2,0,DA INVICTA,M. SANTOS,N. DE JULIAN,(3)(8),22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+AS DE OROS (FR),61,5,0,5,0,SUREÑA,J.A. RODRIGUEZ,L. CASTILLON (57),(5)(8),22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+NA RUA (POR),52,5,0,10,0,ESPECTACULO,H. PEREIRA,V. ALONSO V.(51),-3,22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+ALPHABETIC (GB),61,3,0,6,0,YEGUADA LA DONNA,T. CALLEJO,J. GELABERT,,22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+SANBLASS,"58,5",4,0,7,0,BUENA ELQUI,P. ITURREGUI,B. FAYOS,,22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+ARGELLIE,"62,5",3,0,3,0,MARQUES DE MIRAFLORES,CH. DELCHER,C. HAZEN (59),,22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+WAILEA NIGHTS (IRE),"54,5",5,0,8,0,RAFA RODRIGUES,G. VAZ,R.N. VALLE,,22 de diciembre de 2022,17:30,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+HARRISON POINT (FR),63,5,0,1,0,TINERFE,O. ANAYA,R. RAMOS,,22 de diciembre de 2022,18:00,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+PEAKY BLINDERS,57,4,0,3,0,ANAIAK,O. ANAYA,R.N. VALLE,-8,22 de diciembre de 2022,18:00,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+CHAM'S PRIDE (IRE),55,3,0,4,0,RIO CUBAS,J. HORCAJADA,J. ZAMBUDIO (54),,22 de diciembre de 2022,18:00,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
+BARBADO,59,4,0,2,0,WONDERLAND,O. ANAYA,"C. HAZEN (55,5)",-8,22 de diciembre de 2022,18:00,H - Bueno,1900,Liso,0,Parcialmente nublado,0,24,9,Dos Hermanas
