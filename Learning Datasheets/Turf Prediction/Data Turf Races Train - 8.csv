@@ -1,0 +1,996 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,SAFAGA,57,2,,6,"1,9",ASOC.LA TOLEDANA...,CH.DELCHER,G.GUEDJ-GAY,,13 de noviembre de 2022,11:45,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+2,ROCK MOON,57,2,1 1/2 C,5,"5,9",MEDREAL,G.ARIZKORRETA,V. JANACEK,,13 de noviembre de 2022,11:45,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+3,ISOLDA,57,2,1 1/4 C,3,"2,5",EL HERROJO,J.M.OSORIO,J.GELABERT,,13 de noviembre de 2022,11:45,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+4,LADY CLUNIA,57,2,10 C,4,"15,3",BRAZACORTA,B.RAMA,B. FAYOS,-8,13 de noviembre de 2022,11:45,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+5,DE FIESTA (IRE) (a),57,2,1 1/2 C,2,"18,1",REZA PAZOOKI,O.ANAYA,R.N.VALLE,-8,13 de noviembre de 2022,11:45,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+6,ALERTA ROJA,57,2,LEJOS,1,"40,5",LAC INTERNACIONA...,A.SOTO,C. CADEL,-3,13 de noviembre de 2022,11:45,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+1,BAILEN,57,2,,3,"2,6",LEONESA,J.LOPEZ,J.GELABERT,,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+2,ARAKA LA KANA,57,2,1 1/4 C,2,"5,6",ODISEA,J.LOPEZ,C.PEREZ,-3,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+3,WITIZA,57,2,1/2 C,9,"9,6",LAC INTERNACIONA...,J.LOPEZ,B. FAYOS,-3,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+4,PERILLAN,57,2,9 C,7,"9,8",E. PEREZ GUZMAN,J.A.RODRIGUEZ,R.N.VALLE,-8,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+5,MOM CHERIE (FR) (a),57,2,1 3/4 C,6,"11,3",NEW BEGINNINGS,F.JIMENEZ,V. JANACEK,-8,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+6,BLUE MOON EYES,57,2,2 1/4 C,4,"13,2",4 C,J.A.RODRIGUEZ,N. DE JULIAN,,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+7,CLIFFORD,57,2,1 1/4 C,5,4,PLANTAGENET,G.ARIZKORRETA,J.L. MARTINEZ,,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+8,TRAPIO,57,2,2 3/4 C,8,"15,8",RUSH RACING,M&M RACING,V.ALONSO V.,,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+97,AMAZING COOL,57,2,,1,0,AMAZING TURF,J.A.RODRIGUEZ,J.L. BORREGO,-8,13 de noviembre de 2022,12:20,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,15,La Zarzuela
+1,CANARION (IRE),56,2,,3,"2,1",EL BILLETERO,O.ANAYA,V. JANACEK,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+2,MADERAS (GB),56,2,5 1/4 C,4,"3,3",SAN DIEGO,G.ARIZKORRETA,J.L. MARTINEZ,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+3,SIXTEEN TONS (FR),"54,5",2,5 1/2 C,10,"9,4",REZA PAZOOKI,O.ANAYA,R.N.VALLE,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+4,ATLANTIC NORTH (IRE),56,2,1 1/4 C,1,"10,7","ANNUA RACING, S....",J.C.ROSELL,J.L. BORREGO,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+5,GLOBALIZATION (IRE),"54,5",2,1 3/4 C,8,"9,7",MARTEL SANCHEZ,B.RAMA,J.GELABERT,(4)(8),13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+6,FREE JAZZ (GB),"54,50-52,00",2,3/4 C,7,"24,3",BERNIE,J.LOPEZ,C.PEREZ,-3,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+7,URABA (FR),"54,50-53,50",2,6 C,11,"26,3",COCHETEUX,M.ALVAREZ,V.ALONSO V.,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+8,QUISQUILLA (IRE),"54,50-53,50",2,3 1/4 C,9,"41,7",CUADRA A.F.F S.L,F.RODRIGUEZ,N. GARCIA,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+9,SIDNEY,"56,00-56,50",2,16 1/2 C,5,23,DELTA,M.A.MARIN,B. FAYOS,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+10,BRAVE TOWN,56,2,LEJOS,2,"49,3",CANARIAS,E.ARGUINZONES,F.MARTINEZ,-8,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+97,BOPPER,"54,5",2,,6,0,BOLAK,M&M RACING,B.ESTUPIÑAN,,13 de noviembre de 2022,12:55,H - Blando,1500,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+1,VALE (GB),57,8,,11,"11,4",BOLAK,M&M RACING,J.L. MARTINEZ,(2)(5)(8),13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+2,BIG MACK,"57,5",5,1 1/4 C,10,"10,4",INCITATUS RACING,M&M RACING,J.L. BORREGO,,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+3,AARASH,"58,50-55,50",4,3/4 C,7,"19,2",REZA PAZOOKI,O.ANAYA,C.PEREZ,,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+4,ELAMIRR (IRE),"60,00-57,50",6,1/4 C,4,"48,7",UMAMI,M&M RACING,B.ESTUPIÑAN,-8,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+5,GRAN BELGA (GB),58,3,1 1/2 C,8,"14,8",EL RETORNO,F.JIMENEZ,R.N.VALLE,-8,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+6,DUTCH KIKI (GB),"56,5",4,2 C,12,7,PETIT CANTER,A.TSERETELI,J.GELABERT,,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+7,ARENAL (IRE),"63,00-60,50",6,3/4 C,1,"32,4",FEROZ,P.OLAVE,A.OLIVAS,-3,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+8,MAX'S THUNDER (IRE),"60,50-58,00",5,1 C,2,"24,5",ZUL,C.FERNANDEZ,"STA. BUESA,C.",-3,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+9,MONTERREDONDO (GB),"57,50-54,00",4,4 C,9,43,CANARIAS,E.ARGUINZONES,C.HAZEN,(3)(8),13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+10,TIHANNA (IRE) (a),59,7,2 3/4 C,5,"4,5",CUADRA A.F.F S.L,F.RODRIGUEZ,B. FAYOS,,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+11,SPANISH COLT (IRE),"60,5",4,1 C,3,"2,4",BRAZACORTA,B.RAMA,V. JANACEK,-3,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+12,RAMIRIQUI (FR),"58,5",5,CUELLO,6,"20,2",CUADRA A.F.F S.L,F.RODRIGUEZ,C. CADEL,-5,13 de noviembre de 2022,13:30,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,16.5,La Zarzuela
+1,RODABALLO (GB),60,5,,5,"1,9",PATA NEGRA RACIN...,G.ARIZKORRETA,J.L. MARTINEZ,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+2,RAIKU (FR),60,4,1 1/2 C,3,"15,1",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+3,RESACON (GB),60,6,3/4 C,4,"10,7",FORMENTOR,J.M.OSORIO,B. FAYOS,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+4,SPEAK IN COLOURS (GB),60,7,1/2 C,8,"7,5",RIO CUBAS,J.HORCAJADA,J.L. BORREGO,-8,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+5,SMASH HIT (GB),60,4,CABEZA,7,"14,1",ISLA DE FUERTEVE...,J.C.CERQUEIRA,O. PESLIER,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+6,NATURAL PATH (IRE),60,5,1/2 C,1,12,ISLA DE FUERTEVE...,O.ANAYA,R. RAMOS,-8,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+7,UPA LOLA,"58,5",4,CUELLO,12,"13,9",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+8,KENDAYA (IRE),"58,5",4,4 C,11,"48,9",AGRADO,CH.DELCHER,G.GUEDJ-GAY,-3,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+9,POWERFUL SOLE (GB),60,6,NARIZ,2,"29,3",TINERFE,O.ANAYA,R.N.VALLE,-8,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+10,MAGIC WARRIOR (IRE),"59,5",3,4 1/4 C,9,"46,8",SCUDERIA DREAMS ...,M&M RACING,F. VERON,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+11,SIMPLY STRIKING (FR),60,6,16 1/2 C,6,"8,9",MEDITERRANEO,M.DELCHER S.,P.BAZIRE,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+12,GUERREIRA (IRE),"58,5",5,16 1/4 C,10,"36,1",NOSSA SENHORA DO...,H.PEREIRA,C. CADEL,,13 de noviembre de 2022,14:05,H - Blando,1400,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+1,SOGALINDA,"55,00-54,00",4,,15,"5,1",ZEZINHO,J.C.CERQUEIRA,V.ALONSO V.,-3,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+2,DROVER (GB),"57,00-54,50",7,2 C,10,"18,1",PATRIZIA ROSSANA...,M&M RACING,B.ESTUPIÑAN,(2)(3)(8),13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+3,BELLETTI (GB),"60,50-58,00",4,1 C,6,"15,4",MANU POLO,B.MORENO,"STA. BUESA,C.",(3)(8),13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+4,SPANISH CAMELOT (IRE),57,3,1 3/4 C,11,38,YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,-8,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+5,ATLANTICO (GER),"57,5",7,CABEZA,9,"3,8",REAPERTURA,A.TSERETELI,V. JANACEK,,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+6,EINAR (IRE),"63,00-60,00",6,1 C,1,"7,7",BERNIE,J.LOPEZ,C.PEREZ,-5,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+7,PIRLO,"55,5",4,3 3/4 C,14,"10,9",HACIENDA DEL MON...,C.FERNANDEZ,J.L. BORREGO,-8,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+8,LA MAL AMADA,59,5,1/4 C,8,"41,2",EUROPA,J.C.CERQUEIRA,N. DE JULIAN,-8,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+9,NAYMA,"52,00-53,00",3,1/4 C,18,"84,1",BOLAK,J.C.CERQUEIRA,D. FERREIRA,-4,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+10,ROBLE (GB) (a),"62,5",5,10 1/4 C,2,"9,7",OLEOVID,A.CARRASCO,B. FAYOS,,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+11,PADERNO (FR),62,3,1 3/4 C,3,"31,3",CUADRA A.F.F S.L,F.RODRIGUEZ,C. CADEL,-5,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+12,NAYADE (GB),"61,5",5,4 1/4 C,4,"33,3",COSTA LA VALL,R.COSTA,R. RAMOS,-8,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+13,CHAM'S DREAM (IRE),"60,00-57,50",3,5 1/4 C,7,"14,4",CHAMARTIN,J.HORCAJADA,N.SACCU,,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+14,FIRST CROWD (GB),"61,5",3,CUELLO,5,28,ZURRAQUIN,B.RAMA,J.GELABERT,-4,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+15,PIU BIRCH (FR),"53,50-51,00",3,3/4 C,17,"76,6",DELTA,M.A.MARIN,A.MARTINEZ,,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+16,IZASKUN (FR),"56,5",3,2 3/4 C,13,"14,8",VIRGINIA WATERS,J.L.MAROTO,G.GUEDJ-GAY,-5,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+17,BRIAREO (IRE) (a),"54,00-52,00",5,3 1/4 C,16,78,MP RACING,M.PULIDO,Y.RODRIGUEZ,-8,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+18,KWA HERI,"56,50-53,00",3,LEJOS,12,36,CELSO MENDEZ,M.ALVAREZ,L.CASTILLON,,13 de noviembre de 2022,14:40,H - Blando,1800,Liso,0,Parcialmente nublado,0,6,17.5,La Zarzuela
+1,CASANDRA (FR),"55,5",2,,5,"2,3",MEDITERRANEO,A.SOTO,R. SOUSA,(4)(8),6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+2,HELHEIM (FR),"55,50-53,50",2,3 1/4 C,6,"17,3",MARQUES DE MIRAF...,CH.DELCHER,"STA. BUESA,C.",,6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+3,AL BARIN (IRE),59,2,2 C,1,"4,9",CELSO MENDEZ,J.LOPEZ,J.GELABERT,,6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+4,PAPYRUS ROAD (FR),"57,5",2,NARIZ,2,"9,7",ECURIE DES MOUET...,"A.IMAZ,B.",C. CADEL,-8,6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+5,BLUE MOON EYES,56,2,2 1/2 C,4,"11,4",4 C,J.A.RODRIGUEZ,B. FAYOS,,6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+6,HARVAC,"52,00-53,00",2,3/4 C,7,"20,5",BOLAK,J.C.CERQUEIRA,D. FERREIRA,,6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+7,MARY JOE (GB),"52,00-51,00",2,2 C,9,"15,3",MADRIZ,G.ARIZKORRETA,A.MARTINEZ,(4)(8),6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+8,NOOZHAH SUREÑA,"52,00-51,00",2,3 1/2 C,8,"41,8",SUREÑA,J.A.RODRIGUEZ,N. GARCIA,,6 de noviembre de 2022,11:45,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+9,ASTUTO (FR),"56,5",2,LEJOS,3,"4,3",E. PEREZ GUZMAN,J.A.RODRIGUEZ,V. JANACEK,,6 de noviembre de 2022,11:45,H - Bueno,1400,,0,Despejado,0,5,16.5,La Zarzuela
+1,ATLANTA (FR),"59,00-55,00",3,,3,"8,4",CARAL,J.L.MAROTO,L.CASTILLON,,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+2,PEKEN (FR),"57,5",3,1 1/2 C,9,"2,5",CUADRA A.F.F S.L,F.RODRIGUEZ,B. FAYOS,-5,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+3,VEGADEO,"59,00-57,50",3,3/4 C,4,"40,2",SOÑADOR,B.RAMA,L.FONSECA,-5,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+4,BORONDON (FR),"56,5",3,1/2 C,10,21,SAN MARCOS,F.PEREZ,D. FERREIRA,,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+5,COOLMEEN VEGA (IRE),"61,00-57,00",3,1/2 C,2,"16,5",SAYAGO,G.ARIZKORRETA,D.SIKOROVÁ,,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+6,CAT HACLYSME (FR),56,3,CUELLO,11,"7,6",ANAIAK,O.ANAYA,R. SOUSA,-8,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+7,FAMILY TRIP (FR),"58,00-55,00",3,1/2 C,8,"9,7",BELEN,A.SOTO,C.PEREZ,-8,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+8,LADY MCQUEEN (IRE),"58,5",3,1 3/4 C,7,"5,3",HERMANOS ABOIN,A.CARRASCO,V. JANACEK,,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+9,COLOSAL (IRE),59,3,2 C,6,"11,7",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+10,INCREDIT (GB),"61,00-58,50",3,5 1/2 C,1,18,MARQUES DE MIRAF...,CH.DELCHER,"STA. BUESA,C.",,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+11,PREMIERE RHAPSODIE (FR),"59,00-56,50",3,2 3/4 C,5,"25,5","ROISAJU LOPEZ, S...",P.OLAVE,A.OLIVAS,,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+97,AVE MUNDI,"53,00-53,50",3,,12,0,EL PLACAJE,F.JIMENEZ,N. DE JULIAN,-8,6 de noviembre de 2022,12:20,H - Bueno,1400,Liso,0,Despejado,0,5,16.5,La Zarzuela
+1,PERFECT SUNRISE (FR),"60,5",4,,6,"5,9",EVANS MARCH,J.HORCAJADA,B. FAYOS,-8,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+2,BARBADO,"59,5",4,NARIZ,8,"18,2",WONDERLAND,O.ANAYA,R. RAMOS,-8,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+3,SOMETHING,61,3,1 C,3,"4,1",MEDITERRANEO,G.ARIZKORRETA,J.L. MARTINEZ,-3,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+4,DERDAS (GB),53,5,1 C,11,"25,6",VALLADOLID,G.ARIZKORRETA,D. FERREIRA,(5)(8),6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+5,DAIQUIRYA,52,3,2 1/4 C,13,"13,6",AJEDREZ RACING,B.RAMA,C.PEREZ,(2)(4)(8),6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+6,KOHOOF (GB),52,5,1/2 C,12,"25,1",NEW BEGINNINGS,F.JIMENEZ,N. GARCIA,(2)(4)(8),6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+7,ALBORAN (FR),60,5,1/2 C,7,"13,7",IGUELDO,B.MORENO,J.GELABERT,-8,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+8,BRAVO,"60,5",3,1/2 C,5,"5,5",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+9,NEW JACK SWING (IRE),59,5,2 C,9,"36,3",REZA PAZOOKI,O.ANAYA,A.OLIVAS,,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+10,TUNANTE,57,4,1 1/2 C,10,"18,9",E. PEREZ GUZMAN,J.A.RODRIGUEZ,N. DE JULIAN,-8,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+11,FINTAS (GB),"61,5",6,1/2 C,2,8,MARQUES DE MIRAF...,CH.DELCHER,C. CADEL,-8,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+12,ALNASHERAT (GB),63,6,3/4 C,1,"7,8",IRU,O.ANAYA,R. SOUSA,,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+13,ASTIMEGOESBY (IRE),61,4,3 3/4 C,4,"23,5",ISLA DE FUERTEVE...,O.ANAYA,R.N.VALLE,-2,6 de noviembre de 2022,12:55,H - Bueno,1100,Liso,0,Despejado,0,5,17.5,La Zarzuela
+1,RUGBY INDUS (FR),61,5,,4,"10,6",COCHETEUX,F.RODRIGUEZ,B. FAYOS,-5,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+2,TESSICO (GB),52,3,1/4 C,12,"7,7",CASTILLA,A.SOTO,C.PEREZ,-8,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+3,SMASH HIT (GB),63,4,2 C,1,"3,6",ISLA DE FUERTEVE...,J.C.CERQUEIRA,V. JANACEK,,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+4,ADAAYLIGHT DANCER (IRE),"55,5",4,CUELLO,10,"17,2",MAD MEN,G.ARIZKORRETA,N.SACCU,,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+5,WHAT'S UP (FR),"59,5",4,3/4 C,6,"19,1",MARQUES DE MIRAF...,CH.DELCHER,N. DE JULIAN,-3,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+6,BAADIRR (GB),"59,5",5,1 C,7,"11,2",ENRIQUE FERNANDE...,J.LOPEZ,J.GELABERT,(5)(8),6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+7,SALLAB (IRE),"61,5",7,2 3/4 C,3,"13,8",TINERFE,O.ANAYA,R. SOUSA,-2,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+8,VETONA (IRE) (a),60,6,NARIZ,5,"18,4",HERMANOS ABOIN,A.CARRASCO,J.L. BORREGO,(4)(8),6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+9,TIHANNA (IRE) (a),"55,5",7,1 3/4 C,11,"9,9",CUADRA A.F.F S.L,F.RODRIGUEZ,C. CADEL,,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+10,SINCELEJO (FR),"59,5",4,3 1/4 C,8,"15,6",COCHETEUX,M.ALVAREZ,R.N.VALLE,,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+11,CORPS DES PAGES (IRE),62,4,1 1/4 C,2,14,ZACARIAS SARMIEN...,O.ANAYA,R. RAMOS,-8,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+12,GLORYTOF (FR),58,3,3 1/4 C,9,"5,4",MEDITERRANEO,A.SOTO,J.L. MARTINEZ,-2,6 de noviembre de 2022,13:30,H - Bueno,1600,Liso,0,Despejado,0,5,17.5,La Zarzuela
+1,IL DECAMERONE (FR),58,6,,1,2,REZA PAZOOKI,O.ANAYA,R. SOUSA,-8,6 de noviembre de 2022,14:05,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+2,MEDIA STORM (GB),58,5,1/4 C,2,"4,5",BEST HORSE,G.VAZ,V. JANACEK,,6 de noviembre de 2022,14:05,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+3,MARACAY,"56,5",4,2 1/4 C,5,"4,3",TOLEDO,A.NUÑEZ,B. FAYOS,,6 de noviembre de 2022,14:05,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+4,SIR ROQUE (FR) (a),58,6,1 C,3,"7,3",PEQUES,G.ARIZKORRETA,J.GELABERT,-3,6 de noviembre de 2022,14:05,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+5,TARANTELA (FR),"56,5",5,1 1/4 C,6,"11,7",YEGUADA AGF,G.ARIZKORRETA,J.L. MARTINEZ,,6 de noviembre de 2022,14:05,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+6,ALABAMA (FR),"56,5",3,10 1/2 C,4,"12,4",AGRADO,R.MARTIN A.,J.L. BORREGO,-4,6 de noviembre de 2022,14:05,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+1,BABY GROOM,"65,5",4,,4,"2,9",BREEDING HORSE,G.VAZ,"SRTA.GIAVARINI,S...",-3,6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+2,COLIBRI (IRE),66,8,1 1/2 C,2,"4,9",BARRA SUR,F.JIMENEZ,"SRTA.BROTHERTON,...",,6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+3,ASTURIAS,"65,5",4,9 C,3,"2,6",ZUL,C.FERNANDEZ,"STA. BUESA,C.",-3,6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+4,UPSILON (GB),"61,5",4,1 1/4 C,5,"14,5","ANNUA RACING, S....",J.C.ROSELL,"SRTA. LOPEZ, D.",-5,6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+5,SANBLASS,"58,5",4,3 C,8,11,BUELNA EQUII,P. ITURREGUI,"SRTA. TENA, C.",,6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+6,ANAZ (GB),"66,00-65,00",4,1/2 C,1,"19,7",OLIVARES,E.ARGUINZONES,SRTA BALCONES T....,(2)(5)(8),6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+7,TE KOOP (GB),59,7,2 1/2 C,7,"9,4",LEONESA,J.LOPEZ,"SRTA RELAÑO,R.",(2)(5),6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+97,ARETHA,"60,5",5,,6,0,ARTEMIS,J.LOPEZ,"SRTA ASPERILLA, ...",,6 de noviembre de 2022,14:40,H - Bueno,2000,Liso,0,Despejado,0,5,18.5,La Zarzuela
+1,ISOLDA,"55,5",2,,7,12,EL HERROJO,J.M.OSORIO,J.GELABERT,,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+2,PRIAPO (FR),57,2,1 C,5,"11,1",DUQUE DE ALBURQU...,J.M.OSORIO,B. FAYOS,8,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+3,SANCTI PETRI (GB),57,2,5 1/2 C,6,"5,8",BERNIE,J.C.CERQUEIRA,R.N.VALLE,8,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+4,ATLANTIC NORTH (IRE),"57,00-56,00",2,1/4 C,1,"7,1","ANNUA RACING, S....",J.C.ROSELL,J.ZAMBUDIO,,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+5,BRIGADOON (FR),57,2,1 3/4 C,3,"3,8",RUSH RACING,P.OLAVE,J.L. BORREGO,,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+6,MORE LATE,"55,50-53,00",2,2 C,8,"14,1",BUELNA EQUII,P. ITURREGUI,C.PEREZ,8,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+7,BEL EVENT (FR),57,2,8 1/2 C,2,"7,7",EL REMO,G.ARIZKORRETA,R. SOUSA,,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+8,CLASSIC RILEY (GER),57,2,4 C,4,"3,4",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,30 de octubre de 2022,11:30,H-Bueno,1600,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+1,BIG MACK,63,5,,1,"23,2",INCITATUS RACING,M&M RACING,B. FAYOS,,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+2,DABESPIR (FR),60,4,1 1/4 C,7,"3,4",SOÑADOR,B.RAMA,R. SOUSA,(3)(8),30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+3,ATLANTICO (GER),"58,50-55,00",7,1 1/2 C,11,"21,1",REAPERTURA,A.TSERETELI,C.HAZEN,,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+4,AMIL (FR),62,3,NARIZ,3,"6,2",JULIAN VIEITEZ,E.ARGUINZONES,V. JANACEK,(5)(8),30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+5,LIGHTNINGSUN,"55,50-52,50",4,2 1/4 C,16,"11,7",YEGUADA VALMODOM...,D.BENITEZ,C.PEREZ,8,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+6,VELETA,"58,50-55,50",5,1 3/4 C,12,33,POPURRI,M.J.PEREZ,A.MARTINEZ,(5)(8),30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+7,NATURAL TALENT,60,4,3/4 C,6,"14,9",4 C,A.SANCHEZ C.,D. FERREIRA,3,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+8,VINCERO (GB),"61,00-57,00",3,1 3/4 C,5,"22,3",YEGUADA AGF,G.ARIZKORRETA,D.SIKOROVÁ,,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+9,VEGADEO,"63,00-60,50",3,1/2 C,2,"15,8",SOÑADOR,B.RAMA,N.SACCU,5,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+10,CONSPIRACY (GB),"59,50-57,00",4,8 1/2 C,9,"15,8",PATRIZIA ROSSANA...,M&M RACING,B.ESTUPIÑAN,8,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+11,MACHU PICCHU,"59,00-58,00",4,1/4 C,10,"18,6",AMAZING TURF,J.A.RODRIGUEZ,N. GARCIA,,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+12,BRIAREO (IRE) (a),"56,5",5,1 3/4 C,14,"36,2",MP RACING,M.PULIDO,N. DE JULIAN,8,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+13,HALAGADA,"57,5",3,1/2 C,13,11,TIFLISI,A.TSERETELI,J.GELABERT,8,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+14,UPSDAWN (GB),"61,50-59,00",4,1 3/4 C,4,"13,9",DONALFA,M.J.PEREZ,"STA. BUESA,C.",(5)(8),30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+15,MANIOKA (FR),60,4,2 C,8,"20,3",EVANS MARCH,J.HORCAJADA,R.N.VALLE,8,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+16,HANNA,"55,00-54,00",5,2 3/4 C,17,"17,4",MERYDEIS,J.C.ROSELL,J.ZAMBUDIO,,30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+97,YESWECAN BARELIERE (FR),56,3,,15,0,OLEOVID,A.CARRASCO,F.MARTINEZ,(4)(8),30 de octubre de 2022,12:05,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,18,La Zarzuela
+1,LADY RAZALMA (GB),"54,5",2,,12,"16,4",CENTURION,M&M RACING,J.L. MARTINEZ,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+2,FAITH ROSE,56,2,1/2 C,2,"17,9",TEN FE,P.OLAVE,C. CADEL,3,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+3,ROBLON (GB),56,2,4 C,5,"10,1",MARTUL,R.MARTIN V.,J.L. BORREGO,8,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+4,PINSAPO (IRE),56,2,1 1/2 C,4,"6,2",MEDITERRANEO,G.ARIZKORRETA,R. SOUSA,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+5,STARSHADOW (GB),"54,5",2,1/2 C,13,"11,8",CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+6,SHELBY (FR),"56,00-55,00",2,3 1/4 C,6,"12,7",MARTUL,J.A.RODRIGUEZ,N. GARCIA,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+7,WINTON (FR),56,2,1/2 C,8,"32,2",TIGRES,A.NUÑEZ,D. FERREIRA,(4)(8),30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+8,XILADO (GB),"56,00-54,00",2,2 3/4 C,9,"37,1",PAOLO NERI,M&M RACING,B.ESTUPIÑAN,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+9,UMBRA (FR),"54,5",2,1 1/4 C,14,13,COCHETEUX,M.ALVAREZ,N. DE JULIAN,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+10,WARRIOR'S REVENGE (GB),56,2,3 1/2 C,7,"3,6",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+11,AURORITA (FR),"54,50-52,00",2,1 3/4 C,11,36,RAPIER,B.VALENTI,A.MARTINEZ,(2)(8),30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+12,ATREVIDA (FR),"54,50-52,00",2,6 1/2 C,10,"28,7",E. PEREZ GUZMAN,J.A.RODRIGUEZ,C.PEREZ,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+13,WALKING TO GLORY (FR),"54,50-53,00",2,14 1/2 C,15,"30,6",AMAZING TURF,J.A.RODRIGUEZ,L.CASTILLON,8,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+14,FORTUNATO (FR),"57,5",2,1 1/4 C,1,"4,9",4 C,J.A.RODRIGUEZ,J.GELABERT,8,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+97,FLAMING GLASS,"56,00-55,00",2,,3,0,ARCO,A.SOTO,J.ZAMBUDIO,,30 de octubre de 2022,12:40,H-Bueno,1800,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+1,CHARMING LOOK (GB),"60,5",4,,3,"6,5",REZA PAZOOKI,O.ANAYA,R. SOUSA,8,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+2,COSTA ESMERALDA (FR),"54,50-54,00",8,3/4 C,11,"11,4",JACOPO TELLINI,M&M RACING,B.ESTUPIÑAN,,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+3,FIJI GOLD (GB),"58,5",3,NARIZ,5,"11,9",SOÑADOR,B.RAMA,B. FAYOS,3,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+4,BABA KARAM,"63,00-60,50",5,1 1/4 C,1,"12,3",REZA PAZOOKI,O.ANAYA,N.SACCU,,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+5,TALES (GB) (a),"55,00-55,50",5,3/4 C,8,"9,8",CANARIAS,E.ARGUINZONES,V. JANACEK,(5)(8),30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+6,VALE (GB),57,8,NARIZ,6,"7,7",BOLAK,M&M RACING,J.L. MARTINEZ,(2)(5)(8),30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+7,EINAR (IRE),"55,50-52,50",6,CUELLO,7,"7,6",BERNIE,J.LOPEZ,C.PEREZ,5,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+8,PEAKY BLINDERS,"61,00-58,00",4,3 3/4 C,2,"21,4",ANAIAK,O.ANAYA,A.MARTINEZ,8,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+9,AARASH,59,4,CUELLO,4,"32,6",REZA PAZOOKI,O.ANAYA,R. RAMOS,,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+10,PADERNO (FR),"55,00-55,50",3,1 1/2 C,10,"19,9",CUADRA A.F.F S.L,F.RODRIGUEZ,C. CADEL,,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+11,BALLET STAR,"54,5",4,1 3/4 C,12,"30,9",HERDADE GOMES,O.ANAYA,D. FERREIRA,,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+12,BIDUL,55,4,12 1/2 C,9,"3,1",MIRINDA RACING,M.A.MARIN,J.GELABERT,8,30 de octubre de 2022,13:15,H-Bueno,1500,Liso,0,Parcialmente nublado,0,10,19,La Zarzuela
+1,SOMMERSUN (FR),57,2,,5,4,CUADRA A.F.F S.L,F.RODRIGUEZ,R. SOUSA,,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+2,PETRA (FR),"55,5",2,1 1/4 C,7,"3,1",ECURIE DES MOUET...,"A.IMAZ,B.",C. CADEL,8,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+3,WAR OF DANCE (IRE),"55,5",2,NARIZ,9,"4,7",PEQUES,G.ARIZKORRETA,J.GELABERT,,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+4,KOWALSKY (FR),57,2,1/4 C,1,"5,7",AGRADO,CH.DELCHER,B. FAYOS,,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+5,PAMPLONA,57,2,1/2 C,4,"11,8",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+6,MONCAYO (FR),57,2,4 1/4 C,3,"16,4",LUCARMADA,R.AVIAL,V.SEGUY,,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+7,MAHATMA (IRE),57,2,11 1/2 C,2,"10,6",GIULIA,M&M RACING,J.L. MARTINEZ,3,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+8,ARQUETU (IRE),"55,5",2,1 1/2 C,6,"17,6",MARTUL,R.MARTIN V.,J.L. BORREGO,(3)(8),30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+97,SANT'ANITTA,"55,5",2,,8,0,BREEDING HORSE,G.VAZ,D. FERREIRA,,30 de octubre de 2022,13:50,H-Bueno,1600,Liso,0,Soleado,0,10,19.5,La Zarzuela
+1,ASTRAL,57,4,,7,7,ATERPE,G.ARIZKORRETA,V. JANACEK,,30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+2,ORBAYO (IRE),60,6,1 C,2,"6,4",LAS AGUILAS,A.CARRASCO,R. SOUSA,8,30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+3,TRES DE TREBOL (FR),55,4,1/2 C,8,"4,2",FORRAJES Y CEREA...,D.DIEZ,R.N.VALLE,8,30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+4,SIX RIVERS (GB),"57,5",3,3 3/4 C,6,"6,3",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,3,30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+5,TRESEFES,52,5,7 C,9,"13,3",COSTA LA VALL,R.COSTA,C.PEREZ,8,30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+6,COBRECES (GB),58,4,2 1/4 C,5,"17,6",ENRIQUE FERNANDE...,J.LOPEZ,J.L. BORREGO,(5)(8),30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+7,FINELY TUNED (IRE),63,5,1/2 C,1,"6,4",ENRIQUE FERNANDE...,J.LOPEZ,B. FAYOS,(3)(8),30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+8,UROGALLO,"59,5",4,3 3/4 C,4,"5,8",PEQUES,G.ARIZKORRETA,J.GELABERT,,30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+9,RESUMPTION (GB),60,4,2 C,3,"10,2",MARQUES DE MIRAF...,CH.DELCHER,N. DE JULIAN,,30 de octubre de 2022,14:25,H-Bueno,3200,Liso,0,Soleado,0,10,19.5,La Zarzuela
+1,PENRHEAD (FR),"54,00-53,00",2,,9,"10,2",PALCO 7,J.L.MAROTO,V.ALONSO V.,-3,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+2,VOLCAN (FR),"55,5",2,1/2 C,7,"4,9",PINNA FIDELIS,G.ARIZKORRETA,R. SOUSA,,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+3,AL BARIN (IRE),57,2,NARIZ,2,"3,3",CELSO MENDEZ,J.LOPEZ,J.GELABERT,,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+4,KENMYA (FR),57,2,NARIZ,3,"2,9",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+5,BLUE MOON EYES,"55,50-56,00",2,1 C,5,"26,2",4 C,J.A.RODRIGUEZ,B. FAYOS,,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+6,HELHEIM (FR),"55,50-54,50",2,9 1/2 C,6,"12,7",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,-3,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+7,PERILLAN,"57,00-54,50",2,1 C,4,"43,4",E. PEREZ GUZMAN,J.A.RODRIGUEZ,C.PEREZ,-8,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+8,GRACIOSA CANARIA,54,2,6 1/4 C,8,35,TOLEDO,A.NUÑEZ,R.N.VALLE,,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+9,QUILLA MOON (IRE),"58,5",2,9 3/4 C,1,7,CENTURION,M&M RACING,J.L. MARTINEZ,-8,23 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+1,CAPOEIRA(IRE),60,3,,3,"7,3",REBUS,A.TSERETELI,"SYLVAIN, RUIS",-3,23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+2,GLORYTOF (FR),60,3,1/4 C,2,5,MEDITERRANEO,A.SOTO,J.L. MARTINEZ,-2,23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+3,GALILODGE (FR),61,3,5 1/4 C,1,"9,2",ELEVAGE LA REVER...,T.MARTINS,R. SOUSA,(3)(8),23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+4,GRAN BELGA (GB),57,3,1/2 C,5,"4,1",EL RETORNO,F.JIMENEZ,B. FAYOS,-8,23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+5,ATLANTA (FR),"53,5",3,1 C,8,"10,3",CARAL,J.L.MAROTO,V.ALONSO V.,,23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+6,COOLMEEN VEGA (IRE),56,3,6 1/2 C,6,7,SAYAGO,G.ARIZKORRETA,V. JANACEK,,23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+7,CORVERA (GB),55,3,3/4 C,7,4,EL PECADO,J.LOPEZ,J.GELABERT,,23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+8,NASAB (GB),57,3,3/4 C,4,"13,9",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,23 de octubre de 2022,12:05,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+1,IL DECAMERONE (FR),61,6,,2,"3,2",REZA PAZOOKI,O.ANAYA,R. SOUSA,-8,23 de octubre de 2022,12:40,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+2,FURIOSO,61,6,1 3/4 C,1,"8,2",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,23 de octubre de 2022,12:40,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+3,MARACAY,58,4,1 C,5,"1,9",TOLEDO,A.NUÑEZ,R.N.VALLE,,23 de octubre de 2022,12:40,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+4,ORZOWEI (GB),58,5,1/4 C,6,"7,3",FLORINES,P.OLAVE,B. FAYOS,,23 de octubre de 2022,12:40,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+5,RUGBY INDUS (FR),58,5,4 1/2 C,7,"11,2",COCHETEUX,F.RODRIGUEZ,J.L. MARTINEZ,-5,23 de octubre de 2022,12:40,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+6,ARENAL (IRE),"59,5",6,4 C,4,"14,1",FEROZ,P.OLAVE,J.L. BORREGO,-3,23 de octubre de 2022,12:40,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+97,SIR ROQUE (FR) (a),61,6,,3,0,PEQUES,G.ARIZKORRETA,J.GELABERT,-3,23 de octubre de 2022,12:40,H - Blando,1800,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+1,SANSEVERO (IRE),"59,5",5,,4,"14,7",WONDERLAND,O.ANAYA,V. JANACEK,-2,23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+2,KOHOOF (GB),"52,50-53,00",5,1 C,9,12,NEW BEGINNINGS,F.JIMENEZ,R.N.VALLE,(2)(4)(8),23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+3,DAIQUIRYA,"52,00-51,00",3,1/2 C,10,"4,1",AJEDREZ RACING,B.RAMA,C.PEREZ,(4)(8),23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+4,INCREDIT (GB),"60,00-59,00",3,4 3/4 C,3,"15,4",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+5,DERDAS (GB),"58,50-55,50",5,CUELLO,5,"7,9",VALLADOLID,G.ARIZKORRETA,A.MARTINEZ,(5)(8),23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+6,BATTLE OF WATERLOO (IRE),"54,50-56,00",6,3 1/2 C,7,"5,2",DIAZMOR,J.C.CERQUEIRA,B. FAYOS,-4,23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+7,TUNANTE,"63,00-60,50",4,2 C,1,"5,1",E. PEREZ GUZMAN,J.A.RODRIGUEZ,N.SACCU,-8,23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+8,MARIANCE (GB),58,4,8 3/4 C,6,6,REZA PAZOOKI,O.ANAYA,R. SOUSA,,23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+9,CORRECAMINOS,"61,50-59,00",4,6 1/4 C,2,"9,4",SAN MAMES,T.CALLEJO S.,"STA. BUESA,C.",-8,23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+97,BODAK YELLOW (IRE),"53,50-52,50",4,,8,0,BERNIE,J.C.CERQUEIRA,V.ALONSO V.,(2)(4),23 de octubre de 2022,13:15,H - Blando,1200,Liso,0,Lluvia moderada a intervalos,0,28,17,La Zarzuela
+1,UPA LOLA,"57,5",4,,6,6,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+2,DAJLA (GB),"57,5",5,1/2 C,2,"5,9",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+3,SUPER TRIP (FR),56,3,2 1/4 C,9,"2,1",AGRADO,CH.DELCHER,J.ZAMBUDIO,,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+4,GUERREIRA (IRE),"57,5",5,CABEZA,3,9,NOSSA SENHORA DO...,H.PEREIRA,J.L. BORREGO,,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+5,DIVA VICTORIA (FR),56,3,2 1/2 C,8,"8,5",ASOC.LA TOLEDANA...,CH.DELCHER,"SYLVAIN, RUIS",-8,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+6,CASILDA,56,3,5 3/4 C,7,"6,8",CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+7,KENNOCHA (IRE),"57,5",6,1/2 C,5,"15,5",L & M RACING,G.VAZ,B. FAYOS,-8,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+97,AUNT AGATHA (GB),"57,5",4,,1,0,MEDINA DIAZ,O.ANAYA,R. SOUSA,-8,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+97,INES (GB),"57,5",4,,4,0,MEDITERRANEO,G.ARIZKORRETA,J.L. MARTINEZ,,23 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+1,DEFINED (GB),63,4,,1,"7,4",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,23 de octubre de 2022,14:25,H - Blando,2200,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+2,ASTURIAS,"55,5",4,5 C,7,"8,5",ZUL,C.FERNANDEZ,J.ZAMBUDIO,3,23 de octubre de 2022,14:25,H - Blando,2200,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+3,UROGALLO,"59,5",4,1/2 C,3,"7,9",PEQUES,G.ARIZKORRETA,J.GELABERT,,23 de octubre de 2022,14:25,H - Blando,2200,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+4,SEVERUS (FR),57,3,CUELLO,5,6,CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,23 de octubre de 2022,14:25,H - Blando,2200,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+5,DUTCH KIKI (GB),"55,5",4,1 1/2 C,6,"3,2",PETIT CANTER,A.TSERETELI,R. SOUSA,,23 de octubre de 2022,14:25,H - Blando,2200,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+6,MAITRE YODA (FR),60,4,5 1/2 C,2,"4,6",CUADRA A.F.F S.L,F.RODRIGUEZ,B. FAYOS,,23 de octubre de 2022,14:25,H - Blando,2200,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+7,EMBAT (IRE),"57,5",9,6 3/4 C,4,"5,8",LA TOLEDANA,J.L.MAROTO,J.L. MARTINEZ,,23 de octubre de 2022,14:25,H - Blando,2200,Liso,0,Ligeras precipitaciones,0.1,25,17,La Zarzuela
+1,TESSICO (GB),56,3,,4,"3,8",CASTILLA,A.SOTO,R. SOUSA,-8,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+2,PEKEN (FR),56,3,2 1/4 C,3,"4,2",CUADRA A.F.F S.L,F.RODRIGUEZ,B. FAYOS,-5,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+3,PUELL (GB),"54,5",3,4 1/4 C,10,"17,1",LA TOLEDANA,J.L.MAROTO,J.L. MARTINEZ,(4)(8),16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+4,CAT HACLYSME (FR),56,3,1 1/4 C,1,"14,4",ANAIAK,O.ANAYA,V. JANACEK,-8,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+5,VINCERO (GB),56,3,4 C,5,"22,5",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+6,DEMOSTHENE (FR),56,3,2 3/4 C,2,"96,3",ALEGRE,D.FARLETE,N. DE JULIAN,,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+7,BELLUNEZA (FR),"53,00-52,00",3,8 C,12,"98,8",CUADRA A.F.F S.L,F.RODRIGUEZ,N. GARCIA,,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+8,CARISMA,"54,50-53,50",3,1 C,9,"65,6",LONEGAN,R.MARTIN A.,J.ZAMBUDIO,,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+9,AVE MUNDI,"54,50-53,50",3,1/4 C,7,"53,9",EL PLACAJE,F.JIMENEZ,V.ALONSO V.,(5)(8),16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+10,YESWECAN BARELIERE (FR),"54,5",3,1 3/4 C,11,"100,1",OLEOVID,A.CARRASCO,F.MARTINEZ,(4)(8),16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+11,PINTURERA,"53,00-54,00",3,14 1/4 C,13,"217,3",MAGICA,M&M RACING,B.ESTUPIÑAN,,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+12,AIFOS,"54,5",3,CUELLO,6,"115,2",NEO,A.SOTO,R.N.VALLE,(2)(4),16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+97,BILLON (IRE),"54,50-51,00",3,,8,0,GROUP BILLON,J.LOPEZ,C.PEREZ,-8,16 de octubre de 2022,11:30,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+1,RUSHDY (IRE),60,5,,3,"12,2",PEDRA BELA,D.SOUSA,N.SANTOS,-3,16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+2,DABESPIR (FR),60,4,2 C,4,"2,6",SOÑADOR,B.RAMA,R. SOUSA,(3)(8),16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+3,PIRLO,"56,5",4,2 3/4 C,9,"15,7",HACIENDA DEL MON...,C.FERNANDEZ,J.L. BORREGO,-8,16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+4,MACHU PICCHU,"59,5",4,1 C,6,"10,2",AMAZING TURF,J.A.RODRIGUEZ,V. JANACEK,,16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+5,MELODY FRANCE (FR),"52,00-51,00",5,1 1/4 C,11,"4,4",SEPTIMO ARTE,M.J.PEREZ,J.ZAMBUDIO,(4)(8),16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+6,LIGHTNINGSUN,"56,5",4,1 1/2 C,8,"11,4",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,(4)(8),16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+7,FAMILY TRIP (FR),"61,50-58,50",3,3/4 C,2,"6,2",BELEN,A.SOTO,C.PEREZ,-8,16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+8,HANNA,"55,50-52,50",5,3 1/2 C,10,"16,4",MERYDEIS,J.C.ROSELL,A.MARTINEZ,,16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+9,VELETA,"59,50-58,50",5,16 C,5,"21,3",POPURRI,M.J.PEREZ,V.ALONSO V.,(5)(8),16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+10,BALLET STAR,63,4,5 1/2 C,1,"29,8",HERDADE GOMES,O.ANAYA,R. RAMOS,,16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+97,KWA HERI,57,3,,7,0,CELSO MENDEZ,M.ALVAREZ,N. DE JULIAN,,16 de octubre de 2022,12:05,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+1,RAIKU (FR),"57,5",4,,4,"10,6",YEGUADA ROCIO,G.ARIZKORRETA,J.L. MARTINEZ,,16 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,10,22,La Zarzuela
+2,SPEAK IN COLOURS (GB),"57,5",7,CUELLO,5,3,RIO CUBAS,J.HORCAJADA,"SR.SARABIA,D.A.",-8,16 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,10,22,La Zarzuela
+3,KENDAYA (IRE),56,4,NARIZ,7,"5,4",AGRADO,CH.DELCHER,B. FAYOS,-3,16 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,10,22,La Zarzuela
+4,EL BOSNIA,"57,5",5,3 C,1,"3,1",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-3,16 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,10,22,La Zarzuela
+5,FINTAS (GB),"57,5",6,1 3/4 C,3,"11,7",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,-8,16 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,10,22,La Zarzuela
+6,STOWEMAN (GB),"57,5",5,3/4 C,6,"6,2",MALLOW GRAN CANA...,O.ANAYA,R. SOUSA,(2)(3),16 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,10,22,La Zarzuela
+7,EL SOKHNA (IRE),"57,5",4,1 C,2,"14,7",BECARES,CH.DELCHER,J.BRYAN,,16 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,10,22,La Zarzuela
+1,ADAAYLIGHT DANCER (IRE),"59,00-56,50",4,,9,"11,4",MAD MEN,G.ARIZKORRETA,N.SACCU,,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+2,TIHANNA (IRE) (a),"61,5",7,1 C,5,"5,7",CUADRA A.F.F S.L,F.RODRIGUEZ,R. SOUSA,,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+3,SPANISH COLT (IRE),63,4,NARIZ,1,"2,6",BRAZACORTA,B.RAMA,V. JANACEK,-3,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+4,VALE (GB),"59,5",8,1/2 C,8,"15,5",BOLAK,M&M RACING,J.L. MARTINEZ,(2)(5)(8),16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+5,COSTA ESMERALDA (FR),"57,00-54,50",8,CABEZA,11,"11,4",JACOPO TELLINI,M&M RACING,B.ESTUPIÑAN,,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+6,UNAMUNO (IRE),"61,50-60,50",6,1 C,4,"5,8",VICTORIA ALONSO,C.ALONSO,V.ALONSO V.,-8,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+7,ROBLE (GB) (a),58,5,1 1/2 C,10,"20,7",OLEOVID,A.CARRASCO,R.N.VALLE,,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+8,AARASH,62,4,3/4 C,2,"28,5",REZA PAZOOKI,O.ANAYA,J.BRYAN,,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+9,BOSTON BRUIN (IRE),62,6,3 C,3,"17,6",ENRIQUE FERNANDE...,J.LOPEZ,D.EGAN,-8,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+10,MUGUETAJARRA,60,5,1/4 C,7,"12,8",PIGUINHA,G.VAZ,J.GELABERT,,16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+11,PORTOFINO (FR),"61,5",4,8 1/2 C,6,"16,3",NEW BEGINNINGS,F.JIMENEZ,B. FAYOS,(3)(8),16 de octubre de 2022,13:15,H - Bueno,1600,Liso,0,Soleado,0,10,22,La Zarzuela
+1,THE GAME (FR),59,4,,13,"49,5",CIELO DE MADRID,P.OLAVE,J.L. BORREGO,-5,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+2,MEDIA STORM (GB),59,5,1 C,9,"5,8",BEST HORSE,G.VAZ,R. SOUSA,,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+3,THE WAY OF BONNIE (IRE),59,7,3/4 C,14,"4,2",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+4,PHILAU (FR),59,4,2 3/4 C,11,"25,3",ASOC.SANTIAGO - ...,P.OLAVE,B. FAYOS,-4,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+5,WHITE KING (IRE),56,3,1 C,17,"5,7",MARTUL,J.A.RODRIGUEZ,A.POUCHIN,-8,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+6,GO WITH THE WIND (FR),59,5,2 1/4 C,6,"26,8",NIJINSKY,G.ARIZKORRETA,R.N.VALLE,,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+7,TARANTELA (FR),"57,5",5,2 C,15,"21,4",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+8,SAY GOOD BUY (GER),59,6,1 1/4 C,12,"21,3",BEST HORSE,G.VAZ,J.ZAMBUDIO,,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+9,PAPER TROPHY (FR),59,4,1/2 C,10,"24,5",CHRISTOPHE PIERR...,R.AVIAL,T.HENDERSON,-3,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+10,FINELY TUNED (IRE),59,5,2 1/2 C,4,"33,1",ENRIQUE FERNANDE...,J.LOPEZ,D.EGAN,(3)(8),16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+11,JASPEROID (GB),56,3,2 1/4 C,16,"9,4",SAN JOSE,"A.IMAZ,B.",A. CRASTUS,-8,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+12,LORDOFTHEHORIZON (FR),59,5,3/4 C,8,"18,5",SANTIAGO,P.OLAVE,R. RAMOS,-5,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+13,JO PICKETT (FR),59,5,2 C,7,"14,1",BIDASOA,G.ARIZKORRETA,J.L. MARTINEZ,,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+14,GAHERIS (GER),59,4,1 1/2 C,5,"36,4",BERNARDO,R.AVIAL,C. CADEL,-8,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+15,DAYSHANN (FR),59,4,2 1/4 C,2,"12,2",JAVIER MALDONADO...,CH.DELCHER,J.BRYAN,,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+16,EL CANEY (GB),59,4,2 1/4 C,3,"20,3",SANTA BARBARA,J.M.OSORIO,V.ALONSO V.,(5)(8),16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+17,CHEVALIER CATHARE (FR),59,6,9 1/2 C,1,"59,9",RIO CUBAS,D.SARABIA,"SR.SARABIA,D.A.",-8,16 de octubre de 2022,13:50,H - Bueno,2400,Liso,0,Soleado,0,10,22,La Zarzuela
+1,EL INGRATO (FR),66,6,,4,"6,1",BERNARDO,R.AVIAL,"SRTA. TENA, C.",-8,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+2,BABY GROOM,"62,5",4,1 C,7,"6,5",BREEDING HORSE,G.VAZ,"SR.SARABIA,D.A.",-3,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+3,COLIBRI (IRE),63,8,1 3/4 C,6,"6,2",BARRA SUR,F.JIMENEZ,"SR. GREDILLA,P.",,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+4,BABA KARAM,69,5,1 3/4 C,2,"3,5",REZA PAZOOKI,O.ANAYA,"STA. BUESA,C.",-8,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+5,EINAR (IRE),"61,5",6,1 C,8,"5,7",BERNIE,J.LOPEZ,"SRTA ASPERILLA, ...",-5,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+6,ASTRAL,"64,5",4,1 C,5,7,ATERPE,G.ARIZKORRETA,"SR ALONSO V,C.",-5,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+7,PEAKY BLINDERS,"67,5",4,9 3/4 C,3,"10,7",ANAIAK,O.ANAYA,"SR.HERNANDEZ, J....",-8,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+8,HEADHUNTER (FR),70,5,12 1/2 C,1,"13,9",PALCO 7,J.L.MAROTO,"SR. MAROTO, R.",,16 de octubre de 2022,14:25,H - Bueno,2000,Liso,0,Soleado,0,10,22,La Zarzuela
+1,NAVIA (IRE),"62,5",5,,1,"1,6",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,16 de octubre de 2022,14:55,H - Bueno,2200,Liso,0,Soleado,0,10,22,La Zarzuela
+2,KANE ORE (FR),58,3,2 3/4 C,3,"10,5","ANNUA RACING, S....",J.C.ROSELL,J.L. BORREGO,,16 de octubre de 2022,14:55,H - Bueno,2200,Liso,0,Soleado,0,10,22,La Zarzuela
+3,KATARA,56,3,CUELLO,5,"7,2",ALEGRE,D.FARLETE,R. SOUSA,,16 de octubre de 2022,14:55,H - Bueno,2200,Liso,0,Soleado,0,10,22,La Zarzuela
+4,IDOLE ROYALE (FR),"60,5",4,1 1/2 C,2,"6,9",ALEGRE,D.FARLETE,N. DE JULIAN,,16 de octubre de 2022,14:55,H - Bueno,2200,Liso,0,Soleado,0,10,22,La Zarzuela
+5,FIRST CROWD (GB),"57,00-53,50",3,11 1/2 C,4,"4,2",ZURRAQUIN,B.RAMA,C.PEREZ,(4)(6),16 de octubre de 2022,14:55,H - Bueno,2200,Liso,0,Soleado,0,10,22,La Zarzuela
+1,BAILEN,56,2,,3,"12,7",LEONESA,J.LOPEZ,J.GELABERT,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+2,ARAKA LA KANA,"54,50-52,00",2,3 C,6,"10,2",ODISEA,J.LOPEZ,C.PEREZ,3,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+3,MOM CHERIE (FR) (a),56,2,NARIZ,4,3,NEW BEGINNINGS,F.JIMENEZ,R. SOUSA,(3)(8),12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+4,COSI COSI,"56,5",2,1 3/4 C,1,"4,3",OLEOVID,A.CARRASCO,B. FAYOS,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+5,URBIETA,"54,50-52,50",2,2 1/2 C,11,"46,5",YEGUADA MILITAR,F.LIÑAN,L.CASTILLON,3,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+6,LADY ANGIE,"54,5",2,2 C,8,"36,7",TOLEDO,A.NUÑEZ,F.MARTINEZ,8,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+7,ALERTA ROJA,"54,50-53,50",2,1 1/2 C,5,"31,7",LAC INTERNACIONA...,A.SOTO,V.ALONSO V.,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+8,URRACA,"53,00-56,00",2,2 1/2 C,13,"27,9",YEGUADA MILITAR,F.LIÑAN,J.L. BORREGO,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+9,AMAZING COOL,56,2,2 1/2 C,2,"11,5",AMAZING TURF,J.A.RODRIGUEZ,V. JANACEK,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+10,HIGHDARK BLUE,"54,50-52,00",2,2 C,7,"13,8",AGRADO,R.MARTIN A.,J.ZAMBUDIO,8,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+11,PICCOLISIMA (IRE) (a),"54,5",2,9 1/2 C,9,"37,7",LOUGHTOWN STUD L...,J.HORCAJADA,N. DE JULIAN,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+12,TRAPIO,"54,50-54,00",2,1 3/4 C,10,"32,5",RUSH RACING,M&M RACING,B.ESTUPIÑAN,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+95,PIAKA,"53,00-54,50",2,,12,"5,7",CELSO MENDEZ,M.ALVAREZ,J.L. MARTINEZ,,12 de octubre de 2022,11:30,H - Blando,1400,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+1,VIKING CITY (FR),63,3,,1,"4,9",CUADRA A.F.F S.L,F.RODRIGUEZ,R. SOUSA,(3)(8),12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+2,SOFUNNY (IRE),"61,5",3,CUELLO,7,4,TRILOGIA,P.OLAVE,B. FAYOS,,12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+3,SOGALINDA,"59,50-58,50",4,3/4 C,8,"6,9",ZEZINHO,J.C.CERQUEIRA,V.ALONSO V.,3,12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+4,GOLD BEACH (FR),63,3,3/4 C,3,"28,4",DA INVICTA,M.SANTOS,J.L. BORREGO,(3)(8),12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+5,DROVER (GB),"61,50-59,00",7,CUELLO,6,"23,7",PATRIZIA ROSSANA...,M&M RACING,B.ESTUPIÑAN,(3)(8)(2),12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+6,CHAM'S DREAM (IRE),63,3,1 C,2,"16,4",CHAMARTIN,J.HORCAJADA,N. DE JULIAN,,12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+7,RUMBERA (FR),"62,50-59,50",5,5 C,5,"7,4",COCHETEUX,M.ALVAREZ,J.ZAMBUDIO,,12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+8,DIMANCHE DE MAI (FR),"52,50-51,50",7,3 3/4 C,11,"26,6",DA INVICTA,M.SANTOS,A.MARTINEZ,(5)(8),12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+9,PIU BIRCH (FR),"58,00-55,00",3,1 1/4 C,9,"29,9",DELTA,M.A.MARIN,C.PEREZ,,12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+10,CAROLINA WEST,"62,5",4,4 1/2 C,4,"3,8",TIZIANO,J.L.MAROTO,V. JANACEK,,12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+11,IL DIVO,58,3,2 3/4 C,10,"22,7",YEGUADA CORTIÑA...,R.MARTIN A.,J.GELABERT,,12 de octubre de 2022,12:05,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+1,AMANDINE BARELIERE (FR),"54,5",3,,8,"42,8",LA CINCHA,A.TSERETELI,D. FERREIRA,8,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+2,ROBAYERA (IRE),"56,5",3,1 1/4 C,2,"3,7",EL GENTIO,A.SOTO,V. JANACEK,8,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+3,SIX RIVERS (GB),"56,00-52,50",3,1 1/4 C,6,2,MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+4,SANS ATTENDRE (FR),57,3,1 3/4 C,1,"17,3",IGUELDO,B.MORENO,R.N.VALLE,3,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+5,HIGHLAND MARKET (IRE),"55,50-56,00",3,3 3/4 C,7,"6,9",ENRIQUE FERNANDE...,J.LOPEZ,B. FAYOS,5,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+6,ALPHABETIC (GB),56,3,4 1/2 C,3,"35,8",YEGUADA LA DONA,T.CALLEJO S.,J.GELABERT,,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+7,VEREMOS (GB),"53,00-52,00",3,CABEZA,10,"28,3",AFRICA,J.M.OSORIO,V.ALONSO V.,,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+8,WINTER'S TALE (FR),"53,00-56,00",3,1 1/4 C,11,"13,6",CIELO DE MADRID,P.OLAVE,J.L. BORREGO,4,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+9,IZAMAL,"54,50-51,00",3,6 1/4 C,9,39,YEGUADA ARANJUEZ,J.LOPEZ,C.PEREZ,4,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+10,PAIS DE GALES (GB),56,3,7 C,4,"14,3",SALVADOR MARQUEZ,O.ANAYA,R. SOUSA,,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+11,SILVER DUST (FR),56,3,LEJOS,5,"34,6",IGUELDO,B.MORENO,N. DE JULIAN,,12 de octubre de 2022,12:40,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+1,ORBAYO (IRE),"60,5",6,,3,"4,2",LAS AGUILAS,A.CARRASCO,V. JANACEK,8,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+2,ASTURIAS,"58,50-56,00",4,2 1/4 C,4,"5,8",ZUL,C.FERNANDEZ,"STA. BUESA,C.",3,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+3,COBRECES (GB),61,4,3/4 C,2,"8,9",ENRIQUE FERNANDE...,J.LOPEZ,B. FAYOS,(5)(8),12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+4,ARETHA,"54,00-51,00",5,3 C,9,"17,3",ARTEMIS,J.LOPEZ,C.PEREZ,,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+5,MONZALVOS,"54,00-53,00",8,1 3/4 C,8,"14,9",IBAITA,E.PUENTE,V.ALONSO V.,,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+6,TRESEFES,"55,5",5,3 C,6,"20,3",COSTA LA VALL,R.COSTA,N. DE JULIAN,8,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+7,NATURAL TALENT,54,4,4 C,7,"13,7",4 C,A.SANCHEZ C.,D. FERREIRA,3,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+8,CHAM'S PRIDE (IRE),"57,50-54,50",3,6 1/2 C,5,"5,3",MEDITERRANEO,J.HORCAJADA,J.ZAMBUDIO,,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+9,SINCELEJO (FR),65,4,8 C,1,"10,8",COCHETEUX,M.ALVAREZ,J.L. MARTINEZ,,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+10,LA MAL AMADA,54,5,1 C,10,"15,8",EUROPA,J.C.CERQUEIRA,R.N.VALLE,8,12 de octubre de 2022,13:15,H - Blando,2200,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+11,TE KOOP (GB),53,7,2 3/4 C,11,"7,5",LEONESA,J.LOPEZ,J.GELABERT,(2)(5),12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+1,SAMEDI RIEN (IRE),"55,5",3,,10,"4,1",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+2,RODABALLO (GB),"58,5",5,3/4 C,4,"2,4",PATA NEGRA RACIN...,G.ARIZKORRETA,J.L. MARTINEZ,,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+3,SIMPLY STRIKING (FR),"58,5",6,1 C,5,"5,2",MEDITERRANEO,M.DELCHER S.,R. SOUSA,,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+4,RESACON (GB),"58,5",6,1 C,3,"7,7",FORMENTOR,J.M.OSORIO,B. FAYOS,,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+5,POWERFUL SOLE (GB),"58,5",6,3/4 C,1,"27,7",TINERFE,O.ANAYA,R.N.VALLE,8,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+6,STAR OF BENGAL (GB),"58,5",7,4 1/2 C,8,"22,7",4 C,J.A.RODRIGUEZ,R. RAMOS,,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+7,BRAVO,57,3,3/4 C,9,25,YEGUADA ROCIO,G.ARIZKORRETA,D. FERREIRA,5,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+8,PRINCE HAMLET (FR),"58,5",6,3 1/4 C,2,"19,2",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,8,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+94,SMASH HIT (GB),"58,5",4,,7,"10,6",ISLA DE FUERTEVE...,J.C.CERQUEIRA,V.ALONSO V.,,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+97,SIR ROQUE (FR) (a),"58,5",6,,6,0,PEQUES,G.ARIZKORRETA,J.GELABERT,3,12 de octubre de 2022,13:50,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+1,BAADIRR (GB),"70,00-67,00",5,,1,"3,5",ENRIQUE FERNANDE...,J.LOPEZ,"SRTA RELAÑO,R.",(5)(8),12 de octubre de 2022,14:25,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+2,WHAT'S UP (FR),69,4,CABEZA,2,2,MARQUES DE MIRAF...,CH.DELCHER,"SR.SARABIA,D.A.",,12 de octubre de 2022,14:25,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+3,MR HOBBS (GB),"65,00-61,00",8,14 3/4 C,4,"7,3",ADRIANA,B.RAMA,"SRTA FRACTMAN,P.",,12 de octubre de 2022,14:25,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+4,DANCE JUPITER (IRE),"65,00-62,00",6,1 C,3,5,MARQUES DE MIRAF...,CH.DELCHER,"SRTA. BOVILLE, C...",,12 de octubre de 2022,14:25,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+5,GIPSY BLUE EYES (FR),"62,50-59,50",4,1 3/4 C,5,"8,7",SAN MARCOS,F.PEREZ,SRTA BALCONES T....,5,12 de octubre de 2022,14:25,H - Blando,1600,Liso,0,Parcialmente nublado,0,9,19,La Zarzuela
+1,CAPOEIRA(IRE),59,3,,2,"9,5",REBUS,A.TSERETELI,V. JANACEK,-3,9 de octubre de 2022,11:30,H - Bueno,1800,Liso,0,Soleado,0,6,19,La Zarzuela
+2,CORVERA (GB),"55,5",3,1 1/4 C,7,"4,7",EL PECADO,J.LOPEZ,J.GELABERT,,9 de octubre de 2022,11:30,H - Bueno,1800,Liso,0,Soleado,0,6,19,La Zarzuela
+3,GRAN BELGA (GB),58,3,1/2 C,4,"12,4",EL RETORNO,F.JIMENEZ,R.N.VALLE,-8,9 de octubre de 2022,11:30,H - Bueno,1800,Liso,0,Soleado,0,6,19,La Zarzuela
+4,NASAB (GB),"58,50-55,00",3,1 C 1/2,3,"3,6",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,9 de octubre de 2022,11:30,H - Bueno,1800,Liso,0,Soleado,0,6,19,La Zarzuela
+5,ALABAMA (FR),59,3,1 C,1,"2,3",AGRADO,R.MARTIN A.,B. FAYOS,,9 de octubre de 2022,11:30,H - Bueno,1800,Liso,0,Soleado,0,6,19,La Zarzuela
+6,PADERNO (FR),"58,00-54,50",3,12 C 1/4,5,"12,6",CUADRA A.F.F S.L,F.RODRIGUEZ,C.PEREZ,,9 de octubre de 2022,11:30,H - Bueno,1800,Liso,0,Soleado,0,6,19,La Zarzuela
+7,TURCO,58,3,2 C,6,"13,9",BUELNA EQUII,P. ITURREGUI,R. RAMOS,,9 de octubre de 2022,11:30,H - Bueno,1800,Liso,0,Soleado,0,6,19,La Zarzuela
+1,KOWALSKY (FR),56,2,,4,3,AGRADO,CH.DELCHER,B. FAYOS,,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+2,WAR OF DANCE (IRE),"54,5",2,CUELLO,12,4,PEQUES,G.ARIZKORRETA,J.GELABERT,,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+3,CANARION (IRE),56,2,3/4 C,2,"21,3",EL BILLETERO,O.ANAYA,R.N.VALLE,,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+4,SWIFTWAY (FR),"54,50-55,50",2,2 1/4 C,10,"10,7",ELEVAGE LA REVER...,T.MARTINS,V. JANACEK,,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+5,AMERICANO (FR),57,2,1/2 C,1,"14,9",ECURIE DES MOUET...,"A.IMAZ,B.",C. CADEL,(5)(8),9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+6,CASANDRA (FR),"55,5",2,1 1/4 C,6,"5,9",MEDITERRANEO,A.SOTO,J.L. MARTINEZ,(4)(8),9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+7,PENRHEAD (FR),"54,5",2,1/2 C,9,"13,1",PALCO 7,J.L.MAROTO,G.GUEDJ-GAY,-3,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+8,URABA (FR),"54,50-53,50",2,4 C,11,"39,4",COCHETEUX,M.ALVAREZ,V.ALONSO V.,,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+9,KOMOTU (GB),56,2,CUELLO,3,"43,7",MARTUL,R.MARTIN V.,J.L. BORREGO,-5,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+10,FREE JAZZ (GB),"53,00-51,00",2,1/4 C,14,"34,2",BERNIE,J.LOPEZ,C.PEREZ,-8,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+11,CONCEPCION LINE (IRE),"54,50-52,00",2,1 3/4 C,8,"53,6",DUENDE DEL SUR,CH.DELCHER,J.ZAMBUDIO,,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+12,WINTON (FR),"54,5",2,1 C,13,"38,4",TIGRES,A.NUÑEZ,D. FERREIRA,-4,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+13,QUISQUILLA (IRE),"53,00-52,00",2,4 1/2 C,15,"40,6",CUADRA A.F.F S.L,F.RODRIGUEZ,N. GARCIA,,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+14,RATIONALEXUBERANCE (GB),56,2,17 3/4 C,5,"22,2",CHAMARTIN,J.HORCAJADA,N. DE JULIAN,-4,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+15,BRAVE TOWN,"54,5",2,3/4 C,7,"41,8",CANARIAS,E.ARGUINZONES,F.MARTINEZ,-8,9 de octubre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+1,LADY MOON,"55,5",2,,13,"5,2",ATEGORRIETA,CH.DELCHER,J.ZAMBUDIO,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+2,SAFAGA,"55,5",2,CUELLO,15,"4,2",ASOC.LA TOLEDANA...,CH.DELCHER,G.GUEDJ-GAY,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+3,PAMPLONA,57,2,2 C,5,"3,7",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+4,CLIFFORD,57,2,4 C,2,"10,8",PLANTAGENET,G.ARIZKORRETA,J.L. MARTINEZ,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+5,WITIZA,57,2,1/2 C,9,"20,4",LAC INTERNACIONA...,J.LOPEZ,J.L. BORREGO,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+6,EL COMANDANTE,57,2,2 C,3,"27,1",ELEVAGE LA REVER...,T.MARTINS,C. CADEL,-8,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+7,STARSHADOW (GB),"55,5",2,1/2 C,16,"26,3",CELSO MENDEZ,M.ALVAREZ,V.ALONSO V.,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+8,LADY CLUNIA,"55,50-56,00",2,3/4 C,12,"47,4",BRAZACORTA,B.RAMA,B. FAYOS,-8,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+9,BLUE MOON EYES,57,2,3/4 C,1,"40,9",4 C,J.A.RODRIGUEZ,C.PEREZ,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+10,HARVAC,57,2,CABEZA,4,"34,5",BOLAK,J.C.CERQUEIRA,D. FERREIRA,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+11,TEYMUR,57,2,3/4 C,7,"20,2",REZA PAZOOKI,O.ANAYA,R.N.VALLE,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+12,NOOZHAH SUREÑA,"55,5",2,1/2 C,14,"41,3",SUREÑA,J.A.RODRIGUEZ,N. GARCIA,,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+13,KATALINA,"55,5",2,1 C,11,"9,1",JON JAUREGUI,M.COMAS,J.GELABERT,-8,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+14,PERILLAN,"57,00-57,50",2,1 C 1/2,6,"32,4",E. PEREZ GUZMAN,J.A.RODRIGUEZ,R. RAMOS,-8,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+15,WAYNA,57,2,6 3/4 C,8,"56,4",BRISTOL STUD,T.MARTINS,N. DE JULIAN,(3)(8),9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+16,AURORITA (FR),"55,5",2,8 C,10,"46,4",RAPIER,B.VALENTI,B.ESTUPIÑAN,-8,9 de octubre de 2022,12:40,H - Bueno,1400,Liso,0,Soleado,0,6,22,La Zarzuela
+1,CONSPIRACY (GB),"52,00-51,00",4,,10,"19,9",PATRIZIA ROSSANA...,M&M RACING,V.ALONSO V.,-8,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+2,BIDUL,"58,5",4,CABEZA,6,"4,5",MIRINDA RACING,M.A.MARIN,J.GELABERT,-8,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+3,PRETTY EMERALD (GB),"58,00-55,00",3,3/4 C,8,"5,1",CHAMARTIN,J.HORCAJADA,C.PEREZ,,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+4,ATLANTA (FR),"58,5",3,CUELLO,5,"4,8",CARAL,J.L.MAROTO,B. FAYOS,,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+5,LADY MCQUEEN (IRE),58,3,3 C,7,"10,4",HERMANOS ABOIN,A.CARRASCO,V. JANACEK,,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+6,UPSDAWN (GB),"57,50-54,50",4,1 1/2 C,9,"40,1",DONALFA,M.J.PEREZ,A.MARTINEZ,(5)(8),9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+7,MARIANCE (GB),"60,5",4,1 3/4 C,2,"7,4",REZA PAZOOKI,O.ANAYA,R. RAMOS,,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+8,COLOSAL (IRE),59,3,1/2 C,4,"7,5",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,-8,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+9,LINDA (IRE),"63,00-60,00",5,1/4 C,1,"7,1",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+10,PREMIERE RHAPSODIE (FR),59,3,1 1/4 C,3,"24,9","ROISAJU LOPEZ, S...",P.OLAVE,J.L. BORREGO,,9 de octubre de 2022,13:15,H - Bueno,1400,Liso,0,Soleado,0,6,23,La Zarzuela
+1,PANTXINETA,"55,5",3,,7,"10,4",DUENDE DEL SUR,CH.DELCHER,G.GUEDJ-GAY,,9 de octubre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,6,25,La Zarzuela
+2,ARENAS DE SANPEDRO,57,3,CABEZA,1,"21,5",Y TODOS PARA UNA,B.VALENTI,C. CADEL,(3)(8),9 de octubre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,6,25,La Zarzuela
+3,GOYESCA,"55,5",3,NARIZ,6,4,CELSO MENDEZ,J.LOPEZ,J.GELABERT,,9 de octubre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,6,25,La Zarzuela
+4,TRITON,57,3,4 3/4 C,4,"1,6",SALVADOR MARQUEZ,B.VALENTI,J.ZAMBUDIO,-8,9 de octubre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,6,25,La Zarzuela
+5,CALCAS,57,3,21 C,2,"8,2",DUQUE DE ALBURQU...,J.M.OSORIO,B. FAYOS,-8,9 de octubre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,6,25,La Zarzuela
+6,VEGADEO,57,3,1/4 C,5,"25,2",SOÑADOR,B.RAMA,N.SACCU,-4,9 de octubre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,6,25,La Zarzuela
+7,TINTIN,57,3,17 3/4 C,3,"13,4",YEGUADA MILITAR,A.SUÑEN,V. JANACEK,,9 de octubre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,6,25,La Zarzuela
+1,FINTAS (GB),"58,00-54,50",6,,4,"2,7",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,-8,9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+2,PERFECT SUNRISE (FR),"60,50-57,00",4,2 1/2 C,2,"3,5",EVANS MARCH,J.HORCAJADA,C.PEREZ,-8,9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+3,TUNANTE,"61,00-58,00",4,3 1/4 C,1,"5,6",E. PEREZ GUZMAN,J.A.RODRIGUEZ,N.SACCU,-8,9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+4,BORONDON (FR),58,3,1 1/2 C,3,14,SAN MARCOS,F.PEREZ,D. FERREIRA,,9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+5,KOHOOF (GB),"57,50-54,50",5,CUELLO,5,"14,2",NEW BEGINNINGS,F.JIMENEZ,B.ESTUPIÑAN,(2)(4)(8),9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+6,EYE OF HEAVEN (GB),57,4,2 C,6,9,ZACARIAS SARMIEN...,O.ANAYA,N. DE JULIAN,-8,9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+7,CARISMA,"55,50-54,50",3,2 3/4 C,7,"9,4",LONEGAN,R.MARTIN A.,N. GARCIA,,9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+8,YESWECAN BARELIERE (FR),"55,5",3,14 1/2 C,8,"21,6",OLEOVID,A.CARRASCO,F.MARTINEZ,(4)(8),9 de octubre de 2022,14:25,H - Bueno,1100,Liso,0,Soleado,0,6,25,La Zarzuela
+1,FARNESIO (IRE),57,2,,1,"2,1",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,2 de octubre de 2022,11:30,H - Bueno,1500,Liso,0,Soleado,0,8,20,La Zarzuela
+2,MAHATMA (IRE),57,2,3 1/4 C,2,"2,9",GIULIA,M&M RACING,J.L. MARTINEZ,-3,2 de octubre de 2022,11:30,H - Bueno,1500,Liso,0,Soleado,0,8,20,La Zarzuela
+3,RED HOT ACTION (FR),"55,50-56,00",2,6 3/4 C,3,"4,7",ECURIE DES MOUET...,"A.IMAZ,B.",B. FAYOS,-8,2 de octubre de 2022,11:30,H - Bueno,1500,Liso,0,Soleado,0,8,20,La Zarzuela
+4,UMBRA (FR),"54,00-53,00",2,2 3/4 C,6,"15,1",COCHETEUX,M.ALVAREZ,V.ALONSO V.,(3)(8),2 de octubre de 2022,11:30,H - Bueno,1500,Liso,0,Soleado,0,8,20,La Zarzuela
+5,ALERTA ROJA,"54,00-53,00",2,2 C,5,"11,2",LAC INTERNACIONA...,A.SOTO,N. GARCIA,,2 de octubre de 2022,11:30,H - Bueno,1500,Liso,0,Soleado,0,8,20,La Zarzuela
+6,ADHARHA (IRE),"54,00-51,50",2,7 1/4 C,4,"17,7",MARTUL,R.MARTIN A.,J.ZAMBUDIO,,2 de octubre de 2022,11:30,H - Bueno,1500,Liso,0,Soleado,0,8,20,La Zarzuela
+1,SOGALINDA,"52,00-51,00",4,,17,24,ZEZINHO,J.C.CERQUEIRA,V.ALONSO V.,-3,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+2,DABESPIR (FR),"58,50-55,50",4,3 1/2 C,10,"12,5",SOÑADOR,B.RAMA,C.PEREZ,(3)(8),2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+3,NATURAL TALENT,"59,5",4,3 1/4 C,7,"14,6",4 C,A.SANCHEZ C.,I.MELGAREJO,(3)(8),2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+4,ROBLE (GB) (a),63,5,1 1/2 C,1,"15,8",OLEOVID,A.CARRASCO,R.N.VALLE,,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+5,DROVER (GB),"57,00-54,50",7,1 1/2 C,13,"29,9",PATRIZIA ROSSANA...,M&M RACING,B.ESTUPIÑAN,(2)(3)(8),2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+6,RUSHDY (IRE),59,5,NARIZ,8,"13,4",PEDRA BELA,D.SOUSA,N.SANTOS,-3,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+7,IZASKUN (FR),"56,5",3,2 1/2 C,14,"9,2",VIRGINIA WATERS,J.L.MAROTO,V. JANACEK,,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+8,ATLANTICO (GER),"58,00-55,00",7,1 C,11,"14,1",REAPERTURA,A.TSERETELI,C.HAZEN,,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+9,JACINTHE BERE (FR),62,3,1/2 C,3,"17,3",MEDITERRANEO,A.SOTO,J.GELABERT,,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+10,SANBLASS,58,4,NARIZ,12,"36,5",BUELNA EQUII,P. ITURREGUI,N. DE JULIAN,-4,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+11,PIU BIRCH (FR),"55,50-52,50",3,3/4 C,15,"63,9",DELTA,M.A.MARIN,A.MARTINEZ,-5,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+12,BELLETTI (GB),"61,5",4,CUELLO,4,"10,3",MANU POLO,B.MORENO,J.L. BORREGO,(3)(8),2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+13,NAYMA,"52,00-51,00",3,1/2 C,18,"46,1",BOLAK,J.C.CERQUEIRA,N. GARCIA,-4,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+14,COSSIO,62,6,1 C,2,"4,4",REZA PAZOOKI,O.ANAYA,R. RAMOS,(2)(8),2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+15,IL DIVO,"55,00-52,50",3,2 1/2 C,16,"43,9",YEGUADA CORTIÑA...,R.MARTIN A.,"STA. BUESA,C.",,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+16,MELAMPO,"58,50-56,00",5,1 C,9,"33,1",ZURRAQUIN,B.RAMA,N.SACCU,(5)(8),2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+17,UPSILON (GB),"61,50-58,50",4,3 C,5,"8,1","ANNUA RACING, S....",J.C.ROSELL,J.ZAMBUDIO,-4,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+18,BERTIE FROM BEAU (GB),"60,5",3,LEJOS,6,"11,5",EL RETORNO,F.JIMENEZ,B. FAYOS,-5,2 de octubre de 2022,12:05,H - Bueno,1800,Liso,0,Soleado,0,8,20,La Zarzuela
+1,DISILLUSION (IRE),57,2,,2,"2,6",MEDITERRANEO,A.SOTO,J.L. MARTINEZ,-8,2 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,8,25,La Zarzuela
+2,QUEEN OF GLORY (IRE),"55,50-56,00",2,2 C,5,"3,9",SAN CRISTOBAL,J.LOPEZ,B. FAYOS,,2 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,8,25,La Zarzuela
+3,FORTUNATO (FR),57,2,3/4 C,3,"4,5",4 C,J.A.RODRIGUEZ,V. JANACEK,,2 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,8,25,La Zarzuela
+4,QUILLA MOON (IRE),"57,5",2,3/4 C,1,"3,8",CENTURION,M&M RACING,J.GELABERT,-8,2 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,8,25,La Zarzuela
+5,HELHEIM (FR),57,2,1 3/4 C,4,"8,1",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,2 de octubre de 2022,12:40,H - Bueno,1200,Liso,0,Soleado,0,8,25,La Zarzuela
+1,MAITRE YODA (FR),"57,5",4,,9,"9,5",CUADRA A.F.F S.L,F.RODRIGUEZ,B. FAYOS,,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+2,SPANISH COLT (IRE),59,4,CUELLO,7,"5,1",BRAZACORTA,B.RAMA,I.MELGAREJO,-3,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+3,DUTCH KIKI (GB),"55,5",4,1 1/4 C,12,"4,1",PETIT CANTER,A.TSERETELI,J.GELABERT,,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+4,MAX'S THUNDER (IRE),"59,00-56,50",5,2 1/2 C,6,13,ZUL,C.FERNANDEZ,"STA. BUESA,C.",-3,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+5,RAMIRIQUI (FR),"57,00-56,00",5,1 C,10,"10,4",CUADRA A.F.F S.L,F.RODRIGUEZ,V.ALONSO V.,-5,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+6,ARENAL (IRE),"62,00-59,00",6,3/4 C,2,"5,1",FEROZ,P.OLAVE,J.ZAMBUDIO,-3,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+7,BABA KARAM,"63,00-60,50",5,2 C,1,"15,8",REZA PAZOOKI,O.ANAYA,N.SACCU,-8,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+8,ELAMIRR (IRE),"59,50-57,00",6,NARIZ,5,"25,6",UMAMI,M&M RACING,B.ESTUPIÑAN,-8,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+9,AARASH,"58,00-55,00",4,2 1/4 C,8,"20,3",REZA PAZOOKI,O.ANAYA,A.MARTINEZ,-8,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+10,CHARMING LOOK (GB),60,4,8 3/4 C,4,"9,2",REZA PAZOOKI,O.ANAYA,R. RAMOS,-8,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+11,COSMIC HORIZON (IRE),61,6,5 C,3,14,ATERPE,G.ARIZKORRETA,V. JANACEK,,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+97,RUMBO,"57,00-54,00",5,,11,0,BUELNA EQUII,P. ITURREGUI,C.PEREZ,,2 de octubre de 2022,13:15,H - Bueno,1800,Liso,0,Soleado,0,8,25,La Zarzuela
+1,CASILDA,59,3,,2,17,CELSO MENDEZ,M.ALVAREZ,J.L. MARTINEZ,,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+2,DIVA VICTORIA (FR),57,3,CUELLO,7,"14,5",ASOC.LA TOLEDANA...,CH.DELCHER,I.MELGAREJO,-8,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+3,UPA LOLA,"57,5",4,NARIZ,6,6,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+4,AUNT AGATHA (GB),"58,5",4,1/2 C,3,"5,9",MEDINA DIAZ,O.ANAYA,R. RAMOS,-8,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+5,PORTALMA (IRE),56,3,3/4 C,9,"3,8",SANTIAGO,P.OLAVE,B. FAYOS,-4,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+6,DAJLA (GB),"60,5",5,1 1/4 C,1,"5,9",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+7,FIJI GOLD (GB),56,3,5 1/4 C,8,"11,8",SOÑADOR,B.RAMA,C.PEREZ,-3,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+8,TIHANNA (IRE) (a),"57,5",7,CABEZA,5,"14,7",CUADRA A.F.F S.L,F.RODRIGUEZ,J.L. BORREGO,,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+9,GUERREIRA (IRE),"58,5",5,2 1/4 C,4,5,NOSSA SENHORA DO...,H.PEREIRA,R.N.VALLE,,2 de octubre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+1,STAR OF BENGAL (GB),"60,5",7,,2,"3,8",RIO CUBAS,D.SARABIA,"SR.SARABIA,D.A.",,2 de octubre de 2022,14:25,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+2,VETONA (IRE) (a),56,6,1 C,6,"5,9",HERMANOS ABOIN,A.CARRASCO,J.GELABERT,,2 de octubre de 2022,14:25,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+3,RUGBY INDUS (FR),"60,5",5,CUELLO,1,"3,6",COCHETEUX,F.RODRIGUEZ,B. FAYOS,-5,2 de octubre de 2022,14:25,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+4,SALLAB (IRE),"57,5",7,4 1/4 C,5,"2,8",TINERFE,O.ANAYA,V. JANACEK,(4)(8),2 de octubre de 2022,14:25,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+5,RESUMPTION (GB),"57,5",4,4 1/4 C,4,"11,9",MARQUES DE MIRAF...,CH.DELCHER,"STA. BUESA,C.",,2 de octubre de 2022,14:25,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+6,YESWECAN BARELIERE (FR),"54,5",3,18 1/4 C,7,"10,5",OLEOVID,A.CARRASCO,R.N.VALLE,-2,2 de octubre de 2022,14:25,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+97,LEADER'S LEGACY (USA),"57,5",8,,3,0,MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,-8,2 de octubre de 2022,14:25,H - Bueno,1600,Liso,0,Soleado,0,8,26,La Zarzuela
+1,ALL IRON,"54,50-52,00",2,,12,"18,6",SAN MAMES,M.COMAS,J.ZAMBUDIO,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+2,KOWALSKY (FR),"54,50-56,00",2,1 C,14,"27,8",AGRADO,CH.DELCHER,B. FAYOS,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+3,MONCAYO (FR),57,2,1 3/4 C,1,"4,1",LUCARMADA,R.AVIAL,C. CADEL,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+4,VOLCAN (FR),56,2,6 C,8,"4,1",PINNA FIDELIS,G.ARIZKORRETA,V. JANACEK,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+5,SHELBY (FR),"56,00-56,50",2,CUELLO,6,"15,6",MARTUL,J.A.RODRIGUEZ,I.MELGAREJO,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+6,CLIFFORD,"54,5",2,1 C,13,"19,8",PLANTAGENET,G.ARIZKORRETA,J.GELABERT,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+7,STARSHADOW (GB),"54,50-53,50",2,1/4 C,15,"23,4",CELSO MENDEZ,M.ALVAREZ,V.ALONSO V.,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+8,AKBAHARI (GB),"54,50-51,00",2,1/2 C,11,"46,4",S.ELORZA CAVENGT,A.SOTO,C.PEREZ,-8,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+9,ROBLON (GB),56,2,3/4 C,5,"4,5",MARTUL,R.MARTIN V.,J.L. BORREGO,-8,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+10,KOMOTU (GB),"56,00-54,00",2,1/2 C,3,"47,3",MARTUL,R.MARTIN V.,B.ESTUPIÑAN,-3,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+11,WAMBA,56,2,1 C,9,"7,4",LAC INTERNACIONA...,A.SOTO,J.L. MARTINEZ,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+12,WAYNA,56,2,5 3/4 C,10,"73,2",BRISTOL STUD,T.MARTINS,N. DE JULIAN,-3,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+13,HARVAC,56,2,3/4 C,2,"48,3",BOLAK,J.C.CERQUEIRA,D. FERREIRA,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+14,PEYRASSOL (FR),56,2,CUELLO,4,"27,8",MARTUL,J.A.RODRIGUEZ,N.SACCU,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+15,SPANISH RULER (FR),56,2,3 1/4 C,7,"37,1",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+16,ATREVIDA (FR),53,2,7 1/2 C,16,"54,9",E. PEREZ GUZMAN,J.A.RODRIGUEZ,F.MARTINEZ,-3,25 de septiembre de 2022,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+1,FAMILY TRIP (FR),"61,00-57,00",3,,9,"6,2",BELEN,A.SOTO,C.PEREZ,-8,25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+2,MELODY FRANCE (FR),"52,00-51,00",5,CUELLO,16,"11,4",SEPTIMO ARTE,M.J.PEREZ,"STA. BUESA,C.",(4)(8),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+3,PEKEN (FR),62,3,1/4 C,7,"8,8",CUADRA A.F.F S.L,F.RODRIGUEZ,C. CADEL,,25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+4,LIGHTNINGSUN,"58,5",4,1 1/2 C,13,"16,4",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,(4)(8),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+5,BATTLE OF WATERLOO (IRE),63,6,1 1/2 C,2,"5,8",DIAZMOR,J.C.CERQUEIRA,B. FAYOS,(4)(8),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+6,KOHOOF (GB),"61,50-59,00",5,CUELLO,8,"15,4",NEW BEGINNINGS,F.JIMENEZ,B.ESTUPIÑAN,(2)(4)(8),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+7,HANNA,"57,50-54,50",5,1/2 C,14,"15,3",MERYDEIS,J.C.ROSELL,A.MARTINEZ,,25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+8,MACHU PICCHU,62,4,CABEZA,5,"4,5",AMAZING TURF,J.A.RODRIGUEZ,V. JANACEK,,25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+9,BLACK VOICE (GB),"63,00-62,00",3,1 3/4 C,3,"37,1",ENRIQUE FERNANDE...,J.C.CERQUEIRA,N. GARCIA,(4)(6),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+10,IDEAL,62,4,1/4 C,6,"35,8",OLIVARES,E.ARGUINZONES,F.MARTINEZ,(4)(8),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+11,CONSPIRACY (GB),"58,5",4,1/4 C,12,"30,1",PATRIZIA ROSSANA...,M&M RACING,J.GELABERT,(3)(8),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+12,BODAK YELLOW (IRE),63,4,CABEZA,4,"55,7",BERNIE,J.C.CERQUEIRA,N. DE JULIAN,(2)(4),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+13,VELETA,"63,00-62,00",5,2 1/4 C,1,"27,3",POPURRI,M.J.PEREZ,V.ALONSO V.,(5)(8),25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+14,OCEANIC BLUE (FR)(a),"59,50-56,50",3,4 1/2 C,11,"44,2",AGRADO,CH.DELCHER,J.ZAMBUDIO,-4,25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+15,GRISOL,"55,50-54,50",3,12 14 C,15,"60,1",YEGUADA CORTIÑA...,R.MARTIN A.,N.SACCU,,25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+16,PIRLO,60,4,2 1/4 C,10,"8,3",BRAVO TANGO ZULU,C.FERNANDEZ,J.L. BORREGO,-8,25 de septiembre de 2022,12:05,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,15,La Zarzuela
+1,LINDA (IRE),"55,50-53,00",5,,10,"30,6",MARQUES DE MIRAF...,CH.DELCHER,"STA. BUESA,C.",,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+2,BIDUL,54,4,1 C,13,"10,8",MIRINDA RACING,M.A.MARIN,N. DE JULIAN,,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+3,ATLANTA (FR),"53,5",3,1/2 C,14,"8,8",CARAL,J.L.MAROTO,V.SEGUY,(2)(8),25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+4,PRETTY EMERALD (GB),53,3,1/4 C,16,"8,8",CHAMARTIN,J.HORCAJADA,R.N.VALLE,-8,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+5,ALBORAN (FR),62,5,2 3/4 C,3,"9,1",IGUELDO,B.MORENO,J.GELABERT,(2)(5)(8),25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+6,VALE (GB),"56,5",8,1 C,8,"5,2",BOLAK,M&M RACING,V. JANACEK,,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+7,DIMAX (IRE),"63,00-59,00",5,1/2 C,1,"26,5",LOS NIÑOS,J.C.CERQUEIRA,L.CASTILLON,(5)(8),25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+8,CUPPACOFFEE (IRE),"61,50-59,00",8,NARIZ,4,"27,6",EXTREMEÑA OP,M&M RACING,B.ESTUPIÑAN,,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+9,NEW JACK SWING (IRE),"61,5",5,1 1/2 C,5,"18,8",REZA PAZOOKI,O.ANAYA,I.MELGAREJO,,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+10,DERDAS (GB),"56,50-53,50",5,5 1/2 C,9,"28,8",VALLADOLID,G.ARIZKORRETA,A.MARTINEZ,-8,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+11,TIERMES,"53,00-52,00",5,2 1/4 C,15,"13,7",EL OSO,A.SOTO,N. GARCIA,(5)(8),25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+12,BOSTON BRUIN (IRE),"59,00-55,00",6,3/4 C,6,"41,2",ENRIQUE FERNANDE...,J.LOPEZ,C.PEREZ,-8,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+13,WEERT (GB),"55,50-52,50",3,CABEZA,11,6,MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+14,GALILODGE (FR),"62,00-59,50",3,1 1/2 C,2,"20,6",ELEVAGE LA REVER...,T.MARTINS,N.SACCU,-3,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+15,TAZONES,58,6,1 1/4 C,7,"11,1",OLEOVID,A.CARRASCO,B. FAYOS,,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+16,UPSDAWN (GB),"54,00-53,00",4,2 1/4 C,12,"35,7",DONALFA,M.J.PEREZ,V.ALONSO V.,-8,25 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+1,MARACAY,"57,5",4,,10,"4,7",TOLEDO,A.NUÑEZ,R.N.VALLE,,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+2,DAYSHANN (FR),59,4,1/2 C,3,"7,9",JAVIER MALDONADO...,CH.DELCHER,J.GELABERT,,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+3,THE GAME (FR),59,4,CUELLO,9,"29,2",CIELO DE MADRID,P.OLAVE,J.L. BORREGO,-5,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+4,FINELY TUNED (IRE),59,5,1 3/4 C,4,"29,7",ENRIQUE FERNANDE...,J.LOPEZ,I.MELGAREJO,(3)(8),25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+5,GO WITH THE WIND (FR),62,5,CABEZA,1,"6,1",NIJINSKY,G.ARIZKORRETA,V. JANACEK,,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+6,LORDOFTHEHORIZON (FR),59,5,3/4 C,6,"22,5",SANTIAGO,P.OLAVE,C. CADEL,-3,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+7,CHEVALIER CATHARE (FR),59,6,3/4 C,2,"13,6",RIO CUBAS,D.SARABIA,"SR.SARABIA,D.A.",-8,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+8,GAHERIS (GER),59,4,1 1/2 C,5,"13,1",BERNARDO,R.AVIAL,N. DE JULIAN,-8,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+9,PHILAU (FR),59,4,CUELLO,7,"2,7",ASOC.SANTIAGO - ...,P.OLAVE,B. FAYOS,-4,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+10,GLORYTOF (FR),56,3,2 1/4 C,11,"17,1",MEDITERRANEO,A.SOTO,V.SEGUY,-2,25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+11,QATAR RIVER (FR),59,7,2 3/4 C,8,"18,9",RAPIER,B.VALENTI,J.ZAMBUDIO,(3)(8),25 de septiembre de 2022,13:05,H - Bueno,2200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+1,WHITE KING (IRE),57,3,,7,"2,8",MARTUL,J.A.RODRIGUEZ,V. JANACEK,-8,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+2,LISICLES (GB),57,3,1 1/4 C,4,"6,3",DUQUE DE ALBURQU...,J.M.OSORIO,B. FAYOS,,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+3,AUSTRALIA CAPE (IRE),57,3,1 1/4 C,1,"4,7",MEDITERRANEO,G.ARIZKORRETA,J.L. MARTINEZ,,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+4,SIX RIVERS (GB),57,3,NARIZ,6,"18,4",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+5,BEL OUEST (FR),57,3,1 1/2 C,2,"4,4",A. URBANO ROLDAN,R.C.MONTENEGRO,V.SEGUY,-8,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+6,SEVERUS (FR),57,3,3/4 C,5,"19,3",CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+7,HIGHLAND MARKET (IRE),"55,5",3,4 1/4 C,9,"24,9",ENRIQUE FERNANDE...,J.LOPEZ,J.GELABERT,-5,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+8,CHAMALE (FR),"55,5",3,CUELLO,8,"24,2",CUADRA A.F.F S.L,F.RODRIGUEZ,C. CADEL,,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+9,CAMARINES (FR),57,3,9 C,3,"9,2",GISPERT,P.OLAVE,H.JOURNIAC,-3,25 de septiembre de 2022,13:50,H - Bueno,2800,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+1,SPEAK IN COLOURS (GB),58,7,,5,"2,9",RIO CUBAS,J.HORCAJADA,"SR.SARABIA,D.A.",-8,25 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+2,EL BOSNIA,58,5,CUELLO,3,4,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,25 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+3,STOWEMAN (GB),58,5,1 3/4 C,6,"9,9",MALLOW GRAN CANA...,O.ANAYA,I.MELGAREJO,-2,25 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+4,KENDAYA (IRE),"56,5",4,NARIZ,7,"3,2",AGRADO,CH.DELCHER,B. FAYOS,-3,25 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+5,BRAVO,58,3,1/4 C,2,"12,9",YEGUADA ROCIO,G.ARIZKORRETA,J.GELABERT,-5,25 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+6,FINTAS (GB),58,6,2 1/2 C,4,"10,3",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,-8,25 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+7,CORRECAMINOS,59,4,12 C,1,16,SAN MAMES,T.CALLEJO S.,J.L. BORREGO,,25 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Parcialmente nublado,0,15,17,La Zarzuela
+1,TRITON,"60,00-56,50",3,,2,"2,1",SALVADOR MARQUEZ,B.VALENTI,J.ZAMBUDIO,-8,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+2,CALCAS,57,3,8 1/4 C,4,"7,4",DUQUE DE ALBURQU...,J.M.OSORIO,B. FAYOS,-8,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+3,MACE WINDU,57,3,2 1/4 C,5,"5,9",HORSESITE,F.JIMENEZ,J.GELABERT,-3,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+4,TINTIN,57,3,CABEZA,6,"8,5",YEGUADA MILITAR,A.SUÑEN,V. JANACEK,,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+5,KATARA,"54,5",3,3 1/4 C,7,"7,1",PLANTAGENET,G.ARIZKORRETA,J.L. MARTINEZ,,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+6,BRIBON,"60,00-55,50",3,14 1/4 C,1,20,E. PEREZ GUZMAN,J.A.RODRIGUEZ,C.PEREZ,,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+7,ARENAS DE SANPEDRO,58,3,3 1/4 C,3,"12,8",Y TODOS PARA UNA,B.VALENTI,R. RAMOS,-8,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+8,MAESTRANZA,"54,50-54,00",3,LEJOS,8,"13,7",Y TODOS PARA UNA,B.VALENTI,B.ESTUPIÑAN,-8,18 de septiembre de 2022,11:30,H - Bueno,2100,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+1,MAHATMA (IRE),57,2,,5,"7,3",GIULIA,M&M RACING,J.L. MARTINEZ,-3,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+2,LADY MOON,"57,50-55,00",2,1/4 C,4,"2,7",ATEGORRIETA,CH.DELCHER,J.ZAMBUDIO,,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+3,WAR OF DANCE (IRE),54,2,1 C,9,"9,4",PEQUES,G.ARIZKORRETA,J.GELABERT,,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+4,WITIZA,57,2,1 C,7,"8,3",LAC INTERNACIONA...,J.LOPEZ,J.L. BORREGO,,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+5,PERILLAN,59,2,3/4 C,2,"20,1",E. PEREZ GUZMAN,J.A.RODRIGUEZ,R.N.VALLE,-8,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+6,URABA (FR),"54,00-53,00",2,1 1/4 C,8,"24,2",COCHETEUX,M.ALVAREZ,V.ALONSO V.,,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+7,COSI COSI,"57,5",2,1 1/4 C,3,"11,2",OLEOVID,A.CARRASCO,B. FAYOS,,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+8,FORTUNATO (FR),59,2,1 C,1,"5,3",4 C,J.A.RODRIGUEZ,V. JANACEK,,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+9,TEYMUR,"57,00-57,50",2,4 C,6,"6,7",REZA PAZOOKI,O.ANAYA,R. RAMOS,,18 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,24,La Zarzuela
+1,PETRA (FR),57,2,,5,"6,2",ECURIE DES MOUET...,"A.IMAZ,B.",C. CADEL,-8,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+2,ZHARINA (GB),57,2,3 1/2 C,9,"4,7",S.ELORZA CAVENGT,A.SOTO,J.GELABERT,,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+3,ARIANE,57,2,1/4 C,2,12,LOUGHTOWN STUD L...,M.ALONSO R.,G.TROLLEY DE PRE...,,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+4,SAFAGA,57,2,3/4 C,7,"3,2",ASOC.LA TOLEDANA...,CH.DELCHER,B. FAYOS,,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+5,ENORINA (FR),57,2,NARIZ,3,"4,8",CALEJAÑA,A.REMOLINA,V. JANACEK,,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+6,QUEEN OF GLORY (IRE),57,2,1/4 C,6,"9,7",SAN CRISTOBAL,J.LOPEZ,C.PEREZ,,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+7,WALKING TO GLORY (FR),57,2,1 1/4 C,8,"28,3",AMAZING TURF,J.A.RODRIGUEZ,R.N.VALLE,,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+8,LADY RAZALMA (GB),57,2,4 C,4,"10,5",CENTURION,M&M RACING,J.L. MARTINEZ,(4)(8),18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+9,ADHARHA (IRE),57,2,1/4 C,1,"26,4",MARTUL,R.MARTIN A.,J.ZAMBUDIO,-3,18 de septiembre de 2022,12:40,H - Bueno,1400,Liso,0,Parcialmente nublado,0,10,26,La Zarzuela
+1,CAROLINA WEST,58,4,,9,"3,5",TIZIANO,J.L.MAROTO,V. JANACEK,,18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+2,SOFUNNY (IRE),59,3,1/2 C,8,"7,1",TRILOGIA,P.OLAVE,B. FAYOS,,18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+3,VIKING CITY (FR),"60,5",3,2 C,5,"4,6",CUADRA A.F.F S.L,F.RODRIGUEZ,C. CADEL,(3)(8),18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+4,VINCI LISA (GB),61,3,1 1/2 C,3,"7,1",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+5,NATURAL TALENT,"63,00-60,50",4,2 1/2 C,1,"11,8",4 C,A.SANCHEZ C.,N.SACCU,(3)(8),18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+6,HEY JUDE (IRE),"61,00-58,00",3,3 3/4 C,4,"15,6",MEDITERRANEO,G.ARIZKORRETA,J.ZAMBUDIO,,18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+7,SHE IS FIERCE (GB),"52,00-53,50",4,3/4 C,10,25,TAPA TAPA,A.SANCHEZ C.,D. FERREIRA,-3,18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+8,ARETHA,"63,00-59,00",5,CABEZA,2,"6,7",ARTEMIS,J.LOPEZ,C.PEREZ,,18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+9,ALPHABETIC (GB),60,3,4 3/4 C,6,"13,1",YEGUADA LA DONA,T.CALLEJO S.,N. DE JULIAN,(3)(8),18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+10,PIU BIRCH (FR),59,3,LEJOS,7,"21,7",DELTA,M.A.MARIN,J.L. BORREGO,,18 de septiembre de 2022,13:15,H - Bueno,2300,Liso,0,Parcialmente nublado,0,10,27,La Zarzuela
+1,RODABALLO (GB),58,5,,5,"1,8",PATA NEGRA RACIN...,G.ARIZKORRETA,J.L. MARTINEZ,,18 de septiembre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,10,29,La Zarzuela
+2,RESACON (GB),58,6,CUELLO,4,"3,9",FORMENTOR,J.M.OSORIO,B. FAYOS,,18 de septiembre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,10,29,La Zarzuela
+3,GUERREIRA (IRE),"56,5",5,1/2 C,6,"18,2",NOSSA SENHORA DO...,H.PEREIRA,C. CADEL,,18 de septiembre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,10,29,La Zarzuela
+4,RAIKU (FR),58,4,1/2 C,3,6,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,18 de septiembre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,10,29,La Zarzuela
+5,SMASH HIT (GB),"59,5",4,1 C,2,"15,1",ISLA DE FUERTEVE...,J.C.CERQUEIRA,R.N.VALLE,,18 de septiembre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,10,29,La Zarzuela
+6,POWERFUL SOLE (GB),"59,5",6,9 C,1,"6,5",TINERFE,O.ANAYA,R. RAMOS,-8,18 de septiembre de 2022,13:50,H - Bueno,1600,Liso,0,Soleado,0,10,29,La Zarzuela
+1,TRES DE TREBOL (FR),"55,50-51,50",4,,8,"5,1",FORRAJES Y CEREA...,D.DIEZ,C.PEREZ,-8,18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+2,EMBAT (IRE),61,9,1 1/4 C,4,"7,4",LA TOLEDANA,J.L.MAROTO,J.L. MARTINEZ,,18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+3,ORBAYO (IRE),61,6,2 C,3,"7,6",LAS AGUILAS,A.CARRASCO,B. FAYOS,-8,18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+4,ASTURIAS,"59,50-57,00",4,1 C,6,"6,1",ZUL,C.FERNANDEZ,"STA. BUESA,C.",-3,18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+5,COLIBRI (IRE),"60,5",8,2 C,5,7,BARRA SUR,F.JIMENEZ,R. RAMOS,,18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+6,MEDICEAN BLUE (GB),"63,00-59,00",7,1/4 C,1,"9,9",TIZIANO,J.L.MAROTO,L.CASTILLON,,18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+7,ASTRAL,62,4,4 1/2 C,2,"3,1",ATERPE,G.ARIZKORRETA,V. JANACEK,-5,18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+8,BELLETTI (GB),"57,5",4,1 1/2 C,7,"17,8",MANU POLO,B.MORENO,J.L. BORREGO,(3)(8),18 de septiembre de 2022,14:25,H - Bueno,2300,Liso,0,Soleado,0,10,29,La Zarzuela
+1,DISILLUSION (IRE),56,2,,2,10,MEDITERRANEO,A.SOTO,J.L. MARTINEZ,-8,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+2,CASANDRA (FR),"54,5",2,1 1/2 C,4,"4,1",MEDITERRANEO,A.SOTO,J.GELABERT,(4)(8),11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+3,BLUE MOON EYES,"56,00-52,50",2,4 C,1,"5,9",4 C,J.A.RODRIGUEZ,C.PEREZ,,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+4,EL COMANDANTE,"56,00-57,50",2,1 3/4 C,3,"6,1",ELEVAGE LA REVER...,T.MARTINS,R. RAMOS,-8,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+5,NOOZHAH SUREÑA,"54,50-53,50",2,1 3/4 C,8,"23,7",SUREÑA,J.A.RODRIGUEZ,N. GARCIA,,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+6,CONCEPCION LINE (IRE),"53,00-50,50",2,1 3/4 C,10,5,DUENDE DEL SUR,CH.DELCHER,J.ZAMBUDIO,,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+7,MARY JOE (GB),"54,50-55,50",2,6 1/4 C,6,"12,2",MADRIZ,G.ARIZKORRETA,V. JANACEK,-4,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+8,KOMOTU (GB),"54,50-55,50",2,2 1/4 C,5,"7,4",MARTUL,R.MARTIN V.,J.L. BORREGO,-3,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+9,MAX MAGICAL (IRE),"54,50-53,50",2,1/2 C,7,"23,7",NEW BEGINNINGS,F.JIMENEZ,V.ALONSO V.,,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+10,WANDA,"54,5",2,LEJOS,9,"13,6",ESGUEVA,T.CALLEJO S.,N. DE JULIAN,-3,11 de septiembre de 2022,11:30,H - Bueno,1200,Liso,0,Soleado,0,7,29,La Zarzuela
+1,FARNESIO (IRE),57,2,,2,"4,4",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+2,ROBLON (GB),57,2,1 1/2 C,8,"7,2",MARTUL,R.MARTIN V.,J.L. BORREGO,-8,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+3,PAMPLONA,57,2,1/2 C,7,"43,4",YEGUADA ROCIO,G.ARIZKORRETA,D. FERREIRA,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+4,MADERAS (GB),"57,00-57,50",2,1 C,5,"6,5",SAN DIEGO,G.ARIZKORRETA,R. RAMOS,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+5,SWIFTWAY (FR),"55,50-53,00",2,CABEZA,15,"24,2",ELEVAGE LA REVER...,T.MARTINS,A.MARTINEZ,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+6,HELHEIM (FR),"57,00-54,50",2,CABEZA,4,"12,9",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+7,MOM CHERIE (FR) (a),57,2,1 C,6,"59,5",NEW BEGINNINGS,F.JIMENEZ,N. DE JULIAN,(3)(4),11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+8,BAILEN,"57,00-53,50",2,4 3/4 C,1,"13,4",LEONESA,J.LOPEZ,C.PEREZ,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+9,WILD HAWK (FR),"57,00-55,00",2,NARIZ,12,"23,7",LAC INTERNACIONA...,J.LOPEZ,N.SACCU,-3,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+10,WHITE WINE (IRE),57,2,CUELLO,11,"4,8",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+11,VITA BARELIERE (FR),"55,50-55,00",2,3 3/4 C,16,"52,1",JACAL,A.TSERETELI,L.FONSECA,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+12,SPANISH RULER (FR),57,2,1 C,10,"21,3",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+13,FLAMING GLASS,"57,00-56,00",2,CUELLO,3,"17,5",ARCO,A.SOTO,V.ALONSO V.,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+14,AURORITA (FR),"55,50-54,00",2,1/2 C,13,"35,9",RAPIER,B.VALENTI,B.ESTUPIÑAN,-3,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+15,LADY CLUNIA,"55,5",2,7 3/4 C,14,"13,4",BRAZACORTA,B.RAMA,F.MARTINEZ,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+16,SIDNEY,"57,00-56,00",2,4 C,9,"50,8",DELTA,M.A.MARIN,N. GARCIA,,11 de septiembre de 2022,12:05,H - Bueno,1400,Liso,0,Soleado,0,7,29,La Zarzuela
+1,MAGIC WARRIOR (IRE),57,3,,5,"6,2",SCUDERIA DREAMS ...,M&M RACING,J.GELABERT,,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+2,MAAMUR (IRE),58,3,CABEZA,2,"2,7",EL BILLETERO,O.ANAYA,R. RAMOS,-8,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+3,SOMETHING,57,3,3/4 C,6,"3,6",MEDITERRANEO,G.ARIZKORRETA,J.L. MARTINEZ,-3,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+4,BRAVO,57,3,1 C,3,"6,3",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+5,COLOSAL (IRE),57,3,1 1/2 C,4,"23,1",YEGUADA VALMODOM...,D.BENITEZ,R.N.VALLE,,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+6,DIVA VICTORIA (FR),"55,5",3,3/4 C,9,"11,5",ASOC.LA TOLEDANA...,CH.DELCHER,J.ZAMBUDIO,-4,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+7,CASILDA,"58,5",3,2 1/2 C,1,"18,3",CELSO MENDEZ,M.ALVAREZ,N. DE JULIAN,,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+8,CARISMA,"55,5",3,18 C,8,"16,3",LONEGAN,R.MARTIN A.,B.ESTUPIÑAN,,11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+9,AVE MUNDI,"55,5",3,5 1/4 C,7,31,EL PLACAJE,F.JIMENEZ,J.L. BORREGO,(5)(8),11 de septiembre de 2022,12:40,H - Bueno,1500,Liso,0,Soleado,0,8,33,La Zarzuela
+1,AZUL (GB),"55,50-51,50",3,,7,6,MARISOL,A.SOTO,C.PEREZ,-8,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+2,VINCENZO,55,3,2 1/4 C,9,"18,7",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+3,EL BOSNIA,63,5,1 1/4 C,2,"3,2",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+4,DERDAS (GB),"56,00-53,00",5,1 C,6,"10,6",VALLADOLID,G.ARIZKORRETA,A.MARTINEZ,(5)(8),11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+5,MARIANCE (GB),"55,50-54,50",4,1/4 C,8,34,REZA PAZOOKI,O.ANAYA,V.ALONSO V.,,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+6,CORRECAMINOS,58,4,CUELLO,5,"12,3",SAN MAMES,T.CALLEJO S.,J.L. BORREGO,,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+7,FINTAS (GB),"64,00-61,00",6,1/2 C,1,"6,7",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,-8,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+8,BLACK VOICE (GB),"52,00-51,00",3,CUELLO,11,"14,3",ENRIQUE FERNANDE...,J.C.CERQUEIRA,N. GARCIA,(6)(8),11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+9,TUNANTE,"60,50-58,00",4,2 1/4 C,4,"5,5",E. PEREZ GUZMAN,J.A.RODRIGUEZ,N.SACCU,-8,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+10,PREMIERE RHAPSODIE (FR),54,3,2 C,10,"19,5","ROISAJU LOPEZ, S...",P.OLAVE,R.N.VALLE,,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+11,NEW JACK SWING (IRE),62,5,10 C,3,"15,8",REZA PAZOOKI,O.ANAYA,R. RAMOS,,11 de septiembre de 2022,13:15,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+1,INES (GB),59,4,,2,"9,6",MEDITERRANEO,G.ARIZKORRETA,J.L. MARTINEZ,,11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+2,SUPER TRIP (FR),56,3,CABEZA,8,"4,7",AGRADO,CH.DELCHER,J.ZAMBUDIO,,11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+3,HARDPIA (FR),59,5,NARIZ,1,"1,8",VALDEOSERA,A.TSERETELI,R. RAMOS,-3,11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+4,TARANTELA (FR),59,5,1/4 C,5,"10,2",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+5,KENNOCHA (IRE),59,6,3 3/4 C,3,29,L & M RACING,G.VAZ,N. DE JULIAN,-8,11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+6,FIRST CROWD (GB),56,3,4 3/4 C,6,"36,4",ZURRAQUIN,B.RAMA,V.ALONSO V.,(4)(6),11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+7,NAVIA (IRE),59,5,NARIZ,4,"5,2",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+8,KANE ORE (FR),56,3,19 1/4 C,7,"30,3","ANNUA RACING, S....",J.C.ROSELL,J.L. BORREGO,,11 de septiembre de 2022,13:50,H - Bueno,2200,Liso,0,Soleado,0,10,33,La Zarzuela
+1,AMIL (FR),"60,5",3,,7,"2,7",JULIAN VIEITEZ,E.ARGUINZONES,V. JANACEK,(4)(5)(8),11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+2,DAIQUIRYA,58,3,1 1/4 C,11,"25,5",AJEDREZ RACING,B.RAMA,F.MARTINEZ,(4)(8),11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+3,KOHOOF (GB),"61,00-58,50",5,2 3/4 C,5,"7,6",NEW BEGINNINGS,F.JIMENEZ,B.ESTUPIÑAN,(2)(4)(8),11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+4,CONSPIRACY (GB),"58,5",4,1 1/2 C,9,"12,1",PATRIZIA ROSSANA...,M&M RACING,J.GELABERT,-8,11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+5,FAMILY TRIP (FR),"61,50-57,50",3,2 C,4,"6,2",BELEN,A.SOTO,C.PEREZ,-8,11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+6,SKIBO CASTLE (FR),62,4,3 3/4 C,3,"14,2",EL SHADDAY,M.J.PEREZ,J.M TORO,(3)(8),11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+7,BORONDON (FR),63,3,1 3/4 C,2,"6,2",SAN MARCOS,F.PEREZ,D. FERREIRA,,11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+8,KRYPTON (GB),61,3,1/4 C,6,"18,8",NOSSA SENHORA DO...,H.PEREIRA,R. RAMOS,-8,11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+9,CHUSQUEZ (GB),"59,00-58,00",3,1 C,8,"24,3",FORMENTOR,J.M.OSORIO,V.ALONSO V.,(4)(5)(8),11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+10,IDEAL,63,4,NARIZ,1,13,OLIVARES,E.ARGUINZONES,C.HAZEN,-8,11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+11,BEE IN YOUR BONNET (IRE),58,3,18 3/4 C,10,"17,6",ALEGRE,D.FARLETE,N. DE JULIAN,(2)(3)(8),11 de septiembre de 2022,14:25,H - Bueno,1200,Liso,0,Soleado,0,10,33,La Zarzuela
+1,SANSEVERO (IRE),"63,00-62,00",5,,2,"3,5",SARMIENTO Y DAVI...,O.ANAYA,"SRTA. LOPEZ, D.",-2,11 de agosto de 2022,22:10,Arena,1200,Liso,0,Despejado,0,10,31.5,La Zarzuela
+2,IDEAL,"62,00-61,00",4,9 1/2 C,3,4,OLIVARES,E.ARGUINZONES,"STA. BUESA,C.",-8,11 de agosto de 2022,22:10,Arena,1200,Liso,0,Despejado,0,10,31.5,La Zarzuela
+3,DERDAS (GB),"65,5",5,CUELLO,1,"1,8",VALLADOLID,G.ARIZKORRETA,"SR ALONSO V,C.",(5)(8),11 de agosto de 2022,22:10,Arena,1200,Liso,0,Despejado,0,10,31.5,La Zarzuela
+4,BRIAREO (IRE) (a),"59,00-60,00",5,13 3/4 C,4,"5,9",MP RACING,M.PULIDO,"SR,PULIDO,M.",(5)(8),11 de agosto de 2022,22:10,Arena,1200,Liso,0,Despejado,0,10,31.5,La Zarzuela
+1,MACADAMIA,"59,00-55,50",3,,3,"1,8",MEDITERRANEO,A.SOTO,J.ZAMBUDIO,-8,11 de agosto de 2022,22:45,Arena,1700,Liso,0,Despejado,0,10,31.5,La Zarzuela
+2,VEGADEO,"59,50-56,50",3,CUELLO,2,"5,7",YEGUADA ROCIO,G.ARIZKORRETA,N.SACCU,(4)(5),11 de agosto de 2022,22:45,Arena,1700,Liso,0,Despejado,0,10,31.5,La Zarzuela
+3,PANTXINETA,58,3,17 3/4 C,4,"3,3",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-4,11 de agosto de 2022,22:45,Arena,1700,Liso,0,Despejado,0,10,31.5,La Zarzuela
+4,PIU BIRCH (FR),"60,00-55,50",3,15 1/4 C,1,"21,2",DELTA,M.A.MARIN,C.PEREZ,-6,11 de agosto de 2022,22:45,Arena,1700,Liso,0,Despejado,0,10,31.5,La Zarzuela
+5,SAORI,"54,5",3,9 1/4 C,6,"15,5",MARMARIA,G.ARIZKORRETA,D. FERREIRA,(3)(6),11 de agosto de 2022,22:45,Arena,1700,Liso,0,Despejado,0,10,31.5,La Zarzuela
+6,GRISOL,"56,00-52,50",3,LEJOS,5,11,YEGUADA CORTIÑA...,R.MARTIN A.,L.CASTILLON,,11 de agosto de 2022,22:45,Arena,1700,Liso,0,Despejado,0,10,31.5,La Zarzuela
+1,CAMARINES (FR),61,3,,1,"2,3",GISPERT,P.OLAVE,B. FAYOS,-3,11 de agosto de 2022,23:20,Arena,2400,Liso,0,Despejado,0,10,30,La Zarzuela
+2,VINCI LISA (GB),"55,5",3,4 1/2 C,4,"6,1",YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,11 de agosto de 2022,23:20,Arena,2400,Liso,0,Despejado,0,10,30,La Zarzuela
+3,SOFUNNY (IRE),"53,50-50,50",3,CABEZA,5,"4,9",TRILOGIA,P.OLAVE,J.ZAMBUDIO,,11 de agosto de 2022,23:20,Arena,2400,Liso,0,Despejado,0,10,30,La Zarzuela
+4,CHAM'S DREAM (IRE),"55,5",3,9 3/4 C,3,"4,4",CHAMARTIN,J.HORCAJADA,V. JANACEK,,11 de agosto de 2022,23:20,Arena,2400,Liso,0,Despejado,0,10,30,La Zarzuela
+5,PEDRO EL GRANDE (FR),"52,00-50,50",3,17 1/2 C,6,"14,5",AMAZING TURF,J.A.RODRIGUEZ,C.PEREZ,,11 de agosto de 2022,23:20,Arena,2400,Liso,0,Despejado,0,10,30,La Zarzuela
+6,NAYMA,52,3,23 1/4 C,7,"23,8",BOLAK,J.C.CERQUEIRA,R.N.VALLE,(5)(8),11 de agosto de 2022,23:20,Arena,2400,Liso,0,Despejado,0,10,30,La Zarzuela
+7,IRUÑIA,"56,00-55,00",3,16 1/4 C,2,"8,8",SAMALASSA,M&M RACING,V.ALONSO V.,-4,11 de agosto de 2022,23:20,Arena,2400,Liso,0,Despejado,0,10,30,La Zarzuela
+1,CHAM'S PRIDE (IRE),"62,50-59,50",3,,4,"2,4",MEDITERRANEO,J.HORCAJADA,J.ZAMBUDIO,,11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+2,MELAMPO,"62,50-58,50",5,3/4 C,3,"8,3",ZURRAQUIN,B.RAMA,C.PEREZ,(5)(8),11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+3,DROVER (GB),"62,50-60,00",7,2 1/2 C,2,"21,5",PATRIZIA ROSSANA...,M&M RACING,B.ESTUPIÑAN,(2)(3)(8),11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+4,KARLUVY,63,5,3/4 C,1,4,A'CASIÑA,E.ARGUINZONES,V. JANACEK,(5)(8),11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+5,SOGALINDA,55,4,3/4 C,8,"6,5",ZEZINHO,J.C.CERQUEIRA,R.N.VALLE,(3)(8),11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+6,SHE IS FIERCE (GB),55,4,7 3/4 C,9,25,TAPA TAPA,A.SANCHEZ C.,D. FERREIRA,-3,11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+7,AMERICANISM (FR),61,8,2 1/4 C,5,"10,4",PATRIZIA ROSSANA...,M&M RACING,J.GELABERT,,11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+8,HAVANA MAGIC (GB),"54,00-51,50",7,10 1/2 C,11,38,MP RACING,M.PULIDO,Y.RODRIGUEZ,,11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+9,SINDAWER,55,3,13 3/4 C,10,45,ZUBI-ONDO,J.JIMENEZ,F.MARTINEZ,(4)(5),11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+10,ROSICRUCIEN (FR),"56,00-55,00",3,17 1/4 C,7,"18,6",CIELO DE MADRID,J.A.RODRIGUEZ,V.ALONSO V.,,11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+11,ROCHET ROUGE (GB),61,5,LEJOS,6,"47,3",C.SUPERMERCADO C...,A.CARDOSO,B. FAYOS,(3)(8),11 de agosto de 2022,23:55,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+1,BELADOR,"67,00-64,00",4,,2,"1,7",TOLEDO,A.NUÑEZ,J.ZAMBUDIO,(5)(8),11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+2,NATURAL TALENT,"55,00-54,00",4,9 1/4 C,6,"28,3",4 C,A.SANCHEZ C.,N.SACCU,(3)(8),11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+3,RUSHDY (IRE),55,5,1 3/4 C,8,"13,3",PEDRA BELA,D.SOUSA,N.SANTOS,-3,11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+4,BALLET STAR,"57,5",4,1 3/4 C,4,"13,9",HERDADE GOMES,O.ANAYA,N. DE JULIAN,,11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+5,CRIMSON MYSTERY (IRE),55,7,3 1/4 C,7,"16,2",RUSSIFOREVER,A.ABREU,B. FAYOS,-8,11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+6,HEADHUNTER (FR),"67,50-63,50",5,2 3/4 C,1,"6,2",PALCO 7,J.L.MAROTO,L.CASTILLON,,11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+7,ORBAYO (IRE),62,6,5 1/4 C,3,"5,1",LAS AGUILAS,A.CARRASCO,V. JANACEK,-8,11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+8,AS DE OROS (FR),"55,50-51,50",5,3/4 C,5,"13,4",YEPES MONTANCHEZ,J.A.RODRIGUEZ,C.PEREZ,(5)(8),11 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,10,30,La Zarzuela
+1,BABA KARAM,60,5,,2,2,REZA PAZOOKI,O.ANAYA,"STA. BUESA,C.",-8,6 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,9,31,La Zarzuela
+2,UROGALLO,59,4,6 3/4 C,3,"2,2",PEQUES,G.ARIZKORRETA,"SRTA. TENA, C.",,6 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,9,31,La Zarzuela
+3,AS DE OROS (FR),"60,00-58,00",5,17 C,1,"8,2",YEPES MONTANCHEZ,J.A.RODRIGUEZ,"SRTA RELAÑO,R.",(5)(8),6 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,9,31,La Zarzuela
+4,MAUNA LOA,"55,50-53,50",4,8 3/4 C,4,"6,3",PAOLO Y BERTA,M&M RACING,SRTA BALCONES T.,-8,6 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,9,31,La Zarzuela
+1,PREMIERE RHAPSODIE (FR),"60,5",3,,5,"2,8","ROISAJU LOPEZ, S...",P.OLAVE,J.L. BORREGO,,6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+2,BLACK VOICE (GB),"61,50-60,00",3,1 1/4 C,3,"8,8",ENRIQUE FERNANDE...,J.C.CERQUEIRA,L.FONSECA,(5)(8),6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+3,CONSPIRACY (GB),"57,5",4,1 C,7,"4,4",PATRIZIA ROSSANA...,M&M RACING,D. FERREIRA,(3)(8),6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+4,IDEAL,"63,00-59,00",4,1/4 C,1,"4,8",OLIVARES,E.ARGUINZONES,C.PEREZ,-8,6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+5,MELODY FRANCE (FR),"52,00-50,00",5,2 1/2 C,8,"9,9",SEPTIMO ARTE,M.J.PEREZ,J.ZAMBUDIO,(4)(8),6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+6,CHAPMAN BILLY (GB),"61,00-58,50",6,1/2 C,4,"14,5",AMAZING TURF,J.A.RODRIGUEZ,R.PEREZ D,(2)(5)(8),6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+7,LIGHTNINGSUN,"58,50-55,50",4,1 1/4 C,6,"9,8",YEGUADA VALMODOM...,D.BENITEZ,A.MARTINEZ,(4)(8),6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+8,SKIBO CASTLE (FR),"62,5",4,4 1/4 C,2,"12,5",EL SHADDAY,M.J.PEREZ,J.M TORO,(5)(8),6 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+1,PERFECT SUNRISE (FR),57,4,,3,4,EVANS MARCH,J.HORCAJADA,J.L. BORREGO,-8,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+2,TRASGU (GB),56,3,3 1/2 C,5,"2,5",MARTUL,J.A.RODRIGUEZ,D. FERREIRA,,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+3,MARIANCE (GB),"56,5",4,1 1/2 C,4,"21,9",REZA PAZOOKI,O.ANAYA,N. DE JULIAN,,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+4,NEW JACK SWING (IRE),63,5,NARIZ,2,"3,4",REZA PAZOOKI,O.ANAYA,R. RAMOS,,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+5,VINCENZO,"55,50-52,50",3,1 C,7,"5,9",YEGUADA AGF,G.ARIZKORRETA,A.MARTINEZ,,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+97,STREAKER (GB),"64,50-62,00",5,,1,0,MEDINA DIAZ,O.ANAYA,N.SACCU,-8,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+97,NUR,"56,00-55,00",4,,6,0,REZA PAZOOKI,O.ANAYA,N. GARCIA,,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+99,SANSEVERO (IRE),"54,50-51,50",5,,8,"13,1",SARMIENTO Y DAVI...,O.ANAYA,J.ZAMBUDIO,,6 de agosto de 2022,23:20,Arena,1200,Liso,0,Despejado,0,9,31,La Zarzuela
+1,WEERT (GB),"63,00-60,00",3,,1,"1,9",MARQUES DE MIRAF...,CH.DELCHER,J.ZAMBUDIO,-8,4 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+2,MELAMPO,"62,5",5,2 1/2 C,2,"7,1",ZURRAQUIN,B.RAMA,V. JANACEK,(5)(8),4 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+3,MACHU PICCHU,"62,5",4,3/4 C,3,"3,5",AMAZING TURF,J.A.RODRIGUEZ,R. RAMOS,,4 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+4,VIOLETTA,"60,00-57,00",3,11 1/2 C,4,"5,3",YEGUADA DONOSTIA...,G.ARIZKORRETA,A.MARTINEZ,-5,4 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+5,GIPSY BLUE EYES (FR),"54,00-51,00",4,17 3/4 C,5,"8,3",SAN MARCOS,F.PEREZ,C.PEREZ,-5,4 de agosto de 2022,22:10,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+1,FORTUNATO (FR),56,2,,2,"1,8",4 C,J.A.RODRIGUEZ,V. JANACEK,,4 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,12,31,La Zarzuela
+2,ASTUTO (FR),"60,00-56,50",2,3 1/4 C,1,"3,4",E. PEREZ GUZMAN,J.A.RODRIGUEZ,C.PEREZ,,4 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,12,31,La Zarzuela
+3,CANARION (IRE),"54,00-55,50",2,5 C,3,"4,7",EL BILLETERO,O.ANAYA,R. SOUSA,,4 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,12,31,La Zarzuela
+4,CASANDRA (FR),"52,50-53,00",2,1/2 C,4,"9,8",MEDITERRANEO,A.SOTO,J.GELABERT,-8,4 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,12,31,La Zarzuela
+5,LADY ANGIE,"52,5",2,LEJOS,6,"11,4",TOLEDO,A.NUÑEZ,R.N.VALLE,,4 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,12,31,La Zarzuela
+97,CONCEPCION LINE (IRE),"52,50-50,00",2,,5,0,DUENDE DEL SUR,CH.DELCHER,J.ZAMBUDIO,,4 de agosto de 2022,22:45,Arena,1200,Liso,0,Despejado,0,12,31,La Zarzuela
+1,HADDAF (IRE),62,7,,2,"1,8",SARMIENTO Y DAVI...,O.ANAYA,R. SOUSA,,4 de agosto de 2022,23:20,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+2,VELETA,"54,00-53,00",5,7 3/4 C,6,"5,7",POPURRI,M.J.PEREZ,V.ALONSO V.,(5)(8),4 de agosto de 2022,23:20,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+3,VALE (GB),"59,5",8,1 1/2 C,4,"5,7",BOLAK,M&M RACING,V. JANACEK,(2)(5)(8),4 de agosto de 2022,23:20,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+4,DARK PROFIT (IRE),62,10,1 1/4 C,3,"7,2",MAZANTINNI,A.CARRASCO,J.GELABERT,-6,4 de agosto de 2022,23:20,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+5,CHARMING LOOK (GB),63,4,7 1/4 C,1,"7,6",REZA PAZOOKI,O.ANAYA,R. RAMOS,-8,4 de agosto de 2022,23:20,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+6,BODAK YELLOW (IRE),"55,50-54,50",4,15 3/4 C,5,"15,4",BERNIE,J.C.CERQUEIRA,L.FONSECA,(2)(5)(8),4 de agosto de 2022,23:20,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+1,BERTIE FROM BEAU (GB),56,3,,2,"2,1",EL RETORNO,F.JIMENEZ,V. JANACEK,-8,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+2,JACINTHE BERE (FR),"54,50-55,50",3,1 1/4 C,8,"3,7",MEDITERRANEO,A.SOTO,R. SOUSA,-5,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+3,CAT HACLYSME (FR),56,3,9 1/2 C,3,"15,9",ANAIAK,O.ANAYA,N. DE JULIAN,,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+4,FITERO (IRE),"56,00-55,00",3,9 1/4 C,5,21,QUINTO REAL,J.M.OSORIO,V.ALONSO V.,,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+5,ROSICRUCIEN (FR),"54,50-53,50",3,12 1/2 C,10,30,CIELO DE MADRID,J.A.RODRIGUEZ,L.CASTILLON,-8,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+6,ALPHABETIC (GB),"56,00-52,50",3,2 C,1,4,YEGUADA LA DONA,T.CALLEJO S.,J.ZAMBUDIO,-8,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+7,VALL DE RUDA (IRE),56,3,3 C,6,"15,2",MEDITERRANEO,J.HORCAJADA,J.GELABERT,,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+8,PURITAINE SPRING,"54,5",3,15 1/2 C,9,"29,3",ZEZINHO,J.C.CERQUEIRA,L.FONSECA,,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+97,CARISMA,"54,50-55,00",3,,7,0,LONEGAN,R.MARTIN A.,B.ESTUPIÑAN,,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+97,CHANTEIRO (GB),"56,00-51,50",3,,4,0,ANAIAK,O.ANAYA,C.PEREZ,,4 de agosto de 2022,23:55,Arena,1700,Liso,0,Despejado,0,12,31,La Zarzuela
+1,MACADAMIA,"57,5",3,,6,"1,8",MEDITERRANEO,A.SOTO,R. SOUSA,-8,4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+2,FIRST CROWD (GB),"58,00-57,00",3,1/4 C,4,"19,3",ZURRAQUIN,B.RAMA,V.ALONSO V.,(4)(6),4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+3,VEGADEO,58,3,3 1/4 C,5,"3,4",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-4,4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+4,PEDRO EL GRANDE (FR),57,3,13 1/2 C,7,"9,5",AMAZING TURF,J.A.RODRIGUEZ,R.N.VALLE,-8,4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+5,VIKING CITY (FR),"59,00-54,50",3,24 1/4 C,3,"16,2",CUADRA A.F.F S.L,F.RODRIGUEZ,L.CASTILLON,(3)(8),4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+6,PIU BIRCH (FR),"59,50-55,00",3,9 3/4 C,2,"27,1",DELTA,M.A.MARIN,C.PEREZ,-6,4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+7,SASLONG (FR),"62,00-58,50",3,12 1/2 C,1,"7,5",DUENDE DEL SUR,CH.DELCHER,J.ZAMBUDIO,-3,4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+97,GREZIA,"55,5",3,,8,0,MAGICA,M&M RACING,N. DE JULIAN,(2)(4),4 de agosto de 2022,0:30,Arena,1900,Liso,0,Despejado,0,12,31,La Zarzuela
+1,MRS PINK (FR),57,2,,3,0,NANINA,J. CALDERON,J. GELABERT,(3)(8),27 de noviembre de 2022,12:00,H - Bueno,1500,Liso,0,Soleado,0,8,18,Dos Hermanas
+2,PENRHEAD (FR),58,2,3 3/4,2,0,PALCO 7,J.L MAROTO,"V. ALONSO V (56,5)",-3,27 de noviembre de 2022,12:00,H - Bueno,1500,Liso,0,Soleado,0,8,18,Dos Hermanas
+3,PIKOLE (IRE),58,2,16 3/4,1,0,MAIA LIDADOR,J. OLIVEIRA,N. DE JULIAN,(5)(8),27 de noviembre de 2022,12:00,H - Bueno,1500,Liso,0,Soleado,0,8,18,Dos Hermanas
+1,DABESPIR (FR),"61,5",4,,2,0,SOÑADOR,B. RAMA,V. JANACEK,(3)(8),27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+2,KOHOOF (GB),"60,5",5,CABEZA,4,0,NEW BEGINNINGS,F. JIMENEZ,"C. PEREZ (57,5)",2)(4)(8,27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+3,HOLLOKO (FR),"59,5",7,7 1/4,8,0,STAND CARMO,G. VAZ,L. FONSECA (58),(2)(3),27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+4,SKIBO CASTLE (FR),61,4,,3,0,MSCARS,M. CARVALHO,R. RAMOS,,27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+5,OBELIX DA TORRE (POR),"59,5",4,2 1/2,9,0,AGRO CARVALHO,M. CARVALHO,N. DE JULIAN,,27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+6,KOSCIUSZKO (IRE),"59,5",6,3 1/2,6,0,LA MATA,I. OLIVA,J. GELABERT (G.Blanca),-3,27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+7,VELETA,"59,5",5,1 1/2,7,0,POPURRI,M.J PEREZ,"V. ALONSO V (58,5)",(5)(8),27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+8,SISSI BARELIERE (FR),60,4,2 1/4,5,0,JOSE MIGUEL,A. ABREU,D. FERREIRA,-8,27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+9,NEPOMUK,63,3,1 1/2,1,0,LA MATA,I. OLIVA,R.N. VALLE,,27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+10,IMPRESSIONANT (USA),"58,5",7,2,10,0,AIRES DE DOÑANA,G. RODRIGUEZ,J.L BORREGO,-8,27 de noviembre de 2022,12:35,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+1,RUSHDY (IRE),55,5,,8,0,PEDRA BELA,D. SOUSA,"N. SANTOS (56,5)",-3,27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+2,ATLANTA (FR),57,3,3,5,0,CARAL,J.L MAROTO,L. CASTILLON (53),,27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+3,ALNASHERAT (GB),66,6,1 3/4,1,0,IRU,O. ANAYA,C. HAZEN (62),,27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+4,COSTA ESMERALDA (FR),55,8,1,9,0,JACOPO TELLINI,M & M RACING,B. ESTUPIÑAN (54),,27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+5,LINDA (IRE),60,5,3 1/2,2,0,MARQUES DE MIRAFLORES DE SAN ANTONIO,CH. DELCHER,"C. PEREZ (56,5)",,27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+6,ALDUFOOF (GB),59,4,6 1/2,4,0,ALEGRE,D. FARLETE,N. DE JULIAN,(5)(8),27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+7,TALES (GB),55,5,1/2,7,0,CANARIAS,E. ARGUINZONES,"V. JANACEK (55,5)",(5)(8),27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+8,MUGUETAJARRA,57,5,5 1/4,6,0,PIGUINHA,G. VAZ,J. GELABERT,,27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+9,FIJI GOLD (GB),59,3,CUELLO,3,0,SOÑADOR,B. RAMA,L. FONSECA (57),-3,27 de noviembre de 2022,13:10,H - Bueno,1600,Liso,0,Soleado,0,8,18,Dos Hermanas
+1,LIGHTNINGSUN,61,4,,5,0,YEGUADA VALMODOMUS,D. BENITEZ,V. JANACEK,-8,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+2,SPINNERETT (GB),52,7,2 1/2,12,0,AIRES DE DOÑANA,G. RODRIGUEZ,V. ALONSO V. (51),,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+3,DIMANCHE DE MAI (FR),54,7,CABEZA,10,0,DA INVICTA,M. SANTOS,A. MARTINEZ (51),(5)(8),27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+4,NYALA (GB),52,7,4,11,0,ALEGRE,D. FARLETE,N. DE JULIAN (53),-5,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+5,PIRLO,62,4,1 1/2,4,0,HACIENDA DEL MONASTERIO,C. FERNANDEZ. B.,J.L BORREGO,-8,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+6,MELODY FRANCE (FR),56,5,1,9,0,SEPTIMO ARTE,M.J PEREZ,R.N. VALLE,-4,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+7,WAILEA NIGHTS (IRE),62,5,4 1/4,3,0,RAFA RODRIGUES,G. VAZ,J. GELABERT,-8,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+8,AVE MUNDI,63,3,10 3/4,1,0,EL PLACAJE,F. JIMENEZ,"C. HAZEN (59,5)",,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+9,MRS JENNINGS (GB),61,4,5,7,0,SERRINHA,A. SILVA,D. FERREIRA,,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+10,NOODLE DE STAR (POR),57,5,NARIZ,8,0,EQUIMANOS STAR,M. SANTOS,"L. FONSECA (55,5)",,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+11,CARISMA,63,3,2,2,0,LONEGAN,E. ARGUINZONES,C. PEREZ (60),(3)(8),27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+12,TE DIRE COSES (GB),61,6,16,6,0,LA MATA,I. OLIVA,R. RAMOS,,27 de noviembre de 2022,13:45,H - Bueno,1600,Liso,0,Soleado,0,8,20,Dos Hermanas
+1,HARRISON POINT (FR)(8000),61,5,,2,0,TINERFE,O. ANAYA,R. RAMOS,,27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+2,ALABAMA (FR)(6000),58,3,2 1/2,4,0,AGRADO,R. MARTIN A,J.L. BORREGO,(4)(8),27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+3,LEADER'S LEGACY (USA)(8.000),61,8,2,3,0,MARQUES DE MIRAFLORES DE SAN ANT,CH. DELCHER,V. JANACEK,-8,27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+4,RAMIRIQUI (FR)(4.000),56,5,1/2,8,0,CUADRA A.F.F.S.L,F. RODRIGUEZ,"V. ALONSO. V (54,5)",-5,27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+5,ELAMIRR (IRE)(8.000),61,6,1/2,1,0,UMAMI,M & M RACING,B. ESTUPIÑAN (58),-8,27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+6,LA PIENZA (FR)(4.000),56,4,9 3/4,7,0,MAIA LIDADOR,J. OLIVEIRA,N. DE JULIAN,-8,27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+7,ANAZ (GB) (4.000),56,4,2 1/4,6,0,OLIVARES,E. ARGUINZONES,C. PEREZ (52),(2)(5)(8),27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+8,APOCALYPTIQUE (FR)(4.000),57,4,3,5,0,CIDADE BERÇO,H. PEREIRA,J. GELABERT,-8,27 de noviembre de 2022,14:20,H - Bueno,1800,Liso,0,Soleado,0,8,20,Dos Hermanas
+1,CHARMING LOOK (GB),59,4,0,2,0,REZA PAZOOKI,O. ANAYA,R. RAMOS,-8,4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+2,GUERREIRA (IRE),56,5,0,3,0,NOSSA SENHORA DO VALE,H.PEREIRA,V. JANACEK,,4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+3,ALDUFOOF (GB),62,4,0,1,0,ALEGRE,D. FARLETE,"C. PEREZ (58,5)",(4)(5)(8),4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+1,WHAT'S UP (FR),64,4,0,2,0,MARQUES DE MIRAFLORES,CH. DELCHER,"SR. SARABIA, D.",-3,4 de diciembre de 2022,12:35,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+2,BARBADO,64,4,0,1,0,WONDERLAND,O. ANAYA,"SR, ALVAREZ, L. (61)",-8,4 de diciembre de 2022,12:35,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+3,LAYALINA (FR),"60,5",4,0,5,0,LOPEZ VALLADARES,J.C. ROSELL,"SRTA. LOPEZ, D. (59,5)",,4 de diciembre de 2022,12:35,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+4,BOSTON BRUIN (IRE),62,6,0,3,0,ENRIQUE FERNANDEZ DE VEGA,J. LOPEZ,"SRTA. RELAÑO, R. (59)",-8,4 de diciembre de 2022,12:35,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+5,MR HOBBS (GB),62,8,0,4,0,ADRIANA,B. RAMA,"SRTA. FRACMAN, P. (58)",,4 de diciembre de 2022,12:35,H - Blando,1600,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+1,DELIGHT (FR),63,3,0,1,0,CHEVAL MAX,A. SOTO,B. FAYOS,,4 de diciembre de 2022,13:10,H - Blando,2200,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+2,GOLD BEACH (FR),62,3,0,2,0,DA INVICTA,M. SANTOS,V. JANACEK,(3)(8),4 de diciembre de 2022,13:10,H - Blando,2200,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+3,CHAM'S DREAM (IRE),61,3,0,4,0,CHAMARTIN,J. HORCAJADA,D. SIKOROVA (57),,4 de diciembre de 2022,13:10,H - Blando,2200,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+4,NA RUA (POR),52,5,0,7,0,ESPECTACULO,H.PEREIRA,A. MARTINEZ (51),,4 de diciembre de 2022,13:10,H - Blando,2200,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+5,RUMBERA (FR),59,5,0,5,0,COCHETEUX,M. ALVAREZ,V. ALONSO V. (58 ),,4 de diciembre de 2022,13:10,H - Blando,2200,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+6,ROSICRUCIEN (FR),56,3,0,6,0,CIELO DE MADRID,G. RODRIGUEZ,"A. OLIVAS (53,5)",,4 de diciembre de 2022,13:10,H - Blando,2200,Liso,0,Lluvia moderada a intervalos,0,12,16.5,Dos Hermanas
+97,ARGELLIE,"61,5",3,0,3,0,MARQUES DE MIRAFLORES,CH. DELCHER,"C. PEREZ (58,5)",-8,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+1,VOLCAN (FR),57,2,0,1,0,PINNA FIDELIS,G. ARIZKORRETA,V. JANACEK,,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+2,DE FIESTA (IRE),"54,5",2,0,10,0,REZA PAZOOKI,O. ANAYA,R.N. VALLE,-8,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+3,TRAPIO,56,2,0,7,0,RUSH RACING,M & M RACING,J.L. BORREGO,,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+4,FLAMING GLASS,56,2,0,4,0,ARCO,A. SOTO,B. FAYOS,,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+5,XILADO (GB),56,2,0,8,0,PAOLO NERI,M & M RACING,B. ESTUPIÑAN (54),-3,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+6,PASAPALABRA,56,2,0,6,0,ENALTO,A. TSERETELI,"C. PEREZ (53,5)",,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+7,UMBRA (FR),"54,5",2,0,11,0,COCHETEUX,M. ALVAREZ,"V.ALONSO V(53,5)",,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+8,CONCEPCION LINE (IRE),"54,5",2,0,9,0,DUENDE DEL SUR,CH. DELCHER,M.E FERNANDEZ,,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+9,VADALEW (IRE),"54,5",2,0,12,0,ELEVAGE LA REVERDITE,T. MARTINS,J. GELABERT,,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+10,BASIO (FR),56,2,0,2,0,HABIT,F. PEREZ,D. FERREIRA,,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+11,BEL EVENT (FR),56,2,0,3,0,EL REMO,G. ARIZKORRETA,"D. SIKOROVA(52,5)",,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+97,FUOCO GRECO,56,2,0,5,0,AHLEM,M & M RACING,Y. RODRIGUEZ (54),,4 de diciembre de 2022,13:45,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+1,GRAN BELGA (GB),"60,5",3,0,4,0,EL RETORNO,F. JIMENEZ,V. JANACEK,(3)(8),4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+2,PELLIQUERO (FR),63,5,0,2,0,CIELO DE MADRID,G. RODRIGUEZ,"A. OLIVAS (60,5)",,4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+3,VIKING CITY (FR),58,3,0,7,0,CUADRA A.F.F S.L.,F. RODRIGUEZ,C. PEREZ (55),(3)(8),4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+4,DUTCH KIKI (GB),"59,5",4,0,6,0,PETIT CANTER,A. TSERETELI,N. SACCU (57),,4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+5,ROBAYERA (IRE),58,3,0,8,0,EL GENTIO,A. SOTO,D. SIKOROVA (54),-8,4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+6,SEVERUS (FR),63,3,0,1,0,CELSO MENDEZ,M. ALVAREZ,J. GELABERT,,4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+7,BARENTON (FR),60,8,0,5,0,VISCAIÑA,A.ABREU,R.N. VALLE,-5,4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+97,COBRECES (GB),62,4,0,3,0,ENRIQUE FERNANDEZ DE VEGA,J. LOPEZ,B. FAYOS,(5)(8),4 de diciembre de 2022,14:20,H - Blando,2200,Liso,0,Soleado,0,12,19,Dos Hermanas
+1,TIGER BASH (FR) (8.000),60,3,0,1,0,GASTRO,G. ARIZKORRETA,V. JANACEK,-3,4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+2,ALABAMA (FR) (8.000),59,3,0,2,0,AGRADO,R. MARTIN A,J.L. BORREGO,(4)(8),4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+3,COLOSAL (IRE) (8.000),59,3,0,3,0,YEGUADA VALMODOMUS,D. BENITEZ,B. ESTUPIÑAN (56),,4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+4,BELLUNEZA (FR) (12.000),"58,5",3,0,4,0,"CUADRA A.F.F, S.L,",F.RODRIGUEZ,B. FAYOS,,4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+5,MEDIANOCHE (8.000),"56,5",3,0,5,0,HISPANICA,O. ANAYA,R.N. VALLE,,4 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+1,HALAGADA,"59,5",3,0,4,0,TIFLISI,A. TSERETELI,B. FAYOS,(5)(8),4 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,0.7,14,14,Dos Hermanas
+2,BORONDON (FR),63,3,0,1,0,SAN MARCOS,F. PEREZ,D. FERREIRA,,4 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,0.7,14,14,Dos Hermanas
+3,NOODLE DE STAR (POR),52,5,0,5,0,EQUIMANOS STAR,M. SANTOS,J. ZAMBUDIO (51),-8,4 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,0.7,14,14,Dos Hermanas
+4,KRYPTON (GB),61,3,0,2,0,NOSSA SENHORA DO VALE,H. PEREIRA,V. JANACEK,-8,4 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,0.7,14,14,Dos Hermanas
+5,SKIBO CASTLE (FR),"60,5",4,0,3,0,MSCARS,M. CARVALHO,R. RAMOS,-5,4 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,0.7,14,14,Dos Hermanas
+1,INCREDIT (GB),59,3,0,4,0,MARQUES DE MIRAFLORES,CH. DELCHER,J. ZAMBUDIO (58),,4 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,17,16,Dos Hermanas
+2,TUNANTE,61,4,0,2,0,E. PEREZ GUZMAN,J.A. RODRIGUEZ,N. DE JULIAN,-8,4 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,17,16,Dos Hermanas
+3,VEGADEO,"58,5",3,0,6,0,SOÑADOR,B. RAMA,V. JANACEK,-5,4 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,17,16,Dos Hermanas
+4,DERDAS (GB),"58,5",5,0,5,0,VALLADOLID,G. ARIZKORRETA,D. FERREIRA,(5)(8),4 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,17,16,Dos Hermanas
+5,SANSEVERO (IRE),63,5,0,1,0,WONDERLAND,O. ANAYA,R. RAMOS,-2,4 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,17,16,Dos Hermanas
+97,CORRECAMINOS,61,4,0,3,0,SAN MAMES,T. CALLEJO S.,J. GELABERT,-8,4 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,17,16,Dos Hermanas
+1,COSI COSI,"56,5",2,0,3,0,OLEOVID,A. CARRASCO,V. JANACEK,,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+2,BRIGADOON (FR),56,2,0,4,0,RUSH RACING,P. OLAVE,J.L. BORREGO,,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+3,EL COMANDANTE,56,2,0,6,0,ELEVAGE LA REVERDITE,T. MARTINS,B. FAYOS,-8,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+4,PERILLAN,58,2,0,2,0,E. PEREZ GUZMAN,J.A. RODRIGUEZ,R.N. VALLE,,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+5,FORTUNATO (FR),58,2,0,1,0,4C,J.A. RODRIGUEZ,N. DE JULIAN,-8,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+6,NOOZHAH SUREÑA,"54,5",2,0,9,0,SUREÑA,J.A. RODRIGUEZ,"J. ZAMBUDIO (53,5)",,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+7,QUISQUILLA (IRE),"54,5",2,0,10,0,CUADRA A.F.F. S.L.,F. RODRIGUEZ,M.E. FERNANDEZ,,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+8,ADHARHA (IRE),"54,5",2,0,7,0,LA HORA DEL TURF,R. MARTIN A,J. GELABERT,-4,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+9,DANCE AHEAD (IRE),56,2,0,5,0,NOSSA SENHORA DO VALE,H. PEREIRA,D. FERREIRA,-8,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+97,CONCEPCION LINE (IRE),"54,5",2,0,8,0,DUENDE DEL SUR,CH. DELCHER,"SRTA. BUESA, C (52,5)",,4 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.2,17,16,Dos Hermanas
+1,SPANISH CAMELOT (IRE),56,3,0,5,0,YEGUADA VALMODOMUS,D. BENITEZ,R.N. VALLE,-8,4 de diciembre de 2022,14:20,H - Blando,2100,Liso,0,Parcialmente nublado,0,20,18,Dos Hermanas
+2,SOFUNNY (IRE),"60,5",3,0,1,0,TRILOGIA,P. OLAVE,"A.J. OLIVAS (57,5)",,4 de diciembre de 2022,14:20,H - Blando,2100,Liso,0,Parcialmente nublado,0,20,18,Dos Hermanas
+3,MAKOTOINABAGOU (FR),"55,5",4,0,6,0,ALEGRE,D. FARLETE,N. DE JULIAN,(3)(8),4 de diciembre de 2022,14:20,H - Blando,2100,Liso,0,Parcialmente nublado,0,20,18,Dos Hermanas
+4,DANCE JUPITER (IRE),57,6,0,3,0,MARQUES DE MIRAFLORES,CH. DELCHER,J. ZAMBUDIO (56),-8,4 de diciembre de 2022,14:20,H - Blando,2100,Liso,0,Parcialmente nublado,0,20,18,Dos Hermanas
+5,GRILO (IRE),59,5,0,2,0,NOSSA SENHORA DO VALE,H. PEREIRA,V. JANACEK,-4,4 de diciembre de 2022,14:20,H - Blando,2100,Liso,0,Parcialmente nublado,0,20,18,Dos Hermanas
+6,PUELL (GB),56,3,0,4,0,LA TOLEDANA,J.L. MAROTO,B.FAYOS,(2)(4)(8),4 de diciembre de 2022,14:20,H - Blando,2100,Liso,0,Parcialmente nublado,0,20,18,Dos Hermanas
+1,TIGER BASH (FR) (8.000),60,3,0,1,0,GASTRO,G. ARIZKORRETA,V. JANACEK,-3,11 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+2,ALABAMA (FR) (8.000),59,3,0,2,0,AGRADO,R. MARTIN A,J.L. BORREGO,(4)(8),11 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+3,COLOSAL (IRE) (8.000),59,3,0,3,0,YEGUADA VALMODOMUS,D. BENITEZ,B. ESTUPIÑAN (56),,11 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+4,BELLUNEZA (FR) (12.000),"58,5",3,0,4,0,"CUADRA A.F.F, S.L,",F.RODRIGUEZ,B. FAYOS,,11 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+5,MEDIANOCHE (8.000),"56,5",3,0,5,0,HISPANICA,O. ANAYA,R.N. VALLE,,11 de diciembre de 2022,12:00,H - Blando,1600,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+1,HALAGADA,"59,5",3,0,4,0,TIFLISI,A. TSERETELI,B. FAYOS,(5)(8),11 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+2,BORONDON (FR),63,3,0,1,0,SAN MARCOS,F. PEREZ,D. FERREIRA,,11 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+3,NOODLE DE STAR (POR),52,5,0,5,0,EQUIMANOS STAR,M. SANTOS,J. ZAMBUDIO (51),-8,11 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+4,KRYPTON (GB),61,3,0,2,0,NOSSA SENHORA DO VALE,H. PEREIRA,V. JANACEK,-8,11 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+5,SKIBO CASTLE (FR),"60,5",4,0,3,0,MSCARS,M. CARVALHO,R. RAMOS,-5,11 de diciembre de 2022,12:35,H - Blando,1200,Liso,0,Ligeras lluvias,1,14,14,Dos Hermanas
+1,INCREDIT (GB),59,3,0,4,0,MARQUES DE MIRAFLORES,CH. DELCHER,J. ZAMBUDIO (58),,11 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+2,TUNANTE,61,4,0,2,0,E. PEREZ GUZMAN,J.A. RODRIGUEZ,N. DE JULIAN,-8,11 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+3,VEGADEO,"58,5",3,0,6,0,SOÑADOR,B. RAMA,V. JANACEK,-5,11 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+4,DERDAS (GB),"58,5",5,0,5,0,VALLADOLID,G. ARIZKORRETA,D. FERREIRA,(5)(8),11 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+5,SANSEVERO (IRE),63,5,0,1,0,WONDERLAND,O. ANAYA,R. RAMOS,-2,11 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+97,CORRECAMINOS,61,4,0,3,0,SAN MAMES,T. CALLEJO S.,J. GELABERT,-8,11 de diciembre de 2022,13:10,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+1,COSI COSI,"56,5",2,0,3,0,OLEOVID,A. CARRASCO,V. JANACEK,,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+2,BRIGADOON (FR),56,2,0,4,0,RUSH RACING,P. OLAVE,J.L. BORREGO,,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+3,EL COMANDANTE,56,2,0,6,0,ELEVAGE LA REVERDITE,T. MARTINS,B. FAYOS,-8,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+4,PERILLAN,58,2,0,2,0,E. PEREZ GUZMAN,J.A. RODRIGUEZ,R.N. VALLE,,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+5,FORTUNATO (FR),58,2,0,1,0,4C,J.A. RODRIGUEZ,N. DE JULIAN,-8,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+6,NOOZHAH SUREÑA,"54,5",2,0,9,0,SUREÑA,J.A. RODRIGUEZ,"J. ZAMBUDIO (53,5)",,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+7,QUISQUILLA (IRE),"54,5",2,0,10,0,CUADRA A.F.F. S.L.,F. RODRIGUEZ,M.E. FERNANDEZ,,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+8,ADHARHA (IRE),"54,5",2,0,7,0,LA HORA DEL TURF,R. MARTIN A,J. GELABERT,-4,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+9,DANCE AHEAD (IRE),56,2,0,5,0,NOSSA SENHORA DO VALE,H. PEREIRA,D. FERREIRA,-8,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+97,CONCEPCION LINE (IRE),"54,5",2,0,8,0,DUENDE DEL SUR,CH. DELCHER,"SRTA. BUESA, C (52,5)",,11 de diciembre de 2022,13:45,H - Blando,1200,Liso,0,Ligeras lluvias,0.5,16,16,Dos Hermanas
+1,SPANISH CAMELOT (IRE),56,3,0,5,0,YEGUADA VALMODOMUS,D. BENITEZ,R.N. VALLE,-8,11 de diciembre de 2022,14:20,H - Blando,1200,Liso,0,Parcialmente nublado,0.5,20,18,Dos Hermanas
+2,SOFUNNY (IRE),"60,5",3,0,1,0,TRILOGIA,P. OLAVE,"A.J. OLIVAS (57,5)",,11 de diciembre de 2022,14:20,H - Blando,1200,Liso,0,Parcialmente nublado,0.5,20,18,Dos Hermanas
+3,MAKOTOINABAGOU (FR),"55,5",4,0,6,0,ALEGRE,D. FARLETE,N. DE JULIAN,(3)(8),11 de diciembre de 2022,14:20,H - Blando,1200,Liso,0,Parcialmente nublado,0.5,20,18,Dos Hermanas
+4,DANCE JUPITER (IRE),57,6,0,3,0,MARQUES DE MIRAFLORES,CH. DELCHER,J. ZAMBUDIO (56),-8,11 de diciembre de 2022,14:20,H - Blando,1200,Liso,0,Parcialmente nublado,0.5,20,18,Dos Hermanas
+5,GRILO (IRE),59,5,0,2,0,NOSSA SENHORA DO VALE,H. PEREIRA,V. JANACEK,-4,11 de diciembre de 2022,14:20,H - Blando,1200,Liso,0,Parcialmente nublado,0.5,20,18,Dos Hermanas
+6,PUELL (GB),56,3,0,4,0,LA TOLEDANA,J.L. MAROTO,B.FAYOS,(2)(4)(8),11 de diciembre de 2022,14:20,H - Blando,1200,Liso,0,Parcialmente nublado,0.5,20,18,Dos Hermanas
+1,CALCAS,57,3,0,6,,TARAMUNDI,E. ARGUINZONES,F. MARTINEZ,-8,15 de diciembre de 2022,16:00,H - Blando,1900,Liso,0,Lluvia moderada a intervalos,0.1,12,15,Dos Hermanas
+2,COOLMEEN VEGA (IRE),58,3,0,3,,SAYAGO,G. ARIZKORRETA,V. JANACEK,,15 de diciembre de 2022,16:00,H - Blando,1900,Liso,0,Lluvia moderada a intervalos,0.1,12,15,Dos Hermanas
+3,WEERT (GB),59,3,0,1,,MARQUES DE MIRAFLORES,CH. DELCHER,J. ZAMBUDIO (58),-8,15 de diciembre de 2022,16:00,H - Blando,1900,Liso,0,Lluvia moderada a intervalos,0.1,12,15,Dos Hermanas
+4,BERTIE FROM BEAU (GB),58,3,0,2,,EL ROQUE CANARIAS,F. JIMENEZ,B. FAYOS,-5,15 de diciembre de 2022,16:00,H - Blando,1900,Liso,0,Lluvia moderada a intervalos,0.1,12,15,Dos Hermanas
+5,BRIBON,57,3,0,5,,E. PEREZ GUZMAN,J.A. RODRIGUEZ,M.E. FERNANDEZ,,15 de diciembre de 2022,16:00,H - Blando,1900,Liso,0,Lluvia moderada a intervalos,0.1,12,15,Dos Hermanas
+6,GREYART (GB),56,3,0,7,,BEST HORSE,G. VAZ,J. GELABERT,(5)(8),15 de diciembre de 2022,16:00,H - Blando,1900,Liso,0,Lluvia moderada a intervalos,0.1,12,15,Dos Hermanas
+7,DEMOSTHENE (FR),58,3,0,4,,ALEGRE,D. FARLETE,N. DE JULIAN,-8,15 de diciembre de 2022,16:00,H - Blando,1900,Liso,0,Lluvia moderada a intervalos,0.1,12,15,Dos Hermanas
+1,BLUE MOON EYES (14000),58,2,0,2,,4C,J.A. RODRIGUEZ,V. JANACEK,,15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+2,WAYNA (10000),56,2,0,4,,BRISTOL STUD,T.MARTINS,B. FAYOS,(5)(8),15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+3,ZAMPO (10000),56,2,0,5,,LOS NIÑOS,J.C. CERQUEIRA,R.N. VALLE,-8,15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+4,MARY JOE (GB) (10000),"54,5",2,0,6,,MADRIZ,G. ARIZKORRETA,N. SACCU,(4)(8),15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+5,VADALEW (IRE) (10000),"54,5",2,0,8,,ELEVAGE LA REVERDITE,T.MARTINS,J. GELABERT,-8,15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+6,STEPHENIE'S SAGA (GB) (14.000),"56,5",2,0,3,,NOSSA SENHORA DO VALE,H. PEREIRA,"J. ZAMBUDIO (55,5)",,15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+7,ASTUTO (FR) (14000),58,2,0,1,,E. PEREZ GUZMAN,J.A. RODRIGUEZ,N. DE JULIAN,,15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+8,SWEET BABY (FR) (10000),"54,5",2,0,7,,IR,"A,SOTO",C. PÉREZ (52),-5,15 de diciembre de 2022,16:30,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+1,LA MAL AMADA,56,5,0,8,,EUROPA,J.C. CERQUEIRA,R.N. VALLE,(3)(8),15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+2,VINCI LISA (GB),"57,5",3,0,4,,BEST HORSE,T. MARTINS,J. GELABERT,(5)(8),15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+3,AARASH,63,4,0,1,,REZA PAZOOKI,O. ANAYA,R.RAMOS,,15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+4,GOLD BEACH (FR),57,3,0,5,,DA INVICTA,M. SANTOS,V. JANACEK,(3)(8),15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+5,AS DE OROS (FR),"56,5",5,0,6,,SUREÑA,J.A. RODRIGUEZ,"N. GARCÍA (55,5)",-5,15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+6,ANAZ (GB),"60,5",4,0,2,,OLIVARES,E. ARGUINZONES,B. FAYOS,(2)(5)(8),15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+7,UPSILON (GB),"56,5",4,0,7,,ANNUA RACING S.L.,J.C. ROSELL,"C. PÉREZ (53,5)",-5,15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+8,KATARA,"58,5",3,0,3,,ALEGRE,D. FARLETE,N. DE JULIAN,-3,15 de diciembre de 2022,17:00,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+1,DROVER (GB),63,7,0,1,,PATRIZIA ROSSANA TESTA,M & M RACING,"B. ESTUPIÑAN (60,5)",(2)(3)(8),15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+2,DIMANCHE DE MAI (FR),"52,5",7,0,9,,DA INVICTA,M. SANTOS,"N. GARCÍA (51,5)",(5)(8),15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+3,NA RUA (POR),52,5,0,10,,ESPECTACULO,H. PEREIRA,A. MARTÍNEZ (51),-3,15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+4,BIRDIE (FR),62,5,0,4,,SUPERMERCADOS CARDOSO,A. CARDOSO,M.E. FERNANDEZ,-8,15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+5,JERY SMAIH (FR),"62,5",4,0,2,,QUE TENDERETE,E. ARGUINZONES,F. MARTÍNEZ,(3)(8),15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+6,ROSICRUCIEN (FR),60,3,0,7,,CIELO DE MADRID,G. RODRIGUEZ,J. ZAMBUDIO (59),,15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+7,WAILEA NIGHTS (IRE),60,5,0,6,,RAFA RODRIGUES,G. VAZ,V. JANACEK,,15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+8,KOSCIUSZKO (IRE),"61,5",6,0,5,,LA MATA,I. OLIVA,B. FAYOS,-5,15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+9,PIU BIRCH (FR),58,3,0,8,,DELTA,M.A. MARIN,C. PÉREZ (55),-6,15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+10,SISSI BARELIERE (FR),"62,5",4,0,3,,JOSE MIGUEL,A. ABREU,D. FERREIRA,(3)(8),15 de diciembre de 2022,17:30,H - Blando,2100,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+1,WHAT'S UP (FR),59,4,0,4,,MARQUES DE MIRAFLORES,CH. DELCHER,J. ZAMBUDIO (58),-3,15 de diciembre de 2022,18:00,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+2,BELADOR,66,4,0,1,,TOLEDO,A. NUÑEZ,B. ESTUPIÑAN (63),(5)(8),15 de diciembre de 2022,18:00,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+3,CORPS DES PAGES (IRE),62,4,0,3,,ZACARIAS SARMIENTO,O. ANAYA,R.N. VALLE,,15 de diciembre de 2022,18:00,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+4,IRON DUKE (GER),63,6,0,2,,MALLOW GRAN CANARIA,O. ANAYA,R. RAMOS,-8,15 de diciembre de 2022,18:00,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+5,ZOFFWALTZ (FR),"54,5",3,0,5,,BEST HORSE,G. VAZ,B. FAYOS (56),,15 de diciembre de 2022,18:00,H - Blando,1500,Liso,0,Lluvia moderada a intervalos,0.1,11,14,Dos Hermanas
+1,GUERREIRA (IRE),"62,5",5,0,2,0,NOSSA SENHORA DO VALE,H. PEREIRA,V. JANACEK,,18 de diciembre de 2022,12:00,H - Bueno,1200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+2,KENDAYA (IRE),"64,5",4,0,1,0,AGRADO,CH. DELCHER,"J. ZAMBUDIO (63,5)",-3,18 de diciembre de 2022,12:00,H - Bueno,1200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+3,TUNANTE,62,4,0,3,0,E. PEREZ GUZMAN,J.A. RODRIGUEZ,N. DE JULIAN,-8,18 de diciembre de 2022,12:00,H - Bueno,1200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+4,KISSING (GB),"54,5",3,0,4,0,LOS GALACTICOS,J.J. CAMPEAO,D. FERREIRA,(3)(8),18 de diciembre de 2022,12:00,H - Bueno,1200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+1,PEKEN (FR),57,3,0,6,0,A.F.F. S.L,F. RODRIGUEZ,B. FAYOS,-5,18 de diciembre de 2022,12:35,H - Bueno,1200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+2,INCREDIT (GB),"62,5",3,0,2,0,MARQUES DE MIRAFLORES,CH.DELCHER,"C. PEREZ (59,5)",,18 de diciembre de 2022,12:35,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+3,ELAMIRR (IRE),63,6,0,1,0,BORRIQUITO COMO TURF,J. HORCAJADA,"SR. SARABIA, D.",-8,18 de diciembre de 2022,12:35,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+4,ATLANTA (FR),61,3,0,4,0,CARAL,J.L. MAROTO,L. CASTILLON (57),,18 de diciembre de 2022,12:35,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+5,LUANCO (FR),57,4,0,5,0,DIAZ RAMOS,O. ANAYA,R.N. VALLE,,18 de diciembre de 2022,12:35,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+6,LINDA (IRE),62,5,0,3,0,MARQUES DE MIRAFLORES,CH.DELCHER,J. ZAMBUDIO (61)(G.ROJA),,18 de diciembre de 2022,12:35,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+1,TARANTELA (FR),"56,5",5,0,6,0,YEGUADA AGF,G. ARIZKORRETA,J. GELABERT,,18 de diciembre de 2022,13:10,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+2,CAMARINES (FR),62,3,0,2,0,GISPERT,P. OLAVE,B. FAYOS,-3,18 de diciembre de 2022,13:10,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+3,COLIBRI (IRE),62,7,0,3,0,BARRA SUR,F. JIMENEZ,"D. SIKOROVA (57,5)",,18 de diciembre de 2022,13:10,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+4,MAITRE YODA (FR),63,4,0,1,0,BORRIQUITO COMO TURF,J. HORCAJADA,"SR. SARABIA, D.",-8,18 de diciembre de 2022,13:10,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+5,AMANDINE BARELIERE (FR),"56,5",3,0,5,0,LA CINCHA,A. TSERETELI,D. FERREIRA,-8,18 de diciembre de 2022,13:10,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+6,ZIKAWEI (FR),"54,5",3,0,8,0,MARQUES DE MIRAFLORES,CH. DELCHER,"J. ZAMBUDIO (53,5)",,18 de diciembre de 2022,13:10,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+7,MARTIN'S JUSIS (FR),61,4,0,4,0,HELIO MARQUES,G.VAZ,V. JANACEK,(5)(8),18 de diciembre de 2022,13:10,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+8,MAKOTOINABAGOU (FR),"55,5",4,0,7,0,ALEGRE,D. FARLETE,N. DE JULIAN,(3)(8),18 de diciembre de 2022,13:10,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+1,LIGHTNINGSUN,"60,5",4,0,5,0,YEGUADA VALMODOMUS,D. BENITEZ,V. JANACEK,-8,18 de diciembre de 2022,13:45,H - Bueno,2200,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+2,MELODY FRANCE (FR),52,5,0,10,0,SEPTIMO ARTE,M.J. PEREZ,J. ZAMBUDIO (51),(4)(8),18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+3,FORCE CAT (FR),"56,5",4,0,8,0,NANINA,J. CALDERON,B. FAYOS,(5)(8),18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+4,MACHU PICCHU,59,4,0,7,0,AMAZING TURF,J.A. RODRIGUEZ,N. DE JULIAN,,18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+5,KOHOOF (GB),"60,5",6,0,4,0,NEW BEGINNINGS,F. JIMENEZ,"C. PEREZ (57,5)",(2)(4)(8),18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+6,TIERMES,63,5,0,1,0,EL OSO,A. SOTO,I. MELGAREJO,,18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+7,MANIOKA (FR),61,4,0,3,0,EVANS MARCH,J. HORCAJADA,R.N. VALLE,-8,18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+8,HALAGADA,"62,5",3,0,2,0,TIFLISI,A. TSERETELI,C. HAZEN (59),(5)(8),18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+9,MRS JENNINGS (GB),54,4,0,9,0,SERRINHA,A.J. SILVA,A. MARTINEZ (51),-8,18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+97,HOLLOKO (FR),59,7,0,6,0,STAND CARMO,G. VAZ,J. GELABERT,(2)(3),18 de diciembre de 2022,13:45,H - Bueno,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+1,SOMMERSUN (FR),57,2,0,2,0,CUADRA A.F.F S.L,F.RODRIGUEZ,B. FAYOS,,18 de diciembre de 2022,14:20,H - Blando,1400,Liso,0,Parcialmente nublado,0.0,15,12,Dos Hermanas
+2,WARRIOR'S REVENGE (GB),57,2,0,3,0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,18 de diciembre de 2022,14:20,H - Blando,1600,Liso,0,Llovizna,0.1,15,12,Dos Hermanas
+3,HELHEIM (FR),57,2,0,1,0,MARQUES DE MIRAFLORES,CH.DELCHER,J. ZAMBUDIO,,18 de diciembre de 2022,14:20,H - Blando,1600,Liso,0,Llovizna,0.1,15,12,Dos Hermanas
+4,ZALACAIN (GER),57,2,0,4,0,SAN JOSE,D.MORISSON,J.L MARTINEZ,-8,18 de diciembre de 2022,14:20,H - Blando,1600,Liso,0,Llovizna,0.1,15,12,Dos Hermanas
+5,MRS PINK (FR),"55,5",2,0,5,0,NANINA,J.CALDERON,J. GELABERT,(5)(8),18 de diciembre de 2022,14:20,H - Blando,1600,Liso,0,Llovizna,0.1,15,12,Dos Hermanas
+6,PENRHEAD (FR),"55,5",2,0,6,0,PALCO 7,J.L.MAROTO,V. ALONSO. V,-3,18 de diciembre de 2022,14:20,H - Blando,1600,Liso,0,Llovizna,0.1,15,12,Dos Hermanas
