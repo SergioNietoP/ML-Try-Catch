@@ -1,0 +1,57 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,ORBAYO (IRE),69.5,6,0,5,0,LAS AGUILAS,A.CARRASCO,"SR. PINEDA, G.",-8,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+2,UROGALLO,68.5,4,0,8,0,PEQUES,G.ARIZKORRETA,"SR ALONSO V,C.",,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+3,AARASH,66.5,4,0,4,0,REZA PAZOOKI,O.ANAYA,"SRTA.GIAVARINI,S. ( 65.50 )",,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+4,TRES DE TREBOL (FR),64.5,4,0,7,0,FORRAJES Y CEREALES D. DIEZ,D.DIEZ,"SR.SARABIA,D.A.",-8,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+5,LA MAL AMADA,63.0,5,0,1,0,EUROPA,J.C.CERQUEIRA,"STA. BUESA,C. ( 62.00 )",(3)(8),29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+6,VINCI LISA (GB),60.0,3,0,10,0,BEST HORSE,T.MARTINS,"SRTA. TENA, C. ( 59.00 )",(5)(8),29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+7,NATURAL TALENT,59.0,4,0,3,0,4 C,A.SANCHEZ C.,"SRTA. LOPEZ, D. ( 58.00 )",-3,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+8,ARETHA,59.0,5,0,6,0,ARTEMIS,J.LOPEZ,"SRTA RELAÃO,R.",,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+9,SANS ATTENDRE (FR),59.0,3,0,9,0,IGUELDO,B.MORENO,"SR. GREDILLA,P. ( 61.00 )",-5,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+10,SHE IS FIERCE (GB),59.0,4,0,2,0,TAPA TAPA,A.SANCHEZ C.,"SRTA BALCONES T.,M. ( 57.00 )",-3,29 de diciembre de 2022,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+1,EL PATER (IRE),56.0,2,0,10,0,GISPERT,P.OLAVE,J.L. BORREGO,,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+2,HARVAC,56.0,2,0,9,0,BOLAK,J.C.CERQUEIRA,D. FERREIRA,,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+3,SHELBY (FR),56.0,2,0,8,0,MARTUL,J.A.RODRIGUEZ,N. DE JULIAN,,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+4,WINTON (FR),56.0,2,0,6,0,TIGRES,A.NUÃEZ,F.MARTINEZ,(4)(8),29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+5,ATREVIDA (FR),54.5,2,0,2,0,E. PEREZ GUZMAN,J.A.RODRIGUEZ,C.PEREZ ( 52.00 ),,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+6,DE FIESTA (IRE) (a),54.5,2,0,4,0,REZA PAZOOKI,O.ANAYA,R.N.VALLE,-8,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+7,HEBE,54.5,2,0,7,0,DUQUE DE ALBURQUERQUE,J.M.OSORIO,B. FAYOS ( 56.00 ),,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+8,MARY JOE (GB),54.5,2,0,5,0,MADRIZ,G.ARIZKORRETA,J.GELABERT,(4)(8),29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+9,QUICK REFLEX (USA),54.5,2,0,1,0,CENTURION,M&M RACING,J.L. MARTINEZ ( 55.00 ),,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+10,GOODIE CEN (IRE),53.0,2,0,11,0,CENTURION,M&M RACING,J.ZAMBUDIO ( 52.00 ) ( g .roja),,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+11,LA MENINA (IRE),53.0,2,0,3,0,CIELO DE MADRID,P.OLAVE,M.E.FERNANDEZ,-4,29 de diciembre de 2022,13:35,H - Blando,1700,Liso,0,Parcialmente nublado,0,8,9,La Zarzuela
+1,ADAAYLIGHT DANCER (IRE),63.0,4,0,9,0,MAD MEN,G.ARIZKORRETA,N.SACCU ( 60.50 ),,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+2,MACADAMIA,63.0,3,0,4,0,MEDITERRANEO,A.SOTO,C.PEREZ ( 60.00 ),-8,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+3,WALKCZAK (FR),59.5,3,0,6,0,JULIAN STABLES,F.JIMENEZ,N. DE JULIAN,(4)(8),29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+4,USI DE U,58.5,3,0,13,0,VALLADOLID,M.J.PEREZ,R.N.VALLE,-8,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+5,ANGELINES,58.0,3,0,5,0,EDIF,C.FERNANDEZ,C.HAZEN ( 54.50 ),,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+6,LADY MCQUEEN (IRE),57.5,3,0,11,0,HERMANOS ABOIN,A.CARRASCO,B. FAYOS,,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+7,LAYALINA (FR),57.5,4,0,7,0,LOPEZ VALLADARES,J.C.ROSELL,"SRTA. LOPEZ, D. ( 56.50 )",,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+8,FIRST CROWD (GB),57.0,3,0,1,0,RACING PARDO,B.RAMA,J.ZAMBUDIO ( 56.00 ),(4)(6),29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+9,BLACK VOICE (GB),56.5,3,0,2,0,ENRIQUE FERNANDEZ DE VEGA,J.C.CERQUEIRA,B.ESTUPIÃAN ( 54.00 ),(3)(8),29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+10,PREMIERE RHAPSODIE (FR),56.0,3,0,8,0,"ROISAJU LOPEZ, S.L.",P.OLAVE,J.L. BORREGO,,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+11,KOHOOF (GB),54.0,5,0,14,0,NEW BEGINNINGS,F.JIMENEZ,J.GELABERT,(4)(8)(2),29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+12,VELETA,52.0,5,0,12,0,POPURRI,M.J.PEREZ,L.CASTILLON ( 52.50 ),(5)(8),29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+13,CARISMA,52.0,3,0,10,0,LONEGAN,E.ARGUINZONES,A.MARTINEZ ( 51.50 ),8,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+14,HAVANA MAGIC (GB),52.0,7,0,3,0,MP RACING,M.PULIDO,Y.RODRIGUEZ,,29 de diciembre de 2022,14:10,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+0,WINTER'S TALE (FR),55.5,3,0,0,0,CIELO DE MADRID,P.OLAVE,A.OLIVAS ( 53.00 ) ( g .amarilla),(4)(2),29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+1,HADES (IRE),62.5,4,0,5,0,CARTAGO,M.J.PEREZ,C.A. LOAIZA ( 60.50 ),8,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+2,HEADHUNTER (FR),62.5,5,0,4,0,PALCO 7,J.L.MAROTO,L.CASTILLON ( 58.00 ),,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+3,MONTERREDONDO (GB),60.5,4,0,6,0,CANARIAS,E.ARGUINZONES,N.SACCU ( 57.50 ),(3)(8),29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+4,SALLAB (IRE),60.5,7,0,11,0,TINERFE,O.ANAYA,D. FERREIRA,2,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+5,PELLIQUERO (FR),59.5,5,0,1,0,CIELO DE MADRID,G.RODRIGUEZ,N. DE JULIAN,,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+6,CALCAS,59.0,3,0,9,0,TARAMUNDI,E.ARGUINZONES,F.MARTINEZ,8,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+7,THE GREY WOLF (IRE),58.0,3,0,3,0,ZEBRA,J.LOPEZ,C.PEREZ ( 54.50 ),5,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+8,NICODEMUS (IRE),57.0,3,0,7,0,OLEOVID,A.CARRASCO,A.MARTINEZ ( 53.50 ),8,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+9,SIR THOMAS (FR),57.0,3,0,2,0,CENTURION,M&M RACING,B.ESTUPIÃAN ( 54.00 ),,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+10,VEREMOS (GB),55.5,3,0,8,0,AFRICA,J.M.OSORIO,N. GARCIA ( 54.50 ),,29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+11,WINTER'S TALE (FR),55.5,3,0,10,0,CIELO DE MADRID,P.OLAVE,A.OLIVAS ( 53.00 ) ( g .amarilla),(4)(2),29 de diciembre de 2022,14:45,H - Blando,1800,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+1,DIMAX (IRE),63.0,5,0,8,0,LOS NIÃOS,J.C.CERQUEIRA,R. RAMOS,(8)(2),29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+2,BABA KARAM,62.5,5,0,7,0,REZA PAZOOKI,O.ANAYA,R.N.VALLE,8,29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+3,VALE (GB),59.0,8,0,9,0,BOLAK,M&M RACING,J.L. MARTINEZ,(5)(8)(2),29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+4,BIG MACK,57.0,5,0,5,0,INCITATUS RACING,M&M RACING,B. FAYOS,,29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+5,EINAR (IRE),54.5,6,0,1,0,BERNIE,J.LOPEZ,C.PEREZ,5,29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+6,BELLETTI (GB),54.5,4,0,4,0,MANU POLO,B.MORENO,J.ZAMBUDIO,(3)(8),29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+7,BIDUL,54.5,4,0,3,0,MIRINDA RACING,M.A.MARIN,J.GELABERT,,29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+8,COSTA ESMERALDA (FR),54.0,8,0,6,0,JACOPO TELLINI,M&M RACING,B.ESTUPIÃAN,,29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
+9,BRIAREO (IRE) (a),52.0,5,0,2,0,MP RACING,M.PULIDO,Y.RODRIGUEZ,,29 de diciembre de 2022,15:20,H - Blando,1700,Liso,0,Ligeras lluvias,0.1,8,9,La Zarzuela
