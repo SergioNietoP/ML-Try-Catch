@@ -1,56 +1,56 @@
 Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
-1,ORBAYO (IRE),69,6 años,0,5,0,LAS AGUILAS,A.CARRASCO,"SR.PINEDA, G.",(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-3,UROGALLO,68,4 años,0,8,0,PEQUES,G.ARIZKORRETA,"SR.ALONSO V., C.",,5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-6,AARASH,66,4 años,0,4,0,REZA PAZOOKI,O.ANAYA,"SRTA.GIAVARINI S. (65,5)",,5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-2,TRES DE TREBOL (FR),64,4 años,0,7,0,FORRAJES Y CEREALES D. DIEZ,D.DIEZ,"SR.SARABIA, D.",(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-5,LA MAL AMADA,63,5 años,0,1,0,EUROPA,J.C.CERQUEIRA,"SRTA.BUESA, C. (62)",(3)(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-4,VINCI LISA (GB),60,3 años,0,10,0,BEST HORSE,T.MARTINS,"SRTA.TENA, C. (59)",(5)(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-7,NATURAL TALENT,59,4 años,0,3,0,4 C,A.SANCHEZ C.,"SRTA.LOPEZ,D. (58)",(3),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-8,ARETHA,59,5 años,0,6,0,ARTEMIS,J.LOPEZ,"SRTA.RELAÑO, R.",,5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-9,SANS ATTENDRE (FR),59,3 años,0,9,0,IGUELDO,B.MORENO,"SR.GREDILLA, P. (61)",(5),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-8,SHE IS FIERCE (GB),59,4 años,0,2,0,TAPA TAPA,A.SANCHEZ C.,"SRTA.BALCONES T., M. (57)",(3),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-1,EL PATER (IRE),56,2 años,0,10,0,GISPERT,P.OLAVE,J.L.BORREGO,,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-5,HARVAC,56,2 años,0,9,0,BOLAK,J.C.CERQUEIRA,D.FERREIRA,,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-3,SHELBY (FR),56,2 años,0,8,0,MARTUL,J.A.RODRIGUEZ,N.DE JULIAN,,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-7,WINTON (FR),56,2 años,0,6,0,TIGRES,A.NUÑEZ,F.MARTINEZ,(4)(8),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-9,ATREVIDA (FR),54,2 años,0,2,0,E. PEREZ GUZMAN,J.A.RODRIGUEZ,C.PEREZ (52),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-2,DE FIESTA (IRE) (a),54,2 años,0,4,0,REZA PAZOOKI,O.ANAYA,R.N.VALLE,(8),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-6,HEBE,54,2 años,0,7,0,DUQUE DE ALBURQUERQUE,J.M.OSORIO,B.FAYOS (56),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-4,MARY JOE (GB),54,2 años,0,5,0,MADRIZ,G.ARIZKORRETA,J.GELABERT,(4)(8),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-11,QUICK REFLEX (USA),54,2 años,0,1,0,CENTURION,M&M RACING,J.L.MARTINEZ (55),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-10,GOODIE CEN (IRE),53,2 años,0,11,0,CENTURION,M&M RACING,J.ZAMBUDIO (52) (G.Roja),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-12,LA MENINA (IRE),53,2 años,0,3,0,CIELO DE MADRID,P.OLAVE,M.E.FERNANDEZ,(4),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-2,ADAAYLIGHT DANCER (IRE),63,4 años,0,9,0,MAD MEN,G.ARIZKORRETA,"N.SACCU (60,5)",,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-1,MACADAMIA,63,3 años,0,4,0,MEDITERRANEO,A.SOTO,C.PEREZ (60),(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-6,WALKCZAK (FR),59,3 años,0,6,0,JULIAN STABLES,F.JIMENEZ,N.DE JULIAN,(4)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-5,USI DE U,68,3 años,0,13,0,VALLADOLID,M.J.PEREZ,R.N.VALLE,(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-4,ANGELINES,58,3 años,0,5,0,EDIF,C.FERNANDEZ,"C.HAZEN (54,5)",,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-11,LADY MCQUEEN (IRE),57,3 años,0,11,0,HERMANOS ABOIN,A.CARRASCO,B.FAYOS,,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-9,LAYALINA (FR),57,4 años,0,7,0,LOPEZ VALLADARES,J.C.ROSELL,"SRTA.LOPEZ,D. (56,5)",,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-12,FIRST CROWD (GB),57,3 años,0,1,0,RACING PARDO,B.RAMA,J.ZAMBUDIO (56),(4)(6),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-8,BLACK VOICE (GB),56,3 años,0,2,0,ENRIQUE FERNANDEZ DE VEGA,J.C.CERQUEIRA,B.ESTUPIÑAN (54),(3)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-7,PREMIERE RHAPSODIE (FR),56,3 años,0,8,0,"ROISAJU LOPEZ, S.L.",P.OLAVE,J.L.BORREGO,,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-3,KOHOOF (GB),54,5 años,0,14,0,NEW BEGINNINGS,F.JIMENEZ,J.GELABERT,(2)(4)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-10,VELETA,52,5 años,0,12,0,POPURRI,M.J.PEREZ,"L.CASTILLON (52,5)",(5)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-14,CARISMA,52,3 años,0,10,0,LONEGAN,E.ARGUINZONES,"A.MARTINEZ (51,5)",(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-13,HAVANA MAGIC (GB),52,7 años,0,3,0,MP RACING,M.PULIDO,Y.RODRIGUEZ,,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-1,HADES (IRE),62,4 años,0,5,0,CARTAGO,M.J.PEREZ,"C.LOAIZA (60,5)",(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-5,HEADHUNTER (FR),62,5 años,0,4,0,PALCO 7,J.L.MAROTO,L.CASTILLON (58),,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-4,MONTERREDONDO (GB),60,4 años,0,6,0,CANARIAS,E.ARGUINZONES,"N.SACCU (57,5)",(3)(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-3,SALLAB (IRE),60,7 años,0,11,0,TINERFE,O.ANAYA,D.FERREIRA,(2),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-2,PELLIQUERO (FR),59,5 años,0,1,0,CIELO DE MADRID,G.RODRIGUEZ,N. DE JULIAN,,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-6,CALCAS,59,3 años,0,9,0,TARAMUNDI,E.ARGUINZONES,F.MARTINEZ,(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-8,THE GREY WOLF (IRE),58,3 años,0,3,0,ZEBRA,J.LOPEZ,"C.PEREZ (54,5)",(5),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-9,NICODEMUS (IRE),57,3 años,0,7,0,OLEOVID,A.CARRASCO,"A.MARTINEZ (53,5)",(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-10,SIR THOMAS (FR),57,3 años,0,2,0,CENTURION,M&M RACING,B.ESTUPIÑAN (54),,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-11,VEREMOS (GB),55,3 años,0,8,0,AFRICA,J.M.OSORIO,"N.GARCÍA (54,5)",,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-7,WINTER'S TALE (FR),55,3 años,0,10,0,CIELO DE MADRID,P.OLAVE,A.OLIVAS (53)(G.Amarilla),(2)(4),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-4,DIMAX (IRE),63,5 años,0,8,0,LOS NIÑOS,J.C.CERQUEIRA,R.RAMOS,(2)(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-2,BABA KARAM,62,5 años,0,7,0,REZA PAZOOKI,O.ANAYA,R.N.VALLE,(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-3,VALE (GB),59,8 años,0,9,0,BOLAK,M&M RACING,J.L.MARTINEZ,(2)(5)(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-1,BIG MACK,57,5 años,0,5,0,INCITATUS RACING,M&M RACING,B.FAYOS,,5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-6,EINAR (IRE),54,6 años,0,1,0,BERNIE,J.LOPEZ,C.PEREZ,(5),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-8,BELLETTI (GB),54,4 años,0,4,0,MANU POLO,B.MORENO,J.ZAMBUDIO,(3)(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-7,BIDUL,54,4 años,0,3,0,MIRINDA RACING,M.A.MARIN,J.GELABERT,,5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-5,COSTA ESMERALDA (FR),54,8 años,0,6,0,JACOPO TELLINI,M&M RACING,B.ESTUPIÑAN,,5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-9,BRIAREO (IRE) (a),52,5 años,0,2,0,MP RACING,M.PULIDO,Y.RODRIGUEZ,(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+1,ORBAYO (IRE),69,6,0,5,0,LAS AGUILAS,A.CARRASCO,"SR.PINEDA, G.",(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+3,UROGALLO,68,4,0,8,0,PEQUES,G.ARIZKORRETA,"SR.ALONSO V., C.",,5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+6,AARASH,66,4,0,4,0,REZA PAZOOKI,O.ANAYA,"SRTA.GIAVARINI S. (65,5)",,5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+2,TRES DE TREBOL (FR),64,4,0,7,0,FORRAJES Y CEREALES D. DIEZ,D.DIEZ,"SR.SARABIA, D.",(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+5,LA MAL AMADA,63,5,0,1,0,EUROPA,J.C.CERQUEIRA,"SRTA.BUESA, C. (62)",(3)(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+4,VINCI LISA (GB),60,3,0,10,0,BEST HORSE,T.MARTINS,"SRTA.TENA, C. (59)",(5)(8),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+7,NATURAL TALENT,59,4,0,3,0,4 C,A.SANCHEZ C.,"SRTA.LOPEZ,D. (58)",(3),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+8,ARETHA,59,5,0,6,0,ARTEMIS,J.LOPEZ,"SRTA.RELAÑO, R.",,5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+9,SANS ATTENDRE (FR),59,3,0,9,0,IGUELDO,B.MORENO,"SR.GREDILLA, P. (61)",(5),5 de marzo de 2023,13:00,H - Bueno,2400,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+8,SHE IS FIERCE (GB),59,4,0,2,0,TAPA TAPA,A.SANCHEZ C.,"SRTA.BALCONES T., M. (57)",(3),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+1,EL PATER (IRE),56,2,0,10,0,GISPERT,P.OLAVE,J.L.BORREGO,,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+5,HARVAC,56,2,0,9,0,BOLAK,J.C.CERQUEIRA,D.FERREIRA,,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+3,SHELBY (FR),56,2,0,8,0,MARTUL,J.A.RODRIGUEZ,N.DE JULIAN,,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+7,WINTON (FR),56,2,0,6,0,TIGRES,A.NUÑEZ,F.MARTINEZ,(4)(8),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+9,ATREVIDA (FR),54,2,0,2,0,E. PEREZ GUZMAN,J.A.RODRIGUEZ,C.PEREZ (52),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+2,DE FIESTA (IRE) (a),54,2,0,4,0,REZA PAZOOKI,O.ANAYA,R.N.VALLE,(8),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+6,HEBE,54,2,0,7,0,DUQUE DE ALBURQUERQUE,J.M.OSORIO,B.FAYOS (56),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+4,MARY JOE (GB),54,2,0,5,0,MADRIZ,G.ARIZKORRETA,J.GELABERT,(4)(8),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+11,QUICK REFLEX (USA),54,2,0,1,0,CENTURION,M&M RACING,J.L.MARTINEZ (55),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+10,GOODIE CEN (IRE),53,2,0,11,0,CENTURION,M&M RACING,J.ZAMBUDIO (52) (G.Roja),,5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+12,LA MENINA (IRE),53,2,0,3,0,CIELO DE MADRID,P.OLAVE,M.E.FERNANDEZ,(4),5 de marzo de 2023,13:35,H - Bueno,1700,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+2,ADAAYLIGHT DANCER (IRE),63,4,0,9,0,MAD MEN,G.ARIZKORRETA,"N.SACCU (60,5)",,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+1,MACADAMIA,63,3,0,4,0,MEDITERRANEO,A.SOTO,C.PEREZ (60),(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+6,WALKCZAK (FR),59,3,0,6,0,JULIAN STABLES,F.JIMENEZ,N.DE JULIAN,(4)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+5,USI DE U,68,3,0,13,0,VALLADOLID,M.J.PEREZ,R.N.VALLE,(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+4,ANGELINES,58,3,0,5,0,EDIF,C.FERNANDEZ,"C.HAZEN (54,5)",,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+11,LADY MCQUEEN (IRE),57,3,0,11,0,HERMANOS ABOIN,A.CARRASCO,B.FAYOS,,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+9,LAYALINA (FR),57,4,0,7,0,LOPEZ VALLADARES,J.C.ROSELL,"SRTA.LOPEZ,D. (56,5)",,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+12,FIRST CROWD (GB),57,3,0,1,0,RACING PARDO,B.RAMA,J.ZAMBUDIO (56),(4)(6),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+8,BLACK VOICE (GB),56,3,0,2,0,ENRIQUE FERNANDEZ DE VEGA,J.C.CERQUEIRA,B.ESTUPIÑAN (54),(3)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+7,PREMIERE RHAPSODIE (FR),56,3,0,8,0,"ROISAJU LOPEZ, S.L.",P.OLAVE,J.L.BORREGO,,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+3,KOHOOF (GB),54,5,0,14,0,NEW BEGINNINGS,F.JIMENEZ,J.GELABERT,(2)(4)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+10,VELETA,52,5,0,12,0,POPURRI,M.J.PEREZ,"L.CASTILLON (52,5)",(5)(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+14,CARISMA,52,,0,10,0,LONEGAN,E.ARGUINZONES,"A.MARTINEZ (51,5)",(8),5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+13,HAVANA MAGIC (GB),52,7,0,3,0,MP RACING,M.PULIDO,Y.RODRIGUEZ,,5 de marzo de 2023,14:10,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+1,HADES (IRE),62,4,0,5,0,CARTAGO,M.J.PEREZ,"C.LOAIZA (60,5)",(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+5,HEADHUNTER (FR),62,5,0,4,0,PALCO 7,J.L.MAROTO,L.CASTILLON (58),,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+4,MONTERREDONDO (GB),60,4,0,6,0,CANARIAS,E.ARGUINZONES,"N.SACCU (57,5)",(3)(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+3,SALLAB (IRE),60,7,0,11,0,TINERFE,O.ANAYA,D.FERREIRA,(2),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+2,PELLIQUERO (FR),59,,0,1,0,CIELO DE MADRID,G.RODRIGUEZ,N. DE JULIAN,,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+6,CALCAS,59,3,0,9,0,TARAMUNDI,E.ARGUINZONES,F.MARTINEZ,(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+8,THE GREY WOLF (IRE),58,3,0,3,0,ZEBRA,J.LOPEZ,"C.PEREZ (54,5)",(5),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+9,NICODEMUS (IRE),57,3,0,7,0,OLEOVID,A.CARRASCO,"A.MARTINEZ (53,5)",(8),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+10,SIR THOMAS (FR),57,3,0,2,0,CENTURION,M&M RACING,B.ESTUPIÑAN (54),,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+11,VEREMOS (GB),55,3,0,8,0,AFRICA,J.M.OSORIO,"N.GARCÍA (54,5)",,5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+7,WINTER'S TALE (FR),55,3,0,10,0,CIELO DE MADRID,P.OLAVE,A.OLIVAS (53)(G.Amarilla),(2)(4),5 de marzo de 2023,14:45,H - Bueno,1900,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+4,DIMAX (IRE),63,5,0,8,0,LOS NIÑOS,J.C.CERQUEIRA,R.RAMOS,(2)(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+2,BABA KARAM,62,5,0,7,0,REZA PAZOOKI,O.ANAYA,R.N.VALLE,(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+3,VALE (GB),59,8,0,9,0,BOLAK,M&M RACING,J.L.MARTINEZ,(2)(5)(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+1,BIG MACK,57,5,0,5,0,INCITATUS RACING,M&M RACING,B.FAYOS,,5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+6,EINAR (IRE),54,6,0,1,0,BERNIE,J.LOPEZ,C.PEREZ,(5),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+8,BELLETTI (GB),54,4,0,4,0,MANU POLO,B.MORENO,J.ZAMBUDIO,(3)(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+7,BIDUL,54,4,0,3,0,MIRINDA RACING,M.A.MARIN,J.GELABERT,,5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+5,COSTA ESMERALDA (FR),54,8,0,6,0,JACOPO TELLINI,M&M RACING,B.ESTUPIÑAN,,5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+9,BRIAREO (IRE) (a),52,5,0,2,0,MP RACING,M.PULIDO,Y.RODRIGUEZ,(8),5 de marzo de 2023,15:20,H - Bueno,1700,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
