@@ -8,16 +8,16 @@ Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Prep
 7,HARVAC,57,3,1/4 C,2,11.5,BOLAK,J.C.CERQUEIRA,D. FERREIRA,,5 de marzo de 2023,11:30,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 1,SPANISH COLT (IRE),58,5,,4,3.7,BRAZACORTA,B.RAMA,V. JANACEK,(3)(4),5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 2,GLORYTOF (FR),58,4,1/2 C,3,4.5,MEDITERRANEO,A.SOTO,R. SOUSA,(2)(5),5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-3,MAX'S THUNDER (IRE),"57,50-55,00",6,1 1/2 C,6,34.2,ZUL,C.BUESA,C.BUESA,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+3,MAX'S THUNDER (IRE),57,50,6,1 1/2 C,6,34.2,ZUL,C.BUESA,C.BUESA,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 4,TIGER BASH (FR),56,4,1/2 C,8,16.3,DIAZMOR,J.C.CERQUEIRA,J.GELABERT,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 5,BABA KARAM,63,6,1 C,1,12.9,REZA PAZOOKI,O.ANAYA,R. RAMOS,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 6,ARENAL (IRE),59,7,2 1/4 C,2,6.4,FEROZ,P.OLAVE,J.L. BORREGO,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 7,TAZONES,56,7,1/2 C,10,12.3,MAZANTINNI,A.CARRASCO,F.MARTINEZ,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-8,BIG MACK,"55,50-54,00",6,CUELLO,11,5.3,INCITATUS RACING,M&M RACING,B.ESTUPIÑAN,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+8,BIG MACK,55,50,6,CUELLO,11,5.3,INCITATUS RACING,M&M RACING,B.ESTUPIÑAN,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 9,TURCO,56,4,3 1/2 C,9,23.2,BUELNA EQUII,P. ITURREGUI,N. DE JULIAN,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 10,VALE (GB),57,9,6 1/4 C,5,14.6,BOLAK,M&M RACING,D. FERREIRA,(2)(5)(8),5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-11,NASAB (GB),"56,50-55,50",4,2 1/2 C,7,19.1,MARQUES DE MIRAFLORES DE SAN ANTONIO,CH.DELCHER,J.ZAMBUDIO,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
-1,SEVERUS (FR),"55,50-56,00",4,,9,14.7,CELSO MENDEZ,M.ALVAREZ,J.L. BORREGO,,5 de marzo de 2023,12:40,H - Bueno,2200,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+11,NASAB (GB),55,4,2 1/2 C,7,19.1,MARQUES DE MIRAFLORES DE SAN ANTONIO,CH.DELCHER,J.ZAMBUDIO,,5 de marzo de 2023,12:05,H - Bueno,1800,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
+1,SEVERUS (FR),56,4,,9,14.7,CELSO MENDEZ,M.ALVAREZ,J.L. BORREGO,,5 de marzo de 2023,12:40,H - Bueno,2200,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 2,GRAN BELGA (GB),58,4,7 1/4 C,4,17.9,EL RETORNO,F.JIMENEZ,R.N.VALLE,,5 de marzo de 2023,12:40,H - Bueno,2200,Liso,0,Parcialmente nublado,0,4,12,La Zarzuela
 3,ASTRAL,58,5,1 3/4 C,7,9.2,ATERPE,G.ARIZKORRETA,V. JANACEK,,5 de marzo de 2023,12:40,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 4,QATAR RIVER (FR),63,8,NARIZ,1,2.1,RAPIER,B.VALENTI,R. SOUSA,(3)(8),5 de marzo de 2023,12:40,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
@@ -30,15 +30,15 @@ Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Prep
 11,AARASH,61,5,9 C,2,8.3,REZA PAZOOKI,O.ANAYA,R. RAMOS,,5 de marzo de 2023,12:40,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 1,BRAGNOSERA (FR),57,3,,3,8.0,ZURRAQUIN,B.RAMA,V. JANACEK,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 2,MATAMOR (GB),55,3,DISTANCIADO,12,4.5,EL OSO,A.SOTO,G.GUEDJ-GAY,(8),5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-3,ARAKA LA KANA,"57,00-53,50",3,3/4 C,1,2.5,ODISEA,J.LOPEZ,C.PEREZ,(3),5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+3,ARAKA LA KANA,55,3,3/4 C,1,2.5,ODISEA,J.LOPEZ,C.PEREZ,(3),5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 4,ATLANTIC NORTH (IRE),57,3,2 3/4 C,2,10.9,"ANNUA RACING, S.L.",J.C.ROSELL,J.L. BORREGO,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 5,KOMOTU (GB),57,3,CABEZA,5,25.9,MARTUL,R.MARTIN V.,N. DE JULIAN,(5)(8),5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 6,DANCE AHEAD (IRE),57,3,CUELLO,4,50.0,NOSSA SENHORA DO VALE,H.PEREIRA,C. CADEL,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 7,LOVE FIFTEEN (GB),55,3,1/2 C,11,10.5,DIAZ RAMOS,O.ANAYA,R.N.VALLE,(8),5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 8,GLOBALIZATION (IRE),55,3,1/2 C,8,29.9,MARTEL SANCHEZ,B.RAMA,J.GELABERT,(3)(8),5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-9,IRMA,"55,5",3,CUELLO,9,11.4,MEDITERRANEO,P.OLAVE,R. SOUSA,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-10,ZAMPO (IRE) (A),"57,00-54,00",3,2 3/4 C,7,14.0,LOS NIÑOS,J.C.CERQUEIRA,C.BUESA,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-11,REBELLIOUS SPIRIT (IRE),"57,00-53,50",3,1/4 C,6,25.7,DIAZ RAMOS,O.ANAYA,A.MARTINEZ,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+9,IRMA,55,3,CUELLO,9,11.4,MEDITERRANEO,P.OLAVE,R. SOUSA,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+10,ZAMPO (IRE) (A),55,3,2 3/4 C,7,14.0,LOS NIÑOS,J.C.CERQUEIRA,C.BUESA,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+11,REBELLIOUS SPIRIT (IRE),55,3,1/4 C,6,25.7,DIAZ RAMOS,O.ANAYA,A.MARTINEZ,,5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 12,LADY ANGIE,55,3,6 C,10,47.5,TOLEDO,A.NUÑEZ,F.MARTINEZ,(2)(8),5 de marzo de 2023,13:15,H - Bueno,1200,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 1,SOPHIE'S WATCH (GB),60,3,,2,6.6,MEDINA DIAZ,O.ANAYA,R.N.VALLE,(8),5 de marzo de 2023,13:50,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 2,IT'S CHICO TIME (IRE),61,3,1/2 C,1,4.5,ISLA DE FUERTEVENTURA,O.ANAYA,R. RAMOS,(8),5 de marzo de 2023,13:50,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
@@ -46,15 +46,15 @@ Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Prep
 4,HELHEIM (FR),55,3,4 1/4 C,5,6.2,MARQUES DE MIRAFLORES DE SAN ANTONIO,CH.DELCHER,J.ZAMBUDIO,,5 de marzo de 2023,13:50,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 5,PINSAPO (IRE),55,3,3 C,6,3.1,MEDITERRANEO,G.ARIZKORRETA,R. SOUSA,,5 de marzo de 2023,13:50,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 6,MONCAYO (FR),59,3,9 C,3,9.0,LUCARMADA,R.AVIAL,G.SANCHEZ,,5 de marzo de 2023,13:50,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-7,FORTUNATO (FR),"54,50-56,00",3,14 1/2 C,7,6.1,4 C,J.A.RODRIGUEZ,V. JANACEK,(5)(8),5 de marzo de 2023,13:50,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-1,BELLETTI (GB),"60,50-58,00",5,,7,3.3,MANU POLO,B.MORENO,B.ESTUPIÑAN,(3)(8),5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-2,BOSTON BRUIN (IRE),"63,00-60,00",7,2 1/2 C,2,6.5,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,C.PEREZ,8,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+7,FORTUNATO (FR),56,3,14 1/2 C,7,6.1,4 C,J.A.RODRIGUEZ,V. JANACEK,(5)(8),5 de marzo de 2023,13:50,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+1,BELLETTI (GB),58,5,,7,3.3,MANU POLO,B.MORENO,B.ESTUPIÑAN,(3)(8),5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+2,BOSTON BRUIN (IRE),60,7,2 1/2 C,2,6.5,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,C.PEREZ,8,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 3,VIKING CITY (FR),60,4,1/2 C,6,6.6,A.F.F S.L,F.RODRIGUEZ,R. SOUSA,(3)(8),5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 4,ROBLE (GB) (A),61,6,1 1/2 C,4,6.8,OLEOVID,A.CARRASCO,V. JANACEK,,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 5,BLACK VOICE (GB),61,4,CUELLO,5,18.9,ENRIQUE FERNANDEZ DE VEGA,J.C.CERQUEIRA,R.N.VALLE,(3)(8),5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 6,VERBENA (FR),62,4,NARIZ,3,8.6,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-7,USI DE U,"56,00-55,00",4,3/4 C,10,11.6,VALLADOLID,M.J.PEREZ,V.ALONSO V.,8,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+7,USI DE U,55,4,3/4 C,10,11.6,VALLADOLID,M.J.PEREZ,V.ALONSO V.,8,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 8,SANBLASS,54,5,2 1/4 C,11,26.1,BUELNA EQUII,P. ITURREGUI,N.SACCU,,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-9,SANS ATTENDRE (FR),"58,50-56,00",4,2 C,9,17.9,IGUELDO,B.MORENO,"STA. BUESA,C.",4,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+9,SANS ATTENDRE (FR),56,4,2 C,9,17.9,IGUELDO,B.MORENO,"STA. BUESA,C.",4,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
 10,ANGELINES,60,4,9 C,8,9.1,EDIF,B.RAMA,C. CADEL,4,5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
-11,MONTERREDONDO (GB),"63,00-60,00",5,3/4 C,1,27.2,CANARIAS,E.ARGUINZONES,G.ARGUINZONES,(3)(8),5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
+11,MONTERREDONDO (GB),60,5,3/4 C,1,27.2,CANARIAS,E.ARGUINZONES,G.ARGUINZONES,(3)(8),5 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Ligeras lluvias,0.1,4,12,La Zarzuela
