@@ -1,0 +1,47 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,CLIFFORD,"55,5",3,,5,6.4,PLANTAGENET,G.ARIZKORRETA,V. JANACEK,,12 de marzo de 2023,11:30,H - Bueno,1400,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+2,MAHATMA (IRE),58,3,2 3/4 C,1,10.1,GIULIA,M&M RACING,J.GELABERT,(3),12 de marzo de 2023,11:30,H - Bueno,1400,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+3,CASANDRA (FR),"56,5",3,CABEZA,3,2.0,MEDITERRANEO,A.SOTO,R. SOUSA,(4)(8),12 de marzo de 2023,11:30,H - Bueno,1400,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+4,ROMEO (FR),58,3,3/4 C,2,3.1,REBUS,A.TSERETELI,N. DE JULIAN,8,12 de marzo de 2023,11:30,H - Bueno,1400,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+5,ISOLDA,"56,5",3,3 1/2 C,4,6.0,EL HERROJO,J.M.OSORIO,V.ALONSO V.,,12 de marzo de 2023,11:30,H - Bueno,1400,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+1,CLORI (IRE),"55,5",3,,5,2.0,MEDITERRANEO,G.ARIZKORRETA,R. SOUSA,,12 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+2,FINALLY FOUND (IRE),"55,5",3,1 C,7,6.8,LA CINCHA,A.TSERETELI,N. DE JULIAN,(3)(8),12 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+3,URBAN WELLS (IRE),57,3,6 1/4 C,4,11.0,NEGURI,P.OLAVE,J.L. BORREGO,(8),12 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+4,BOPPER,57,3,1 1/2 C,2,10.5,BOLAK,M&M RACING,B.ESTUPIÑAN,,12 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+5,ALFIL (GB),57,3,1/2 C,1,4.9,VALLADOLID,G.ARIZKORRETA,V. JANACEK,,12 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+6,CROMATIC (IRE),57,3,1/2 C,3,8.4,MARQUES DE MIRAFLORES DE SAN ANTONIO,CH.DELCHER,J.ZAMBUDIO,,12 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+7,DERICE (GB),"55,5",3,3 C,6,10.7,NEW BEGINNINGS,F.JIMENEZ,R.N.VALLE,(3),12 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+1,MAGIC WARRIOR (IRE),"60,5",4,,4,5.8,SCUDERIA DREAMS ROAD,M&M RACING,J.GELABERT,,12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+2,RUSHDY (IRE),"55,5",6,1/2 C,8,11.2,PEDRA BELA,D.SOUSA,N.SANTOS,(3),12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+3,CORPS DES PAGES (IRE),62,5,1/2 C,2,2.5,ZACARIAS SARMIENTO,O.ANAYA,R. SOUSA,(3)(8),12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+4,STOWEMAN (GB),"61,5",6,NARIZ,3,10.9,MALLOW GRAN CANARIA,O.ANAYA,J.L. BORREGO,,12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+5,GALINDO,"58,5",5,3/4 C,7,4.7,PALCO ELAMA,J.L.MAROTO,V. JANACEK,(4),12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+6,BAADIRR (GB),59,6,3/4 C,6,17.3,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,R.N.VALLE,(5)(8),12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+7,EL SOKHNA (IRE),"60,5",5,1/2 C,5,17.6,BECARES,CH.DELCHER,M.E.FERNANDEZ,,12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+8,RUGBY INDUS (FR),63,6,1/2 C,1,5.7,COCHETEUX,F.RODRIGUEZ,N. DE JULIAN,(5),12 de marzo de 2023,12:40,H - Bueno,1500,Liso,0,Parcialmente nublado,0,4,20,La Zarzuela
+1,WHITE WINE (IRE),57,3,,10,5.8,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+2,SPANISH RULER (FR),57,3,NARIZ,8,6.9,YEGUADA VALMODOMUS,D.BENITEZ,R.N.VALLE,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+3,WAMBA,57,3,3/4 C,9,7.2,LAC INTERNACIONAL,A.SOTO,R. SOUSA,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+4,BERTIZ (FR),57,3,3 1/4 C,2,12.4,QUINTO REAL,P.OLAVE,C. CADEL,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+5,PEYRASSOL (FR),57,3,CABEZA,5,26.2,MARTUL,R.MARTIN A.,M.E.FERNANDEZ,(3)(8),12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+6,FUOCO GRECO,56,3,3/4 C,4,20.7,AHLEM,J.L.FRANCO,N.SACCU,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+7,PRIAPO (FR),57,3,1 C,7,6.4,DUQUE DE ALBURQUERQUE,J.M.OSORIO,V.ALONSO V.,(4)(8),12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+8,EL PATER (IRE),57,3,CUELLO,3,25.0,GISPERT,P.OLAVE,J.L. BORREGO,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+9,VARYKINO (FR),55,3,2 3/4 C,12,29.8,JOSE IGNACIO OLAVE,P.OLAVE,A.OLIVAS,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+10,PONCE DE LEON (FR),57,3,1/2 C,6,2.9,SALVADOR MARQUEZ,B.VALENTI,V. JANACEK,(8),12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+11,AKBAHARI (GB),57,3,1 1/2 C,1,17.8,HROS. S.ELORZA CAVENGT,A.SOTO,J.ZAMBUDIO,,12 de marzo de 2023,13:15,H - Bueno,2100,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+1,FINELY TUNED (IRE),58,6,,4,9.4,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,J.GELABERT,(3)(8),12 de marzo de 2023,13:50,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+2,WHITE BAY (GB),57,5,1 C,7,4.4,YEGUADA VALMODOMUS,D.BENITEZ,M.E.FERNANDEZ,,12 de marzo de 2023,13:50,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+3,AUSTRALIA CAPE (IRE),62,4,1 1/2 C,1,5.3,MEDITERRANEO,G.ARIZKORRETA,R. SOUSA,,12 de marzo de 2023,13:50,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+4,TRITON,60,4,1 1/2 C,2,12.7,SALVADOR MARQUEZ,B.VALENTI,J.L. BORREGO,(8),12 de marzo de 2023,13:50,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+5,AMTIYAZ (GB),58,6,1 1/2 C,3,2.9,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,12 de marzo de 2023,13:50,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+6,HERRING ISLAND (IRE),58,4,CABEZA,5,5.8,SALVADOR MARQUEZ,O.ANAYA,R.N.VALLE,20,12 de marzo de 2023,13:50,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+7,KERGRIST (FR),57,5,8 1/4 C,6,7.6,PALCO 7,J.L.MAROTO,V.ALONSO V.,(3)(4),12 de marzo de 2023,13:50,H - Bueno,2200,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+1,ADAAYLIGHT DANCER (IRE),59,5,,4,3.2,MAD MEN,G.ARIZKORRETA,N.SACCU,,12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+2,CHARMING LOOK (GB),63,5,CUELLO,1,3.5,REZA PAZOOKI,O.ANAYA,R. SOUSA,(8),12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+3,WALKCZAK (FR),54,4,2 1/4 C,7,10.6,JULIAN STABLES,F.JIMENEZ,N. DE JULIAN,(8),12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+4,GUERREIRA (IRE),62,6,1/4 C,3,8.6,NOSSA SENHORA DO VALE,H.PEREIRA,C. CADEL,,12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+5,FIJI GOLD (GB),"58,5",4,NARIZ,5,7.9,SOÑADOR,B.RAMA,V. JANACEK,(3)(8),12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+6,VETONA (IRE) (A),62,7,4 C,2,4.3,HERMANOS ABOIN,A.CARRASCO,J.GELABERT,(4)(8),12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+7,MACADAMIA,57,4,NARIZ,6,12.6,MEDITERRANEO,A.SOTO,C.PEREZ,(8),12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
+,,,,,,,,,,,12 de marzo de 2023,14:25,H - Bueno,1600,Liso,0,Ligeras lluvias,0.1,4,20,La Zarzuela
