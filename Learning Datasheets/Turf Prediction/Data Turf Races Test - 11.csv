@@ -1,0 +1,48 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,WITIZA,55,3,,5,5.9,LAC INTERNACIONAL,J.LOPEZ,J.GELABERT,(3)(8),19 de marzo de 2023,11:30,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+2,TEXEIRA (IRE) (A),55,3,2 C,4,7.0,LOUGHTOWN STUD LTD.,M.ALONSO R.,N. DE JULIAN,8,19 de marzo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+3,FARNESIO (IRE),59,3,1 3/4 C,3,1.5,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,19 de marzo de 2023,11:30,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+4,SONGSTER (FR),60,3,1/2 C,1,5.5,SALVADOR MARQUEZ,B.VALENTI,R. SOUSA,8,19 de marzo de 2023,11:30,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+5,BLUE MOON EYES,59,3,6 3/4 C,2,11.1,4 C,J.A.RODRIGUEZ,R.N.VALLE,,19 de marzo de 2023,11:30,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+1,WAR OF DANCE (IRE),57,3,,9,1.8,PEQUES,G.ARIZKORRETA,J.GELABERT,,19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+2,GOODIE CEN (IRE),56,3,9 1/4 C,4,16.2,CENTURION,M&M RACING,N.SACCU,8,19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+3,STARSHADOW (GB),57,3,1/2 C,7,10.8,CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+4,FREE JAZZ (GB),55,3,NARIZ,3,19.8,BERNIE,J.LOPEZ,C.PEREZ,(4)(8),19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+5,URABA (FR),56,3,CABEZA,8,20.9,COCHETEUX,M.ALVAREZ,J.ZAMBUDIO,,19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+6,ANDELUNA (FR),57,3,3/4 C,1,5.5,JAVIER MALDONADO TRINCHANT,M.ALONSO R.,R. SOUSA,4,19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+7,NICOLASA (GB),56,3,4 C,6,8.7,VIGURIA,J.M.OSORIO,V.ALONSO V.,4,19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+8,ARQUETU (IRE),57,3,1 1/4 C,2,15.0,MARTUL,R.MARTIN V.,V. JANACEK,(3)(8),19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+9,MRS MARION (IRE),57,3,12 3/4 C,5,15.8,MERYDEIS,J.C.ROSELL,J.L. BORREGO,8,19 de marzo de 2023,12:05,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+1,KING OF JUNGLE (IRE),59,4,,3,2.9,MALLOW GRAN CANARIA,O.ANAYA,R.N.VALLE,,19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,EL BOSNIA,59,6,CUELLO,2,6.9,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,UNITED STATES,61,5,2 3/4 C,1,8.2,TIZIANO,J.L.MAROTO,J.GELABERT,,19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,SOMETHING,59,4,CABEZA,6,9.6,MEDITERRANEO,G.ARIZKORRETA,R. SOUSA,3,19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,AZUL (GB),58,4,1/4 C,7,6.9,MARISOL,A.SOTO,J.L. BORREGO,,19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+6,KENDAYA (IRE),58,5,3 C,8,8.0,AGRADO,CH.DELCHER,M.E.FERNANDEZ,8,19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+7,NATURAL PATH (IRE),59,6,1 1/4 C,4,4.6,ISLA DE FUERTEVENTURA,O.ANAYA,F. LEFEBVRE,(5)(8),19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+8,QUEJO (GB),59,4,20 C,5,20.2,AGRO CARVALHO,M.CARVALHO,N. DE JULIAN,(2)(8),19 de marzo de 2023,12:40,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+1,BIDUL,61,5,,4,13.5,MIRINDA RACING,D.DIEZ,F.MARTINEZ,,19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+2,NATURAL TALENT,58,5,3/4 C,8,3.2,4 C,J.C.CERQUEIRA,R. SOUSA,(3)(8),19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+3,TALES (GB) (A),60,6,2 C,3,19.6,CANARIAS,E.ARGUINZONES,C.PEREZ,(5)(8),19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+4,SKIBO CASTLE (FR),60,5,1 C,6,18.4,MSCARS,M.CARVALHO,M.E.FERNANDEZ,,19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+5,ALPHABETIC (GB),55,4,1 C,12,24.4,YEGUADA LA DONA,F.JIMENEZ,R.N.VALLE,(3)(8),19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+6,MACHU PICCHU,62,5,3/4 C,2,4.7,AMAZING TURF,J.A.RODRIGUEZ,N. DE JULIAN,,19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+7,PADERNO (FR),59,4,1 C,7,18.1,CELSO MENDEZ,M.ALVAREZ,J.L. BORREGO,,19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+8,PIRLO,56,5,3/4 C,11,16.3,HACIENDA DEL MONASTERIO,C.FERNANDEZ,J.ZAMBUDIO,8,19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+9,USI DE U,56,4,1 1/4 C,10,15.9,VALLADOLID,M.J.PEREZ,D.SIKOROVÁ,8,19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+10,LADY MCQUEEN (IRE),61,4,1/4 C,5,17.3,HERMANOS ABOIN,A.CARRASCO,J.GELABERT,,19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+11,KOHOOF (GB),58,6,1/4 C,9,4.5,NEW BEGINNINGS,F.JIMENEZ,V. JANACEK,(2)(4)(8),19 de marzo de 2023,13:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+12,PRETTY EMERALD (GB),62,4,5 3/4 C,1,21.6,CHAMARTIN,J.HORCAJADA,N.SACCU,,19 de marzo de 2023,13:15,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+1,NARANCO (GB),57,4,,6,4.0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,19 de marzo de 2023,13:50,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+2,LISICLES (GB),57,4,2 1/4 C,5,6.8,DUQUE DE ALBURQUERQUE,J.M.OSORIO,J.GELABERT,,19 de marzo de 2023,13:50,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+3,FANTASTIC SPIRIT (FR),58,6,3 C,3,2.5,ALEX Y SOFIA,P.OLAVE,R. SOUSA,,19 de marzo de 2023,13:50,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+4,CAPOEIRA(IRE),58,4,2 1/4 C,2,7.7,REBUS,A.TSERETELI,N. DE JULIAN,,19 de marzo de 2023,13:50,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+5,PATRICK SARSFIELD (FR),57,7,3/4 C,7,10.8,MARQUES DE MIRAFLORES DE SAN ANTONIO,CH.DELCHER,J.ZAMBUDIO,,19 de marzo de 2023,13:50,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+6,BELADOR,58,5,1/4 C,1,6.4,TOLEDO,A.NUÑEZ,J.L. BORREGO,(5)(8),19 de marzo de 2023,13:50,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+7,GRAN BELGA (GB),57,4,3 1/4 C,4,12.9,EL RETORNO,F.JIMENEZ,R.N.VALLE,8,19 de marzo de 2023,13:50,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+1,CONCEPCION LINE (IRE),52,3,,6,18.2,DUENDE DEL SUR,CH.DELCHER,J.ZAMBUDIO,,19 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+2,BASIO (FR),61,3,4 C,1,1.7,HABIT,F.PEREZ,V. JANACEK,,19 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+3,PINSAPO (IRE),56,3,4 1/4 C,2,3.4,MEDITERRANEO,G.ARIZKORRETA,R. SOUSA,,19 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+4,WAYNA,52,3,3 1/2 C,7,9.0,ROCCO'S,T.MARTINS,A.MARTINEZ,(5)(8),19 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+5,WINTON (FR),55,3,3/4 C,4,13.0,TIGRES,A.NUÑEZ,F.MARTINEZ,(5)(8),19 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+6,TRAPIO,54,3,CABEZA,5,8.9,RUSH RACING,M&M RACING,J.GELABERT,,19 de marzo de 2023,14:25,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
