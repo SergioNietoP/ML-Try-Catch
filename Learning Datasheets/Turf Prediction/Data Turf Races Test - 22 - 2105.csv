@@ -1,0 +1,54 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,SOUVENIR D'ECAJEUL (FR),57,2,,1,0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,21 de mayo de 2023,11:30,H - Bueno,1100,Liso,0,Soleado,0,4,18,La Zarzuela
+2,BAYC (FR),55,2,,2,0,A.F.F S.L,F.RODRIGUEZ,J.GELABERT,,21 de mayo de 2023,11:30,H - Bueno,1100,Liso,0,Soleado,0,4,18,La Zarzuela
+3,IMONFIRE (IRE),55,2,,3,0,MEDITERRANEO,A.SOTO,R. SOUSA,-8,21 de mayo de 2023,11:30,H - Bueno,1100,Liso,0,Soleado,0,4,18,La Zarzuela
+4,PRINCESS CHILD (FR),55,2,,4,0,ECURIE DES MOUETTES,"A.IMAZ,B.",A.GUTIERREZ V.,-8,21 de mayo de 2023,11:30,H - Bueno,1100,Liso,0,Soleado,0,4,18,La Zarzuela
+5,SOVEREIGN (FR),55,2,,5,0,ECURIE DES MOUETTES,"A.IMAZ,B.",C. CADEL ( G .ROJA),-8,21 de mayo de 2023,11:30,H - Bueno,1100,Liso,0,Soleado,0,4,18,La Zarzuela
+6,BERIA (GB),54,2,,6,0,MORA-FIGUEROA HNOS.,A.SOTO,R.N.VALLE,,21 de mayo de 2023,11:30,H - Bueno,1100,Liso,0,Soleado,0,4,18,La Zarzuela
+7,BONNY LOVE (FR),54,2,,7,0,ELEVAGE LA REVERDITE,T.MARTINS,D. FERREIRA,,21 de mayo de 2023,11:30,H - Bueno,1100,Liso,0,Soleado,0,4,18,La Zarzuela
+1,ARAKA LA KANA,57,3,,1,0,ODISEA,J.LOPEZ,J.GELABERT,(3)(8),21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+2,ATLANTIC NORTH (IRE),57,3,,2,0,"ANNUA RACING, S.L.",J.C.ROSELL,N. DE JULIAN,,21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+3,BRAGNOSERA (FR),57,3,,3,0,ZURRAQUIN,B.RAMA,A.GUTIERREZ V.,,21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+4,DISILLUSION (IRE),57,3,,4,0,MEDITERRANEO,A.SOTO,R. SOUSA,-8,21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+5,EL COMANDANTE,57,3,,5,0,ELEVAGE LA REVERDITE,T.MARTINS,F.MARTINEZ,(3)(8),21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+6,EMPEL,57,3,,6,0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-8,21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+7,KOMOTU (GB),57,3,,7,0,MARTUL,R.MARTIN V.,R.N.VALLE,(5)(8),21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+8,LEIBOVITZ (IRE),56,3,,8,0,ALEX Y SOFIA,P.OLAVE,J.L. BORREGO,-3,21 de mayo de 2023,12:05,H - Bueno,1200,Liso,0,Soleado,0,4,18,La Zarzuela
+1,PANTXINETA,58,4,,1,0,DUENDE DEL SUR,CH.DELCHER,A.GUTIERREZ V.,,21 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,18,La Zarzuela
+2,HARDPIA (FR),57,6,,2,0,VALDEOSERA,A.TSERETELI,R. SOUSA,(3)(2),21 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,18,La Zarzuela
+3,ADAAYLIGHT DANCER (IRE),56,5,,3,0,MAD MEN,G.ARIZKORRETA,N.SACCU,,21 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,18,La Zarzuela
+4,GOYESCA,56,4,,4,0,CELSO MENDEZ,J.LOPEZ,J.GELABERT,,21 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,18,La Zarzuela
+5,IDOLE ROYALE (FR),56,5,,5,0,ALEGRE,D.FARLETE,N. DE JULIAN,-3,21 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,18,La Zarzuela
+6,WINTER'S TALE (FR),56,4,,6,0,CIELO DE MADRID,P.OLAVE,J.L. BORREGO,-2,21 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,18,La Zarzuela
+1,HIGHLAND MARKET (IRE),63,4,,1,0,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,L.CASTILLON ( 59.00 ),,21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+2,VEREMOS (GB),63,4,,2,0,AFRICA,J.M.OSORIO,C.GUITRAUD,,21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+3,VIKING CITY (FR),62,4,,3,0,A.F.F S.L,F.RODRIGUEZ,R. SOUSA,(3)(8),21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+4,ROBAYERA (IRE),60,4,,4,0,PONME OTRA,R.MARTIN A.,D.SIKOROVÁ ( 56.50 ),-8,21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+5,MAKOTOINABAGOU (FR),60,5,,5,0,ALEGRE,D.FARLETE,N. DE JULIAN,-5,21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+6,SPANISH CAMELOT (IRE),60,4,,6,0,YEGUADA VALMODOMUS,D.BENITEZ,V. JANACEK,(3)(8),21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+7,ANAZ (GB),60,5,,7,0,OLIVARES,E.ARGUINZONES,G.ARGUINZONES ( 57.00 ),(5)(8)(2),21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+8,ARETHA,60,6,,8,0,ARTEMIS,J.LOPEZ,M.E.FERNANDEZ,-5,21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+9,HEY JUDE (IRE),58,4,,9,0,BRAVO TANGO ZULU,C.BUESA,C.BUESA ( 56.00 ),-3,21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+10,SOFUNNY (IRE),58,4,,10,0,MAFIUS,J.C.ROSELL,J.GELABERT,,21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+11,ALPHABETIC (GB),53,4,,11,0,YEGUADA LA DONA,F.JIMENEZ,R.N.VALLE,(5)(8),21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+12,IZAMAL,52,4,,12,0,YEGUADA ARANJUEZ,J.LOPEZ,A.MARTINEZ ( 51.00 ),(3)(4),21 de mayo de 2023,13:15,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+1,FURIOSO,58,7,,1,0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+2,GOLDEN VOICE (GB),58,4,,2,0,SALVADOR MARQUEZ,O.ANAYA,R. SOUSA,-8,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+3,MAGIC WARRIOR (IRE),58,4,,3,0,SCUDERIA DREAMS ROAD,M&M RACING,M.MONTERISO,,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+4,RESACON (GB),58,7,,4,0,FORMENTOR,J.M.OSORIO,C.GUITRAUD,,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+5,STAR OF BENGAL (GB),58,8,,5,0,JOAQUIN ROMERO,J.C.CERQUEIRA,M.E.FERNANDEZ,,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+6,ABELARD F (IRE),57,5,,6,0,MARQUES DE MIRAFLORES DE SAN A,CH.DELCHER,A.GUTIERREZ V.,,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+7,SIR ROQUE (FR) (A),57,7,,7,0,PEQUES,G.ARIZKORRETA,J.GELABERT,-3,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+8,STOWEMAN (GB),57,6,,8,0,MALLOW GRAN CANARIA,O.ANAYA,J.L. BORREGO,-2,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+9,TAMMANI (GB),57,6,,9,0,REZA PAZOOKI,O.ANAYA,R.N.VALLE,,21 de mayo de 2023,13:50,H - Bueno,1600,Liso,0,Soleado,0,4,18,La Zarzuela
+1,BELADOR,65,5,,1,0,TOLEDO,A.NUÑEZ,L.CASTILLON ( 61.00 ),-8,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+2,KERGRIST (FR),63,5,,2,0,PALCO 7,J.L.MAROTO,J.L. BORREGO,-4,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+3,ORBAYO (IRE),60,7,,3,0,LAS AGUILAS,A.CARRASCO,J.GELABERT,-8,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+4,THE HINT (IRE),60,4,,4,0,CHAMARTIN,J.HORCAJADA,R. SOUSA,-8,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+5,LEE BAY (GB),58,10,,5,0,LAS AGUILAS,A.CARRASCO,F.MARTINEZ ( G .ROJA),-5,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+6,TIGER BASH (FR),58,4,,6,0,DIAZMOR,J.C.CERQUEIRA,M.E.FERNANDEZ,-3,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+7,PREMIERE RHAPSODIE (FR),57,4,,7,0,CIELO DE MADRID,P.OLAVE,C.PEREZ ( 54.00 ),-2,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+8,SOGALINDA,56,5,,8,0,ZEZINHO,J.C.CERQUEIRA,V.ALONSO V. ( 55.00 ),(3)(8),21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+9,LA MAL AMADA,55,6,,9,0,EUROPA,J.C.CERQUEIRA,R.N.VALLE,(3)(8),21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+10,ASTURIAS,55,5,,10,0,ZUL,C.BUESA,C.BUESA ( 53.00 ),-5,21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
+11,BLACK VOICE (GB),55,4,,11,0,ENRIQUE FERNANDEZ DE VEGA,J.C.CERQUEIRA,A.GUTIERREZ V.,(3)(8),21 de mayo de 2023,14:25,H - Bueno,2100,Liso,0,Soleado,0,4,18,La Zarzuela
