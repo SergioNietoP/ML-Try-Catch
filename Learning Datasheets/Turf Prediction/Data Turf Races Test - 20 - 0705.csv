@@ -1,0 +1,65 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,BRAVO,63,4,,1,5.8,YEGUADA ROCIO,G.ARIZKORRETA,S.MAZUR,5,7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+2,ATLANTA (FR),59,4,3/4 C,4,3.1,CARAL,J.L.MAROTO,L.CASTILLON,,7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+3,PRETTY EMERALD (GB),55,4,1 3/4 C,6,4.3,CHAMARTIN,J.HORCAJADA,D.SIKOROVÁ,,7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+4,ELAMIRR (IRE),59,7,1 1/2 C,5,22.4,BORRIQUITO COMO TURF,E.LEON,"SR.SARABIA,D.A.",(2)(8),7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+5,ALBORAN (FR),63,6,1/4 C,2,5.6,IGUELDO,B.MORENO,R. SOUSA,8,7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+6,HELHEIM (FR),53,3,CUELLO,8,9.1,MARQUES DE MIRAFLORES DE SAN ANTONIO,CH.DELCHER,J.ZAMBUDIO,,7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+7,CONSPIRACY (GB),52,5,1/2 C,9,12.9,PATRIZIA ROSSANA TESTA,M&M RACING,V.ALONSO V.,8,7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+8,ASTIMEGOESBY (IRE),61,5,7 1/2 C,3,15.4,ISLA DE FUERTEVENTURA,O.ANAYA,R.N.VALLE,(2)(3)(8),7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+9,COSI COSI,52,3,7 1/4 C,7,20.5,OLEOVID,A.CARRASCO,C.PEREZ,,7 de mayo de 2023,11:30,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+1,PONCE DE LEON (FR),58,3,,1,2.4,SALVADOR MARQUEZ,B.VALENTI,R. SOUSA,8,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,WHITY (IRE),55,3,3 C,15,4.9,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,PEYRASSOL (FR),57,3,3 1/2 C,5,11.8,MARTUL,R.MARTIN A.,R.N.VALLE,(3)(8),7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,UMBRA (FR),55,3,2 3/4 C,14,26.5,COCHETEUX,M.ALVAREZ,J.ZAMBUDIO,,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,NINA,55,3,CUELLO,12,26.5,RIO CUBAS,J.HORCAJADA,M.E.FERNANDEZ,(5)(8),7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+6,ATREVIDA (FR),55,3,1/2 C,7,22.4,E. PEREZ GUZMAN,E.ARGUINZONES,A.ORANI,(5)8),7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+7,CHIKATOP (IRE),55,3,NARIZ,8,44,COMETA,J.C.ROSELL,N. DE JULIAN,,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+8,HIGHDARK BLUE,55,3,2 1/4 C,3,27.7,AGRADO,R.MARTIN A.,D.SIKOROVÁ,,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+9,WYNOMA (FR),55,3,7 C,16,19.8,LAC INTERNACIONAL,J.LOPEZ,C.BUESA,(3)(4),7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+10,DAYDREAMS (FR),55,3,2 3/4 C,9,31.3,LAC INTERNACIONAL,A.SOTO,G.SANCHEZ,(5)(8),7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+11,WINTON (FR),57,3,CUELLO,6,35,TIGRES,A.NUÑEZ,F.MARTINEZ,(4)(8),7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+12,BERTIZ (FR),57,3,1 3/4 C,2,5.7,QUINTO REAL,P.OLAVE,J.L. BORREGO,,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+13,LONE RANGER,55,3,NARIZ,10,52,YANKEE RACING,A.SOTO,T.LADD,,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+14,KING OF GLORY (FR),55,3,2 1/4 C,4,34,SAN CRISTOBAL,J.LOPEZ,C.PEREZ,3,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+15,MRS MARION (IRE),54,3,3 C,11,98,MERYDEIS,J.C.ROSELL,A.MARTINEZ,8,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+16,QAMRAH (IRE),55,3,LEJOS,13,47,LAS AGUILAS,A.CARRASCO,N.SACCU,,7 de mayo de 2023,12:05,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+1,SHELBY (FR),57,3,,4,7.7,MARTUL,R.MARTIN V.,R. SOUSA,(3)(8),7 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,WARRIOR'S REVENGE (GB),57,3,CUELLO,5,2.8,YEGUADA ROCIO,G.ARIZKORRETA,S.MAZUR,8,7 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,MANDALORIAN (GB),57,3,2 1/2 C,3,5.9,BERNARDO,R.AVIAL,G.SANCHEZ,,7 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,FARNESIO (IRE),57,3,1 C,2,5.9,YEGUADA ROCIO,G.ARIZKORRETA,A.ORANI,,7 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,BASIO (FR),57,3,CABEZA,1,3.3,HABIT,F.PEREZ,J.L. BORREGO,,7 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+6,WHITE WINE (IRE),57,3,7 1/2 C,6,8.7,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,7 de mayo de 2023,12:40,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+1,THE GAME (FR),59,5,,2,2.5,CIELO DE MADRID,P.OLAVE,J.L. BORREGO,5,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+2,EL CANEY (GB),58,5,3 1/4 C,4,5.4,SANTA BARBARA,J.M.OSORIO,C.GUITRAUD,8,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+3,FINELY TUNED (IRE),58,6,4 1/2 C,5,10.8,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,J.GELABERT,(3)(8),7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+4,PAPER TROPHY (FR),59,5,1 1/2 C,1,9.6,CHRISTOPHE PIERROU,R.AVIAL,G.SANCHEZ,3,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+5,PORTOFINO (FR),57,5,3 1/4 C,10,29.6,NEW BEGINNINGS,F.JIMENEZ,T.LADD,(5)(8),7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+6,SEVERUS (FR),58,4,3/4 C,6,7.8,CELSO MENDEZ,M.ALVAREZ,R.N.VALLE,,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+7,DEFINED (GB),58,5,5 3/4 C,3,12.2,YEGUADA ROCIO,G.ARIZKORRETA,S.MAZUR,,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+8,AARASH,57,5,LEJOS,7,4.5,REZA PAZOOKI,O.ANAYA,R. SOUSA,,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+97,END GAME (FR),57,4,,9,0,E. PEREZ GUZMAN,E.ARGUINZONES,F.MARTINEZ,,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+97,BEL ARISTO (FR),57,5,,8,0,RIO CUBAS,E.LEON,"SR.SARABIA,D.A.",,7 de mayo de 2023,13:15,H - Bueno,3000,Liso,0,Soleado,0,4,23,La Zarzuela
+1,PAMPLONA,57,3,,6,5.7,YEGUADA ROCIO,G.ARIZKORRETA,S.MAZUR,,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,SAFAGA,55,3,1 C,10,2.5,ASOC.LA TOLEDANA-BECARES,CH.DELCHER,R. SOUSA,4,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,FAITH ROSE,57,3,3 1/4 C,3,6.3,TEN FE,P.OLAVE,J.L. BORREGO,,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,FLAMING GLASS,57,3,1/2 C,4,6.6,ARCO,A.SOTO,J.GELABERT,,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,WAMBA,57,3,1/4 C,8,24.3,LAC INTERNACIONAL,A.SOTO,G.SANCHEZ,,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+6,PHILIPPO,57,3,1/2 C,7,5.3,MALLORCA,T.MARTINS,A.ORANI,8,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+7,HEBE,55,3,2 3/4 C,9,14.3,DUQUE DE ALBURQUERQUE,J.M.OSORIO,C.GUITRAUD,,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+8,BLUE MOON EYES,57,3,3 1/2 C,1,44,4 C,E.ARGUINZONES,F.MARTINEZ,8,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+9,BOPPER,57,3,11 1/2 C,2,44,BOLAK,M&M RACING,J.ZAMBUDIO,,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+10,MOM CHERIE (FR) (A),57,3,LEJOS,5,44,EL PLACAJE,F.JIMENEZ,T.LADD,5,7 de mayo de 2023,13:50,H - Bueno,2200,Liso,0,Soleado,0,4,23,La Zarzuela
+1,DAIQUIRYA,53,4,,11,6.8,AJEDREZ RACING,B.RAMA,C.PEREZ,(2)(4)(8),7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,FIJI GOLD (GB),60,4,6 1/4 C,5,33,SOÑADOR,B.RAMA,N.SACCU,3,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,CORRECAMINOS,59,5,1 C,7,16.1,SAN MAMES,T.CALLEJO S.,N. DE JULIAN,3,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,CASANDRA (FR),58,3,NARIZ,4,2.2,MEDITERRANEO,A.SOTO,D.SIKOROVÁ,(4)(8),7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,KOHOOF (GB),52,6,1/4 C,13,18.6,NEW BEGINNINGS,F.JIMENEZ,T.LADD,(2)(4)(8),7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+6,LIGHTNINGSUN,60,5,1/4 C,2,29.4,YEGUADA VALMODOMUS,D.BENITEZ,G.ARGUINZONES,,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+7,BRIBON,53,4,1 1/4 C,12,5.6,ZEZINHO,J.C.CERQUEIRA,C.BUESA,(2)(8),7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+8,PENRHEAD (FR),53,3,1 C,8,28.3,PALCO 7,J.L.MAROTO,L.CASTILLON,3,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+9,FAR AWAY THOUGHTS (GB),63,4,2 C,3,12.8,DIAZ RAMOS,O.ANAYA,R. SOUSA,8,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+10,FORTUNATO (FR),55,3,1 C,10,17.4,4 C,J.C.CERQUEIRA,V.ALONSO V.,8,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+11,SAM BELLAMY (GB),55,5,2 3/4 C,9,32,CARBIAL,O.ANAYA,R.N.VALLE,,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+12,INCREDIT (GB),62,4,3 C,1,35,JIMENEZ,J.JIMENEZ,J.ZAMBUDIO,8,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+13,QUEEN OF GLORY (IRE),60,3,3 C,6,15.7,SAN CRISTOBAL,J.LOPEZ,J.GELABERT,,7 de mayo de 2023,14:25,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
