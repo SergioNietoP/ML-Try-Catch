@@ -1,0 +1,68 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,URABA (FR),53,3,,10,25,COCHETEUX,M.ALVAREZ,D.SIKOROVÁ,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+2,AFRODITA,56,3,1 C,3,"1,7",CARAL,J.L.MAROTO,R. SOUSA,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+3,AYALA,55,3,1 1/2 C,4,"9,4",YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+4,MORE LATE,55,3,1/2 C,9,35,BUELNA EQUII,P. ITURREGUI,D. FERREIRA,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+5,BOPPER,56,3,3/4 C,1,34,BOLAK,M&M RACING,J.ZAMBUDIO,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+6,SIDNEY,56,3,1/4 C,2,10,DELTA,A.TSERETELI,N. DE JULIAN,-8,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+7,HAZY EYE (GB),55,3,1/2 C,7,16,CENTURION,M&M RACING,C.A. LOAIZA,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+8,GOODIE CEN (IRE),55,3,2 C,6,"6,7",CENTURION,M&M RACING,N.SACCU,-3,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+9,DEMBEE (FR) (A),55,3,2 3/4 C,5,"13,7",SANTA BARBARA,J.M.OSORIO,V.ALONSO V.,-8,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+10,MATAS ALTAS,53,3,9 C,12,55,EDIF,B.RAMA,C.PEREZ,-8,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+11,KING OF GLORY (FR),55,3,5 3/4 C,8,"21,7",SAN CRISTOBAL,J.LOPEZ,M.E.FERNANDEZ,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+97,WILDOSCAR (IRE),55,3,,11,0,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,23 de abril de 2023,11:30,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+1,NATURAL TALENT,60,5,,5,4,4 C,J.C.CERQUEIRA,V. JANACEK,(5)(8),23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+2,MEDIANOCHE,62,4,1 1/2 C,3,"2,4",HISPANICA,O.ANAYA,R. SOUSA,,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+3,CONSPIRACY (GB),59,5,1 1/4 C,6,18,PATRIZIA ROSSANA TESTA,M&M RACING,V.ALONSO V.,,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+4,LADY MCQUEEN (IRE),61,4,CABEZA,4,"13,3",CARLOTA,A.CARRASCO,M.E.FERNANDEZ,,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+5,TALES (GB) (A),62,6,3/4 C,1,"11,3",CANARIAS,E.ARGUINZONES,G.ARGUINZONES,(3)(8),23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+6,IL DIVO,55,4,1 1/4 C,11,"19,4",YEGUADA CORTIÑAL,E.ARGUINZONES,C.PEREZ,-8,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+7,UPSDAWN (GB),59,5,1/4 C,7,"14,8",JFC,J.HORCAJADA,J.GELABERT,(5)(4)(8),23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+8,PIRLO,55,5,1 C,9,"11,5",HACIENDA DEL MONASTERIO,C.FERNANDEZ,L.CASTILLON,-2,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+9,CARISMA,56,4,2 C,10,19,HARAS DE LUJAN,E.ARGUINZONES,F.MARTINEZ,-8,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+10,MANIOKA (FR),58,5,11 3/4 C,8,"18,3",OHANA,E.PUENTE,J.ZAMBUDIO,-5,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+11,SAM BELLAMY (GB),62,5,4 C,2,"18,5",CARBIAL,O.ANAYA,R.N.VALLE,-8,23 de abril de 2023,12:05,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+1,FURIOSO,62,7,,2,4,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+2,ARENAL (IRE),56,7,1 1/4 C,8,"21,2",FEROZ,P.OLAVE,J.ZAMBUDIO,,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+3,STOWEMAN (GB),61,6,1 C,3,"4,7",MALLOW GRAN CANARIA,O.ANAYA,R.N.VALLE,-2,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+4,GLORYTOF (FR),56,4,1/2 C,9,"7,3",MEDITERRANEO,A.SOTO,R. SOUSA,,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+5,ADAAYLIGHT DANCER (IRE),57,5,3 C,7,"14,6",MAD MEN,G.ARIZKORRETA,N.SACCU,(3)(4),23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+6,RUGBY INDUS (FR),63,6,1/4 C,1,"14,9",COCHETEUX,F.RODRIGUEZ,C. CADEL,-8,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+7,BOSTON BRUIN (IRE),53,7,1 1/4 C,11,"5,9",ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,J.GELABERT,,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+8,DANCE JUPITER (IRE),59,7,1 1/4 C,4,"11,3",MARQUES DE MIRAFLORES DE SAN ANTONIO,CH.DELCHER,G.MOSSE,-3,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+9,MAX'S THUNDER (IRE),55,6,1 C,10,"18,7",ZUL,C.BUESA,C.BUESA,(5)(2),23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+10,SPANISH COLT (IRE),58,5,4 C,5,"11,7",BRAZACORTA,B.RAMA,M.E.FERNANDEZ,,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+11,PEAKY BLINDERS,57,5,8 3/4 C,6,"14,3",ANAIAK,O.ANAYA,A.OLIVAS,-8,23 de abril de 2023,12:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+1,AZUL (GB),58,4,,8,11,MARISOL,A.SOTO,J.GELABERT,,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+2,UNITED STATES,63,5,1 1/4 C,2,6,TIZIANO,P.OLAVE,C. CADEL,,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+3,SOMETHING,60,4,3/4 C,6,4,MEDITERRANEO,G.ARIZKORRETA,R. SOUSA,,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+4,KENDAYA (IRE),61,5,1/4 C,5,16,AGRADO,CH.DELCHER,M.E.FERNANDEZ,-8,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+5,ALNASHERAT (GB),62,7,1/4 C,3,22,ZACARIAS SARMIENTO,O.ANAYA,D. FERREIRA,-3,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+6,BRAVO,57,4,1/2 C,9,21,YEGUADA ROCIO,G.ARIZKORRETA,G.MOSSE,-3,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+7,IRON DUKE (GER),61,7,2 C,4,15,MALLOW GRAN CANARIA,O.ANAYA,R.N.VALLE,,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+8,EL COMANDANTE,52,3,3/4 C,12,25,ELEVAGE LA REVERDITE,T.MARTINS,F.MARTINEZ,-8,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+9,EL BOSNIA,63,6,1/2 C,1,3,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+10,NEW JACK SWING (IRE),60,6,4 C,7,"21,7",REZA PAZOOKI,O.ANAYA,A.OLIVAS,-2,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+11,ASTIMEGOESBY (IRE),56,5,1/4 C,10,39,ISLA DE FUERTEVENTURA,O.ANAYA,A.MARTINEZ,,23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+12,CORRECAMINOS,52,5,1/2 C,11,13,SAN MAMES,T.CALLEJO S.,V.ALONSO V.,(3)(8),23 de abril de 2023,13:15,H - Bueno,1000,Liso,0,Soleado,0,4,23,La Zarzuela
+1,GOLDEN VOICE (GB),58,4,,2,4,SALVADOR MARQUEZ,O.ANAYA,R. SOUSA,,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+2,UPA LOLA,57,5,1 1/2 C,6,8,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,-8,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+3,ABELARD F (IRE),57,5,1 C,7,"14,5",MARQUES DE MIRAFLORES DE SAN ANTONIO,M.DELCHER S.,G.MOSSE,,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+4,TAMMANI (GB),57,6,1/4 C,10,"12,7",REZA PAZOOKI,O.ANAYA,R.N.VALLE,,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+5,POWERFUL SOLE (GB),57,7,NARIZ,8,14,TINERFE,O.ANAYA,M.E.FERNANDEZ,,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+6,RESACON (GB),58,7,CUELLO,4,"3,4",FORMENTOR,J.M.OSORIO,C. CADEL,,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+7,MAGIC WARRIOR (IRE),58,4,CUELLO,3,"10,5",SCUDERIA DREAMS ROAD,M&M RACING,N. DE JULIAN,,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+8,BLUEBERRY (IRE),58,9,2 1/2 C,1,5,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-8,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+9,STAR OF BENGAL (GB),58,8,1 1/2 C,5,"17,4",JOAQUIN ROMERO,J.C.CERQUEIRA,C.BUESA,(8)(2),23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+97,QUEJO (GB),57,4,,9,0,AGRO CARVALHO,M.CARVALHO,J.ZAMBUDIO,,23 de abril de 2023,13:50,H - Bueno,1400,Liso,0,Soleado,0,4,23,La Zarzuela
+1,MAAMUR (IRE),63,4,,1,4,EL BILLETERO,O.ANAYA,R. SOUSA,-8,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+2,TESSICO (GB),54,4,1/2 C,9,"1,5",CASTILLA,A.SOTO,J.GELABERT,-8,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+3,PRETTY EMERALD (GB),52,4,2 C,11,"15,2",CHAMARTIN,J.HORCAJADA,D.SIKOROVÁ,(5)(8),23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+4,GALINDO,59,5,2 3/4 C,4,"7,2",PALCO ELAMA,J.L.MAROTO,G.MOSSE,-4,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+5,PEKEN (FR),53,4,1/2 C,10,29,A.F.F S.L,F.RODRIGUEZ,F.MARTINEZ,-8,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+6,BABA KARAM,62,6,3/4 C,2,"10,6",REZA PAZOOKI,O.ANAYA,R.N.VALLE,(8)(2),23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+7,VALE (GB),55,9,1 C,7,"17,3",BOLAK,M&M RACING,V.ALONSO V.,(5)(8)(2),23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+8,ALBORAN (FR),57,6,1/2 C,5,"23,2",IGUELDO,B.MORENO,C.PEREZ,-8,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+9,TURCO,54,4,2 1/2 C,8,25,RIO CUBAS,J.HORCAJADA,J.ZAMBUDIO,-8,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+10,BAADIRR (GB),60,6,2 3/4 C,3,"17,7",ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,M.E.FERNANDEZ,,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
+11,LIGHTNINGSUN,57,5,10 C,6,15,YEGUADA VALMODOMUS,D.BENITEZ,V. JANACEK,-5,23 de abril de 2023,14:25,H - Bueno,1500,Liso,0,Soleado,0,4,23,La Zarzuela
