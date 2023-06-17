@@ -1,0 +1,66 @@
+Puesto,NombreCaballo,Peso,Edad,DistanciaMeta,Mantilla,Dividendo,Propietario,Preparador,Jinete,Problemas,Fecha,Hora,Terreno,Distancia,Tipo,SentidoHipodromo,Meteorología,LLuvia,Viento,Temperatura,Hipodromo
+1,SOUVENIR D'ECAJEUL (FR),56,2,0,1,0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,17 de junio de 2023,18:30,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,BERIA (GB),55,2,0,4,0,MORA-FIGUEROA HNOS.,A.SOTO,R.N.VALLE,,17 de junio de 2023,18:30,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,MESSINA (IRE),55,2,0,5,0,SIEMPRE FANI,T.MARTINS,V.SEGUY,,17 de junio de 2023,18:30,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,PRINCESS CHILD (FR),55,2,0,3,0,ECURIE DES MOUETTES,"A.IMAZ,B.",A.GUTIERREZ V.,(3)(8),17 de junio de 2023,18:30,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,SOVEREIGN (FR),54,2,0,2,0,ECURIE DES MOUETTES,"A.IMAZ,B.",C. CADEL ( 55.00 ) ( G .ROJA),-8,17 de junio de 2023,18:30,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+1,RUGBY INDUS (FR) (18000),62,6,0,8,0,COCHETEUX,F.RODRIGUEZ,V. JANACEK,-5,17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+2,HERRING ISLAND (IRE) (15000),60,4,0,3,0,SALVADOR MARQUEZ,O.ANAYA,R. SOUSA,(3)(8),17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+3,PATRICK SARSFIELD (FR) (15000),60,7,0,1,0,MARQUES DE MIRAFLORES DE SAN A,CH.DELCHER,A.GUTIERREZ V.,,17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+4,ARIES (12000),59,4,0,4,0,MAGICA,M&M RACING,J.ZAMBUDIO,,17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+5,BOSTON BRUIN (IRE) (12000),59,7,0,7,0,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,J.GELABERT,-8,17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+6,SHARP COMBO (IRE) (12000),59,4,0,5,0,GIULIA,M&M RACING,V.ALONSO V.,,17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+7,WALKCZAK (FR) (12000),58,4,0,6,0,JULIAN STABLES,F.JIMENEZ,N. DE JULIAN,-8,17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+8,CONCEPCION LINE (IRE) (12000),52,3,0,2,0,DUENDE DEL SUR,CH.DELCHER,M.E.FERNANDEZ,,17 de junio de 2023,19:05,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+1,MADERAS (GB),59,3,0,2,0,SAN DIEGO,G.ARIZKORRETA,V. JANACEK,-8,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+2,A MI LA LEGION,57,3,0,13,0,DELTA,A.TSERETELI,D.FARIA,,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+3,EMPTY POCKETS,57,3,0,10,0,ZUL,C.BUESA,C.BUESA ( 56.00 ),,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+4,ETON MESSER (GB),57,3,0,18,0,LOS NIÑOS,J.C.CERQUEIRA,D. FERREIRA,,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+5,LONE RANGER,57,3,0,19,0,YANKEE RACING,A.SOTO,C. CADEL,(4)(2),17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+6,MOM CHERIE (FR) (A),57,3,0,12,0,EL PLACAJE,F.JIMENEZ,J.L. BORREGO,(3)(8),17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+7,MR RASCAL (GB),57,3,0,6,0,PETIT CANTER,A.TSERETELI,A.GUTIERREZ V.,,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+8,SIDNEY,57,3,0,3,0,DELTA,A.TSERETELI,N. DE JULIAN ( G .ROJA),,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+9,TRAPIO,57,3,0,11,0,RUSH RACING,M&M RACING,V.ALONSO V. ( 56.00 ),,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+10,AFRODITA,56,3,0,14,0,CARAL,J.L.MAROTO,R. SOUSA,-3,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+11,ANDALUSI VALIENTE,55,3,0,9,0,YEGUADA VALIENTE LEO,A.SOTO,C.PEREZ ( 52.00 ),-4,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+12,APACHE,55,3,0,15,0,YEGUADA CORTIÑAL,E.ARGUINZONES,F.MARTINEZ,,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+13,DOCTEUR BAO (FR),55,3,0,17,0,E. PEREZ GUZMAN,E.ARGUINZONES,G.ARGUINZONES ( 54.00 ),(4)(8),17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+14,EL ARCANGEL (IRE),55,3,0,4,0,YEGUADA LOS ARCANGELES,G.ARIZKORRETA,F. VERON,,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+15,FREE JAZZ (GB),55,3,0,16,0,BERNIE,J.LOPEZ,J.GELABERT,-4,17 de junio de 2023,19:40,H - Bueno,1800,Liso,0,Soleado,0,4,23,La Zarzuela
+1,FURIOSO,58,7,0,4,0,YEGUADA ROCIO,G.ARIZKORRETA,F. VERON,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+2,GOLDEN VOICE (GB),58,4,0,9,0,SALVADOR MARQUEZ,O.ANAYA,R.N.VALLE,-8,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+3,LEGIONARIO (GB),58,7,0,8,0,SANTA BARBARA,J.M.OSORIO,V.ALONSO V.,-4,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+4,RESACON (GB),58,7,0,1,0,FORMENTOR,J.M.OSORIO,A.GUTIERREZ V.,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+5,SIMPLY STRIKING (FR),58,7,0,10,0,MEDITERRANEO,M.DELCHER S.,R. SOUSA,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+6,SIR ROQUE (FR) (A),58,7,0,3,0,PEQUES,G.ARIZKORRETA,G.TROLLEY DE PREVAUX,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+7,SMASH HIT (GB),58,5,0,7,0,ISLA DE FUERTEVENTURA,O.ANAYA,J.ZAMBUDIO,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+8,SAMEDI RIEN (IRE),57,4,0,6,0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+9,UPA LOLA,57,5,0,2,0,YEGUADA AGF,G.ARIZKORRETA,J.GELABERT,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+10,SOMMERSUN (FR),54,3,0,5,0,A.F.F S.L,F.RODRIGUEZ,V.SEGUY,,17 de junio de 2023,20:15,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+1,BABA KARAM,63,6,0,7,0,REZA PAZOOKI,O.ANAYA,R. SOUSA,-8,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+2,STAR OF BENGAL (GB),63,8,0,3,0,JOAQUIN ROMERO,J.C.CERQUEIRA,R.N.VALLE,,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+3,CALCAS,62,4,0,4,0,TARAMUNDI,E.ARGUINZONES,F.MARTINEZ,-8,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+4,BRAVO,61,4,0,8,0,YEGUADA ROCIO,G.ARIZKORRETA,V. JANACEK,-5,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+5,CASILDA,61,4,0,2,0,CELSO MENDEZ,M.ALVAREZ,A.GUTIERREZ V.,,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+6,GALINDO,60,4,0,1,0,PALCO ELAMA,J.L.MAROTO,J.L. BORREGO,-4,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+7,BAADIRR (GB),59,4,0,5,0,ENRIQUE FERNANDEZ DE VEGA,J.LOPEZ,J.GELABERT,(5)(8),17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+8,RUSHDY (IRE),58,4,0,9,0,PEDRA BELA,D.SOUSA,N.SANTOS,-3,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+9,MAX'S THUNDER (IRE),57,6,0,6,0,ZUL,C.BUESA,C.BUESA,,17 de junio de 2023,20:50,H - Bueno,1600,Liso,0,Soleado,0,4,23,La Zarzuela
+1,BARBADO,63,5,0,1,0,WONDERLAND,O.ANAYA,R. SOUSA,-8,17 de junio de 2023,21:15,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,KENDAYA (IRE),62,5,0,5,0,AGRADO,CH.DELCHER,G.ARGUINZONES ( 59.50 ),-5,17 de junio de 2023,21:15,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,TELEMACHUS (GB),62,4,0,4,0,DIAZ RAMOS,O.ANAYA,R.N.VALLE,,17 de junio de 2023,21:15,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,HACKNEY ROAD (GB),60,10,0,2,0,DE LA HIGUERA,F.PEREZ,J.L. BORREGO,-3,17 de junio de 2023,21:15,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,CLIFFORD,57,3,0,3,0,PLANTAGENET,G.ARIZKORRETA,V. JANACEK,,17 de junio de 2023,21:15,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+6,ASTIMEGOESBY (IRE),56,5,0,6,0,ISLA DE FUERTEVENTURA,O.ANAYA,A.OLIVAS ( 53.50 ),-2,17 de junio de 2023,21:15,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+7,LIGHTNINGSUN,56,5,0,7,0,YEGUADA VALMODOMUS,D.BENITEZ,C.PEREZ ( 53.00 ),(5)(8)(2),17 de junio de 2023,21:15,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+1,CORRECAMINOS,63,5,0,9,0,SAN MAMES,T.CALLEJO S.,C.PEREZ ( 60.00 ),,17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+2,TEYMUR,62,3,0,8,0,REZA PAZOOKI,O.ANAYA,R. SOUSA,-8,17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+3,COSI COSI,61,3,0,3,0,OLEOVID,A.CARRASCO,G.ARGUINZONES ( 58.50 ),,17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+4,BORONDON (FR),61,4,0,1,0,SAN MARCOS,F.PEREZ,D. FERREIRA,,17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+5,BRIBON,61,4,0,2,0,ZEZINHO,J.C.CERQUEIRA,V. JANACEK,,17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+6,SAM BELLAMY (GB),60,5,0,5,0,CARBIAL,O.ANAYA,J.L. BORREGO,-3,17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+7,CONSPIRACY (GB),58,5,0,6,0,PATRIZIA ROSSANA TESTA,M&M RACING,V.ALONSO V. ( 57.50 ),(3)(8),17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+8,PERILLAN,58,3,0,7,0,E. PEREZ GUZMAN,E.ARGUINZONES,J.GELABERT,(3)(8),17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+9,KOHOOF (GB),57,6,0,10,0,NEW BEGINNINGS,F.JIMENEZ,R.N.VALLE,(6)(8)(2),17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+10,UPSDAWN (GB),56,5,0,4,0,JFC,J.HORCAJADA,M.E.FERNANDEZ,(5)(4)(8),17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
+11,MANIOKA (FR),56,5,0,11,0,OHANA,C.FERNANDEZ,J.ZAMBUDIO ( 55.00 ),(8)(2),17 de junio de 2023,22:10,H - Bueno,1200,Liso,0,Soleado,0,4,23,La Zarzuela
